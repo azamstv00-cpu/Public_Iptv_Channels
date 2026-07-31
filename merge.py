@@ -93,11 +93,7 @@ def combined_attrs(attrs, source_name):
         attr_part, _, name_part = attrs.partition(",")
     else:
         attr_part, name_part = attrs, ""
-    parsed = {}
-    for match in re.finditer(r'([\w-]+)="([^"]*)"', attr_part):
-        parsed[match.group(1)] = match.group(2)
-    original = parsed.get("group-title")
-    combined = f"{source_name}-{original}" if original else source_name
+    combined = source_name
     if "group-title=" in attr_part:
         attr_part = re.sub(
             r'group-title="[^"]*"', f'group-title="{combined}"', attr_part, count=1
