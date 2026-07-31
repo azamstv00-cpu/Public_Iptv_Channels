@@ -84,9 +84,29 @@ def parse_playlist(text):
     return [c for c in channels if c.url]
 
 
-def group_title(channel, source_name):
-    attrs = channel.attrs_dict()
-    return attrs.get("group-title") or source_name
+def normalize_label(label):
+    return re.sub(r"\s*\(\d+\)\s*$", "", label).strip() or label
+
+
+def combined_attrs(attrs, source_name):
+    if "," in attrs:
+        attr_part, _, name_part = attrs.partition(",")
+    else:
+        attr_part, name_part = attrs, ""
+    parsed = {}
+    for match in re.finditer(r'([\w-]+)="([^"]*)"', attr_part):
+        parsed[match.group(1)] = match.group(2)
+    original = parsed.get("group-title")
+    combined = f"{source_name}-{original}" if original else source_name
+    if "group-title=" in attr_part:
+        attr_part = re.sub(
+            r'group-title="[^"]*"', f'group-title="{combined}"', attr_part, count=1
+        )
+    else:
+        attr_part = (attr_part.rstrip() + f' group-title="{combined}"').strip()
+    if name_part:
+        return f"{attr_part},{name_part}"
+    return attr_part
 
 
 def build_merged(sources, personal_text, labels=None):
@@ -94,15 +114,15 @@ def build_merged(sources, personal_text, labels=None):
     merged = {}
     source_order = {}
 
-    def add_channels(channels, source_name, priority):
+    def add_channels(channels, source_name, priority, is_personal=False):
         for ch in channels:
             key = ch.url
             if key in merged:
                 continue
             merged[key] = ch
-            source_order[key] = (priority, source_name)
+            source_order[key] = (priority, source_name, is_personal)
 
-    add_channels(parse_playlist(personal_text), "Personal", 0)
+    add_channels(parse_playlist(personal_text), "Personal", 0, is_personal=True)
 
     seen = set()
     for source in sources:
@@ -122,20 +142,24 @@ def build_merged(sources, personal_text, labels=None):
 
     groups = {}
     for key, ch in merged.items():
-        priority, source_name = source_order[key]
-        group = group_title(ch, source_name)
-        groups.setdefault(group, []).append((priority, ch))
+        priority, source_name, is_personal = source_order[key]
+        if is_personal:
+            group = ch.attrs_dict().get("group-title") or "Personal"
+        else:
+            group = source_name
+        groups.setdefault(group, []).append((priority, ch, is_personal))
 
     return groups
 
 
 def render_m3u8(groups):
     lines = ["#EXTM3U", ""]
-    for group in sorted(groups, key=str.lower):
-        channels = sorted(groups[group], key=lambda item: item[1].name.lower())
+    for group, items in groups.items():
+        channels = sorted(items, key=lambda item: item[1].name.lower())
         lines.append(f"#GROUP-TITLE:{group}")
-        for _, ch in channels:
-            lines.append(f"#EXTINF:-1{(' ' + ch.attrs).rstrip()}")
+        for _, ch, is_personal in channels:
+            attrs = ch.attrs if is_personal else combined_attrs(ch.attrs, group)
+            lines.append(f"#EXTINF:-1{(' ' + attrs).rstrip()}")
             for directive in ch.directives:
                 lines.append(directive)
             lines.append(ch.url)
@@ -163,7 +187,7 @@ def main():
             current_label = line.lstrip()[1:].strip() or current_label
         else:
             sources.append(line)
-            labels[line] = current_label or os.path.basename(line)
+            labels[line] = normalize_label(current_label or os.path.basename(line))
 
     personal_text = ""
     if os.path.exists(args.personal):
@@ -187,7 +211,7 @@ def main():
         fh.write("\n".join(lines) + "\n")
 
     print(f"Done: {total} channels in {len(groups)} groups -> {args.output}")
-    for group in sorted(groups, key=str.lower):
+    for group in groups:
         print(f"  {group}: {len(groups[group])} channels")
 
 
