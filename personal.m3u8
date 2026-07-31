@@ -1,3 +1,51 @@
 #EXTM3U
-# Replace this file with your own personal channel list.
-# Keep the #EXTM3U header on the first line and one URL line after each #EXTINF line.
+#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-name="Caze m3u8" group-title="Personal-Collection",Caze m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-name="Caze Tv HD 1" group-title="Personal-Collection",Caze Tv HD 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 tvg-chno="4" tvg-name="Caze Tv HD 2" group-title="Personal-Collection",Caze Tv HD 2
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+#EXTINF:-1 tvg-chno="5" tvg-name="CTV AQ" group-title="Personal-Collection",CTV AQ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fyfcwdbtmr/out/v1/02411c3777274c9eb5d572a0fb22a5b4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=51a4a5ab615c381304b8dd795282fd7e:1e6f4096000b31668c11d5cd339d8cac
+#EXTINF:-1 tvg-chno="6" tvg-name="D sports 1" group-title="Personal-Collection",D sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTINF:-1 tvg-chno="7" tvg-name="D sports 2" group-title="Personal-Collection",D sports 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#EXTINF:-1 tvg-chno="8" tvg-name="FOX 1 HD" group-title="Personal-Collection",FOX 1 HD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
+#EXTINF:-1 tvg-chno="9" tvg-name="FOX AQ 1" group-title="Personal-Collection",FOX AQ 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=48afc63fa0ecccc3a71f46d3fda20249:c7cd8801e238a263fe4349a95682b83b
+#EXTINF:-1 tvg-chno="10" tvg-name="FOX AQ 2" group-title="Personal-Collection",FOX AQ 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 tvg-chno="11" tvg-name="FOX AQ 3" group-title="Personal-Collection",FOX AQ 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 tvg-chno="12" tvg-name="FOX AQ 4" group-title="Personal-Collection",FOX AQ 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 tvg-chno="13" tvg-name="FOX AQ 4k 1" group-title="Personal-Collection",FOX AQ 4k 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+#EXTINF:-1 tvg-chno="14" tvg-name="FOX AQ 4k 2" group-title="Personal-Collection",FOX AQ 4k 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+#EXTINF:-1 tvg-chno="15" tvg-name="FOX AQ 5" group-title="Personal-Collection",FOX AQ 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=48afc63fa0ecccc3a71f46d3fda20249:c7cd8801e238a263fe4349a95682b83b
+#EXTINF:-1 tvg-chno="16" tvg-name="Fox HD 1" group-title="Personal-Collection",Fox HD 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+#EXTINF:-1 tvg-chno="17" tvg-name="ITV Sports FHD" group-title="Personal-Collection",ITV Sports FHD
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+#EXTINF:-1 tvg-chno="18" tvg-name="SporTv" group-title="Personal-Collection",SporTv
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#EXTINF:-1 tvg-chno="20" tvg-name="TNS AQ 1" group-title="Personal-Collection",TNS AQ 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 tvg-chno="21" tvg-name="TSN AQ 2" group-title="Personal-Collection",TSN AQ 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 tvg-chno="22" tvg-name="TUDN Mexico" group-title="Personal-Collection",TUDN Mexico
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+#EXTINF:-1 tvg-chno="23" tvg-name="TVE La 1" group-title="Personal-Collection",TVE La 1
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
+#EXTINF:-1 tvg-chno="24" tvg-name="Vietnamese 1" group-title="Personal-Collection",Vietnamese 1
+https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-name="WC Tv" group-title="Personal-Collection",WC Tv
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
+#EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
