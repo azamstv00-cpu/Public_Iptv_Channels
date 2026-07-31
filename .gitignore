@@ -1,0 +1,4 @@
+# Local-only files (private DRM keys etc.) - not published
+channels.json
+__pycache__/
+*.pyc
