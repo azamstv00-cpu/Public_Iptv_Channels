@@ -34,11 +34,13 @@ All playlist credit belongs to the original creators. This repository only aggre
 | Fancode (1) | [srhady/Fancode-bd](https://github.com/srhady/Fancode-bd) | Md Sohanur Rahman Hady | [@livesportsplay](https://t.me/livesportsplay) |
 | Sony Liv | [srhady/SonyLiv](https://github.com/srhady/SonyLiv) | Md Sohanur Rahman Hady | [@livesportsplay](https://t.me/livesportsplay) |
 | Akash Go | [srhady/Hady](https://github.com/srhady/Hady) | Md Sohanur Rahman Hady | [@livesportsplay](https://t.me/livesportsplay) |
+| Willow Events | [srhady/willow-event](https://github.com/srhady/willow-event) | Md Sohanur Rahman Hady | [@livesportsplay](https://t.me/livesportsplay) |
+| Prime Video | [srhady/willow-event](https://github.com/srhady/willow-event) | Md Sohanur Rahman Hady | [@livesportsplay](https://t.me/livesportsplay) |
 
 ### Playlist credits
 
 - **AynaOTT, Fancode (2), Tapmad (2)** — credit: **Monirul Islam** ([GitHub](https://github.com/sm-monirulislam) · [Telegram](https://t.me/monirul_Islam_SM))
-- **Tapmad (1), Fancode (1), Sony Liv, Akash Go** — credit: **Md Sohanur Rahman Hady** ([GitHub](https://github.com/srhady) · [Telegram](https://t.me/livesportsplay))
+- **Tapmad (1), Fancode (1), Sony Liv, Akash Go, Willow Events, Prime Video** — credit: **Md Sohanur Rahman Hady** ([GitHub](https://github.com/srhady) · [Telegram](https://t.me/livesportsplay))
 
 ## Attribution and copyright
 

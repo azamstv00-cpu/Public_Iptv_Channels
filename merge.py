@@ -10,13 +10,15 @@ import argparse
 import os
 import re
 import sys
-import time
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SOURCES_FILE = os.path.join(ROOT, "sources.txt")
 PERSONAL_FILE = os.path.join(ROOT, "personal.m3u8")
 OUTPUT_FILE = os.path.join(ROOT, "playlist.m3u8")
+
+BST = timezone(timedelta(hours=6))
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -152,7 +154,7 @@ def render_m3u8(groups):
     lines = ["#EXTM3U", ""]
     for group, items in groups.items():
         channels = sorted(items, key=lambda item: item[1].name.lower())
-        lines.append(f"#GROUP-TITLE:{group}")
+        lines.append(f"#SOURCE-TITLE:{group}")
         for _, ch, is_personal in channels:
             attrs = ch.attrs if is_personal else combined_attrs(ch.attrs, group)
             lines.append(f"#EXTINF:-1{(' ' + attrs).rstrip()}")
@@ -196,8 +198,8 @@ def main():
     total = sum(len(v) for v in groups.values())
     lines = [
         "#EXTM3U",
-        f"# Merged by ChannelMerger",
-        f"# Generated: {time.strftime('%Y-%m-%d %H:%M:%S %Z')}",
+        f"# Merged by EftyNur",
+        f"# Generated: {datetime.now(BST).strftime('%Y-%m-%d %H:%M:%S')} Bangladesh Standard Time",
         f"# Sources: {len(sources)} | Channels: {total} | Groups: {len(groups)}",
         "",
     ]
