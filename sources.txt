@@ -1,5 +1,4 @@
-# AynaOTT
-https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u
+
 # Tapmad (1)
 https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
 # Fancode (1)
@@ -10,8 +9,6 @@ https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlis
 https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/fancode_bd.m3u
 # Tapmad (2)
 https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/refs/heads/main/Tapmad_sm.m3u
-# Akash Go
-https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u
 # Willow Events
 https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
 # Prime Video
