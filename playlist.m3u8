@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-05 19:40:06 Bangladesh Standard Time
-# Sources: 7 | Channels: 46 | Groups: 6
+# Generated: 2026-08-05 20:02:06 Bangladesh Standard Time
+# Sources: 7 | Channels: 47 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -57,8 +57,8 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15237" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859079721020x576women.jpg" group-title="Tapmad", Manchester Super Giants vs Welsh Fire - Women | The Hundred Women's Competition 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859081741020x576men.jpg" group-title="Tapmad", Manchester Super Giants vs Welsh Fire | The Hundred Men's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857453641020x576.jpg" group-title="Tapmad", Tekken 8 - Day 1 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
@@ -69,14 +69,16 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/master.m3u8?hdnea=exp=1785957645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb4f7fc241f16140e4dd1030531bc668fe6a8fb128ee1574b16f96f294540405
 #EXTINF:-1 tvg-id="sonyliv-1090538625" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg" group-title="Sony Liv", India Army FT vs Baghpat FC - 5 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/master.m3u8?hdnea=exp=1785957634~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a2605169be69ebad66585b3aa26921704ec232a1720e0a262e7115d5f51098e2
+#EXTINF:-1 tvg-id="sonyliv-1090538632" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511176060631_The_Hundred2026_mens_Manchester_Super_Giants_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Sony Liv", Manchester Super Giants vs Welsh Fire - 5 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785959434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=15633e402da39f4a689bcdb9b7d9e3dd55e0ef656ea43320fb30c495bd1efa4f
+#EXTINF:-1 tvg-id="sonyliv-1090538636" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511202234131_The_Hundred2026_wimens_Trent_Rockets_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Sony Liv", Trent Rockets vs Birmingham Phoenix - 5 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1785959443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ffbe6cfab971f6029245425d5346c824aa886db04b4faf53d83da2462fb874a
 
 #SOURCE-TITLE:Fancode
-#EXTINF:-1 tvg-name="Chelsea Vs Juventus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png" group-title="Fancode",Chelsea Vs Juventus
-https://bd-mc-pdlive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="Fancode",Jaffna Kings Vs Galle Gallants
-https://bd-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247969_53005_PD_CDK_fc-Web.png" group-title="Fancode",Purani Dilli 6 Vs Central Delhi Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4247969_english_hls_530117550a4719_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Kandy Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg" group-title="Fancode",Colombo Kaps Vs Kandy Royals
+https://bd-mc-pdlive.fancode.com/mumbai/4246725_english_hls_4970c22efa72931_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="East Delhi Riders Vs North Delhi Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247976_53005_EDR_NDS_fc-Web_1785835769220.png" group-title="Fancode",East Delhi Riders Vs North Delhi Strikers
+https://bd-mc-pdlive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="United Arab Emirates Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png" group-title="Fancode",United Arab Emirates Vs Canada
 https://bd-mc-pdlive.fancode.com/mumbai/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan
