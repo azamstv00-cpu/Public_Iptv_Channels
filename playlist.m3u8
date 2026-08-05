@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-06 04:10:40 Bangladesh Standard Time
-# Sources: 7 | Channels: 33 | Groups: 4
+# Generated: 2026-08-06 05:57:56 Bangladesh Standard Time
+# Sources: 7 | Channels: 33 | Groups: 3
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -57,8 +57,6 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Fancode
-#EXTINF:-1 tvg-name="Arsenal Vs Real Betis" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg" group-title="Fancode",Arsenal Vs Real Betis
-https://bd-mc-pdlive.fancode.com/mumbai/4248019_english_hls_392fbb236a92017_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court
 https://bd-mc-pdlive.fancode.com/mumbai/4248070_english_hls_2b9e9162e461559_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Court 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 5
@@ -68,24 +66,28 @@ https://bd-mc-pdlive.fancode.com/mumbai/4248071_english_hls_aa2e4f4c4156569_1ta-
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4248072_english_hls_e38b7f85bd21740_1ta-di_h264/index.m3u8
 
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H78R6P83" tvg-name="Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/12/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a24bbb091c849a230e8aad435a941a69:3d40240333ded1b4a60e14b34aeaa58a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/otsc0y4fff/out/v1/70d1e416ce274818b66430b3b88dde9a/cenc.mpd
-
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H9RNT4L1" tvg-name="AMA National Motocross Championship at Loretta Lynn's" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea2a32e4-166d-4dce-b17f-eeae32cfdab1/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",AMA National Motocross Championship at Loretta Lynn's
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 #EXTINF:-1 tvg-id="B0H93ZRTCZ" tvg-name="Canada group-title="Prime Video", ATP/WTA 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.683cf6ad-3b6d-4baf-bf52-1e88ac0cef0c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canada, ATP/WTA 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="B0H42CNXSX" tvg-name="First Semifinal: Teams" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8c52f9a8-b8d5-49e0-932a-5e51d30a4992/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",First Semifinal: Teams
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HC3NDZ31" tvg-name="Lincoln vs Kansas City - AA Baseball 2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93d67ee9-08cc-41d5-8a9e-6c450e756c06/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lincoln vs Kansas City - AA Baseball 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0GVZVN916" tvg-name="Northwood League: Wausau Woodchucks at Kenosha Kingfish" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1736650f-ae3a-40a9-9977-518aa4fb3ea6/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Northwood League: Wausau Woodchucks at Kenosha Kingfish
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
