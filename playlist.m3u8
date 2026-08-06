@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-06 14:31:19 Bangladesh Standard Time
-# Sources: 7 | Channels: 28 | Groups: 3
+# Generated: 2026-08-06 17:20:58 Bangladesh Standard Time
+# Sources: 7 | Channels: 32 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,20 +56,38 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090538663" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg" group-title="Sony Liv", Bodoland FC vs FC 1 - 6 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/football0608/ENG/master.m3u8?hdnea=exp=1786031434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=865f5fd23581a0501c9c3ff7b5a4c20414d075fcc1bd83e23e4b8d55b3a975e1
+
 #SOURCE-TITLE:Fancode
+#EXTINF:-1 tvg-name="Day 1   Main Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" group-title="Fancode",Day 1   Main Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4248185_english_hls_5dab612fcd71433_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="South Delhi Superstarz Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png" group-title="Fancode",South Delhi Superstarz Vs Outer Delhi Warriors
 https://bd-mc-pdlive.fancode.com/mumbai/4247975_english_hls_75a4fe130f92250_1ta-di_h264/index.m3u8
 
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HC73VR22" tvg-name="Global e-Cricket Premier League 2026 - 36th Match - Gujarat Wolves vs Bengaluru Badgers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5bd4096-d8ff-489a-bb35-d3d19b7fc5c6/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 36th Match - Gujarat Wolves vs Bengaluru Badgers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db4b260ec08ef5c8c3af4f2a0b0806:b89d0e3faae9af922bd169b1ad009b54
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd
+
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H4ZCVXZD" tvg-name="Phygital Just Dance group-title="Prime Video", Group Stage" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.103abcc6-9957-4197-a12d-d1513f6b382a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Just Dance, Group Stage
+#EXTINF:-1 tvg-id="B0HCCBVYWL" tvg-name="Gujarat Wolves vs. Bengaluru Badgers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f815102-3b77-4ae1-bf3c-851ac5e45eda/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Gujarat Wolves vs. Bengaluru Badgers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBQPJ66V" tvg-name="Phygital Football group-title="Prime Video", Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f77d698-e7cb-4950-837c-a08fc420b60b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Football, Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="B0H6KCG4TN" tvg-name="North Harbour v Counties Manukau" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.783ede0b-c9bc-4137-8688-5507c5e058c7/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",North Harbour v Counties Manukau
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
