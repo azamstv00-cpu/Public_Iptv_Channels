@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-07 17:42:51 Bangladesh Standard Time
-# Sources: 7 | Channels: 39 | Groups: 6
+# Generated: 2026-08-07 18:56:42 Bangladesh Standard Time
+# Sources: 7 | Channels: 40 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,55 +56,61 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860840241020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860838291020x576.jpg" group-title="Tapmad", Tekken 8 - Day 3 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090538724" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707723503385_DC26_East_Bengal_FC_vs_South_United_FC_landscape_thumb.jpg" group-title="Sony Liv", East Bengal FC vs South United FC - 7 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/master.m3u8?hdnea=exp=1786128637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cfd9f580a4812d08788013df1ac73b662725a28e8b5b05a482da01d9b8012ea5
+
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HCL9R674" tvg-name="Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa0c24e5-e1e3-4036-808f-7943279cda23/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
-#EXTINF:-1 tvg-id="B0H7RDDRPK" tvg-name="Global e-Cricket Premier League 2026 - 43rd Match - Hyderabad Rhinos vs Mumbai Grizzlies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abaa4729-9f4d-4322-8480-9ad5259f9837/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 43rd Match - Hyderabad Rhinos vs Mumbai Grizzlies
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
+#EXTINF:-1 tvg-id="B0H9J3H2FN" tvg-name="Global e-Cricket Premier League 2026 - 44th Match - Delhi Sharks vs Kolkata Hawks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e69d9b07-0d5e-4b34-a4ad-4d26a1ce3f62/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 44th Match - Delhi Sharks vs Kolkata Hawks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a37ac4bd208dda867f0a354c761962:71961a2dff6af415e30bc15ecb010a1d
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/t1i58bfcpt/out/v1/8898eb090cf645439d1bfb59e23d4515/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090538729" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078899750452_SLvsIND_warmup_match1_day1_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786112434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d031ae4bb2f252cbaa852e2a7c32f6ac1ff26ae0b6b1eac44533e68fe93716fa
-#EXTINF:-1 tvg-id="sonyliv-1090538721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707590058385_DC26_SC_DELHI_vs_Defenders_FC_landscape_thumb.jpg" group-title="Sony Liv", SC DELHI vs Defenders FC - 7 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/master.m3u8?hdnea=exp=1786117840~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7cd0bb2f9c73bf26328bfd041e9b781f57db6cd6a4810e95647d99ee1c5dea68
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860840241020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=9680249e6ae44fc1fdf0654055598478:17d140afa5cee2215c0fc0b531ebd53a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k2rfwfpbkd/out/v1/cdb13551280247a1a349af5d0be602e5/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCJ7FCYS" tvg-name="Global e-Cricket Premier League 2026 - 45th Match - Gujarat Wolves vs Pune Stallions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4889cad4-4fc9-4ce1-b8e3-60c9aef49068/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 45th Match - Gujarat Wolves vs Pune Stallions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f762f972c6b7dc0424723c8fa9695b97:683e95c9a751bf1b0a798f1ff6bb74f6
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/pt9ccjpxo3/out/v1/f8d1ab83fdee46518fbb4020470fd04e/cenc.mpd
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HCC3F4WT" tvg-name="Qatar Airways Grand Prix of Great Britain group-title="Prime Video", Free Practice 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.649f1ae2-3dc9-4f3b-9042-2084becdcb10/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain, Free Practice 1
+#EXTINF:-1 tvg-id="B0HBXDYFGN" tvg-name="Bayern München vs. Aston Villa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7cf1f2a-e55c-4996-b9fe-979875dbe0e4/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Bayern München vs. Aston Villa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABBI53HAAAAAAAAMHQK6H5VRJB7V6.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqiWWkBhpqdZ8kA2pjbG91ZGZyb250Angpc3NpZDplNWQ3ZjBlNS1hODAzLTQwMTUtOWZkNy0wZjYwODEzMDZiYzcZATihBaECeDMvOGhzeHo0ZHh1MC9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmYZATyBYlVTWCAcuy3cBboEi0BpUqASZkjAZKuF9GopNi0uFSvRIJrqxw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/8hsxz4dxu0/out/v1/8197c8e055c94a868623653ac55c10bf/ec6aa7cb-f07b-4e0b-93b0-c0008bd81eec-cenc.mpd?aws.sessionId=2853abef-3b4a-4abb-9c44-b1c1643cc549
-#EXTINF:-1 tvg-id="B0HBCMMWQ4" tvg-name="Hyderabad Rhinos vs. Mumbai Grizzlies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f2797a8c-b97c-4807-9e02-e1d57d367673/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hyderabad Rhinos vs. Mumbai Grizzlies
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0H8JGN4FW" tvg-name="Gujarat Wolves vs. Pune Stallions" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a360e14e-173d-488a-9c42-61a6280fd62a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Gujarat Wolves vs. Pune Stallions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-id="B0H3M4Q7NB" tvg-name="PPA Tour: Asia Ho Chi Minh-Round of 16 and Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9b7bf52-a247-4521-b3c3-c6708086e6be/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Round of 16 and Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 #EXTINF:-1 tvg-id="B0HBWZ8G9N" tvg-name="Phygital Football group-title="Prime Video", Quarterfinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d933ab0-9582-4747-8f90-6880cb94c20a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Football, Quarterfinal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Aston Villa vs Bayern Munich" group-title="HimelOp",Aston Villa vs Bayern Munich
