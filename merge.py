@@ -7,6 +7,7 @@ playlist.m3u8.
 """
 
 import argparse
+import concurrent.futures
 import os
 import re
 import sys
@@ -17,6 +18,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 SOURCES_FILE = os.path.join(ROOT, "sources.txt")
 PERSONAL_FILE = os.path.join(ROOT, "personal.m3u8")
 OUTPUT_FILE = os.path.join(ROOT, "playlist.m3u8")
+SKIP_FILE = os.path.join(ROOT, "skip.txt")
 
 BST = timezone(timedelta(hours=6))
 
@@ -24,6 +26,9 @@ USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 )
+
+DEFAULT_TIMEOUT = 15
+MAX_WORKERS = 5
 
 EXTINF_RE = re.compile(r"^#EXTINF:(?P<duration>-?\d+(?:\.\d+)?)(?P<attrs>.*)")
 
@@ -44,7 +49,7 @@ class Channel:
         return parsed
 
 
-def fetch(url, timeout=30):
+def fetch(url, timeout=DEFAULT_TIMEOUT):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         data = resp.read()
@@ -107,10 +112,34 @@ def combined_attrs(attrs, source_name):
     return attr_part
 
 
-def build_merged(sources, personal_text, labels=None):
+def load_skip_list():
+    if not os.path.exists(SKIP_FILE):
+        return set()
+    with open(SKIP_FILE, encoding="utf-8") as fh:
+        return {line.strip() for line in fh if line.strip()}
+
+
+def save_skip_list(skip_set):
+    with open(SKIP_FILE, "w", encoding="utf-8") as fh:
+        for url in sorted(skip_set):
+            fh.write(url + "\n")
+
+
+def fetch_one(url, timeout):
+    try:
+        text = fetch(url, timeout)
+        channels = parse_playlist(text)
+        return url, channels, None
+    except Exception as exc:
+        return url, None, exc
+
+
+def build_merged(sources, personal_text, labels=None, skip_list=None, force=False):
     labels = labels or {}
+    skip_list = skip_list or set()
     merged = {}
     source_order = {}
+    new_skips = set()
 
     def add_channels(channels, source_name, priority, is_personal=False):
         for ch in channels:
@@ -122,21 +151,34 @@ def build_merged(sources, personal_text, labels=None):
 
     add_channels(parse_playlist(personal_text), "Personal", 0, is_personal=True)
 
-    seen = set()
+    active_sources = []
     for source in sources:
-        if source in seen:
+        if source in skip_list and not force:
+            print(f"  [skip] {source}: in skip.txt")
+            new_skips.add(source)
             continue
-        seen.add(source)
-        try:
-            text = fetch(source)
-        except Exception as exc:
-            print(f"  [skip] {source}: {exc}", file=sys.stderr)
-            continue
-        channels = parse_playlist(text)
-        if not channels:
-            print(f"  [warn] {source}: no channels found", file=sys.stderr)
-        label = labels.get(source, source)
-        add_channels(channels, label, len(seen))
+        active_sources.append(source)
+
+    if active_sources:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = {
+                executor.submit(fetch_one, source, DEFAULT_TIMEOUT): source
+                for source in active_sources
+            }
+            for future in concurrent.futures.as_completed(futures):
+                url, channels, error = future.result()
+                if error:
+                    print(f"  [error] {url}: {error}", file=sys.stderr)
+                    new_skips.add(url)
+                    continue
+                if not channels:
+                    print(f"  [empty] {url}: no channels (will retry next run)")
+                else:
+                    print(f"  [ok] {url}: {len(channels)} channels")
+                label = labels.get(url, url)
+                add_channels(channels, label, 0)
+
+    save_skip_list(new_skips)
 
     groups = {}
     for key, ch in merged.items():
@@ -172,6 +214,10 @@ def main():
     )
     parser.add_argument("--personal", default=PERSONAL_FILE, help="path to personal.m3u8")
     parser.add_argument("--output", default=OUTPUT_FILE, help="path to output file")
+    parser.add_argument(
+        "--force", action="store_true",
+        help="ignore skip.txt and re-fetch all sources"
+    )
     args = parser.parse_args()
 
     with open(args.sources, encoding="utf-8") as fh:
@@ -192,8 +238,12 @@ def main():
         with open(args.personal, encoding="utf-8") as fh:
             personal_text = fh.read()
 
-    print(f"Merging {len(sources)} sources...")
-    groups = build_merged(sources, personal_text, labels=labels)
+    skip_list = load_skip_list()
+    if args.force:
+        skip_list = set()
+
+    print(f"Merging {len(sources)} sources ({len(skip_list)} skipped)...")
+    groups = build_merged(sources, personal_text, labels=labels, skip_list=skip_list, force=args.force)
 
     total = sum(len(v) for v in groups.values())
     lines = [
