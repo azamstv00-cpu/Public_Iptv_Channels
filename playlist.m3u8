@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-08 12:45:59 Bangladesh Standard Time
-# Sources: 8 | Channels: 33 | Groups: 4
+# Generated: 2026-08-08 13:46:12 Bangladesh Standard Time
+# Sources: 8 | Channels: 34 | Groups: 4
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -58,17 +58,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090538798_ENG" tvg-name="Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786211620~acl=/*~id=07000939297071769970235946773252~hmac=f0ff1aaabb26038bbebfa55522eec1213ccb1014321fbf1917a7ad5637ef5774
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786214713~acl=/*~id=25387516897072295959419886256338~hmac=4de28363b57ed5e7aefc7c631afcf11de57ac07478f162618142d6c2827331f0
 #EXTINF:-1 tvg-id="sonyliv-1090538801" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786182630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1135901d0c017e60c627d08b675efce68dbd5a5568b235aa9feebdf90ecf0a0d
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HBX2MD1B" tvg-name="Hawke's Bay v Tasman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc7578f7-283f-4deb-ab35-9e4616b6d273/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hawke's Bay v Tasman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
 #EXTINF:-1 tvg-id="B0HCT5WN87" tvg-name="PPA Tour: Asia Ho Chi Minh-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b539806-a5a1-4cba-ba78-979d9a13dfdb/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Aston Villa vs Bayern Munich" group-title="HimelOp",Aston Villa vs Bayern Munich
