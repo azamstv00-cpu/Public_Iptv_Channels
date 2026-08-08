@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
 https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u
 # Sony Liv
 https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+# Sony Liv (2)
+https://raw.githubusercontent.com/sm-monirulislam/SonyLiv_Event_Playlist/refs/heads/main/sonyLiv.m3u
 # Tapmad (2)
 https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/refs/heads/main/Tapmad_sm.m3u
 # Willow Events
