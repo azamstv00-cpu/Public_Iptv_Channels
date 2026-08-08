@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-08 21:26:31 Bangladesh Standard Time
+# Generated: 2026-08-08 22:29:31 Bangladesh Standard Time
 # Sources: 8 | Channels: 51 | Groups: 6
 
 
@@ -59,8 +59,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15207" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860884381020x576men.jpg" group-title="Tapmad", MI London vs Trent Rockets | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860927951020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 3 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15242" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860919381020x576women.jpg" group-title="Tapmad", Southern Brave vs Manchester Super Giants - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15703" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860926281020x576.jpg" group-title="Tapmad", Tekken 8 - Day 4 | Esports World Cup 2026 (EWC)
@@ -69,36 +67,30 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090538818" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543358220955_the_hundred_mens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Sony Liv", MI London vs Trent Rockets - 8 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786216835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a119b2f3ca93df4ea38fe869a490fe6e6da28786df355fef84488431e184cdd
-#EXTINF:-1 tvg-id="1090538815_ENG" tvg-name="North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg" group-title="Sony Liv",North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786243862~acl=/*~id=35492551580842995527564597778324~hmac=6ceb734421eb1c54ec37663c062041b5b6e25c9841c31b67d53f935a2e0ebe98
-#EXTINF:-1 tvg-id="sonyliv-1090538815" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg" group-title="Sony Liv", North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/master.m3u8?hdnea=exp=1786215030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=19f34240485016411e9efb049db30b67adaa455a49076417791eaa59f02c02bc
+#EXTINF:-1 tvg-id="1090538816_ENG" tvg-name="New York - Day 3 - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437518008954_LIV_Golf_New_York_day3_landscape_thumb.jpg" group-title="Sony Liv",New York - Day 3 - 8 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786247465~acl=/*~id=87386675013595535329352318770091~hmac=1915defddc57ba7ce9c81bd43a943018e86360830f0d0f22145f7a4dd313ee8e
+#EXTINF:-1 tvg-id="sonyliv-1090538816" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437518008954_LIV_Golf_New_York_day3_landscape_thumb.jpg" group-title="Sony Liv", New York - Day 3 - 8 Aug 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/master.m3u8?hdnea=exp=1786225841~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd2136865ab7501ea65c4cfbbe0ed7dfed42390e69455bbd5eeaaa500394d595
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HC3YB5KT" tvg-name="Global e-Cricket Premier League 2026 - 54th Match - Kolkata Hawks vs Chennai Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5b471491-b0ef-441f-be93-f21c4149e02a/7/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 54th Match - Kolkata Hawks vs Chennai Falcons
+#EXTINF:-1 tvg-id="B0HC7M981X" tvg-name="Global e-Cricket Premier League 2026 - 56th Match - Chennai Falcons vs Gujarat Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fedbfa52-4bff-4103-a9b6-e8c448c21260/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 56th Match - Chennai Falcons vs Gujarat Wolves
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c662ed4c6faab2b5d9354ad9ae79b8:ca685a8d25ce47037a50bd6a3145863e
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yugpzshsvs/out/v1/0fe3b8049438434481712a53af61166c/cenc.mpd
-#EXTINF:-1 tvg-id="B0H5RG3RMC" tvg-name="Global e-Cricket Premier League 2026 - 55th Match - Bengaluru Badgers vs Pune Stallions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a184e017-99b5-42b6-b4e5-094d23fcc597/5/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 55th Match - Bengaluru Badgers vs Pune Stallions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b7e716a2144302e40f3cdc1814b2ab5:79f9cebe4ef9352d199b85332de44555
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ulzyr9vcac/out/v1/bb9f43d1b09d4c4d873aed6db8ba4f5c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=457b4f01c555fd90eba12eb3e34cfc2c:b7cbfc8b9d064f30cb1799a6d98c83dc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cpf3z3l1tp/out/v1/43d03d20feb7449a8cfdeda2461c8388/cenc.mpd
 #EXTINF:-1 tvg-id="B0H7M46Y2T" tvg-name="Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ded9236-2021-4f12-bef7-83a84088d957/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
 #EXTINF:-1 tvg-id="B0H6P9BFZP" tvg-name="The Hundred Mens Competition 2026 - 25th Match - Mi London vs Trent Rockets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6140316-5ed1-4261-bcd7-651c129eb5ca/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 25th Match - Mi London vs Trent Rockets
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8BH8NDL" tvg-name="The Hundred Womens Competition 2026 - 26th Match - Southern Brave Women vs Manchester Super Giants Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a071365-acc5-4fb6-8020-967ad35e2410/5/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 26th Match - Southern Brave Women vs Manchester Super Giants Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -112,37 +104,49 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vbjvn7jwdk/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
 #EXTINF:-1 tvg-id="B0H375J2BL" tvg-name="Brighton vs. Roma" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49d60882-ac75-4a35-87f7-5a55001d6870/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Brighton vs. Roma
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HBPX34HQ" tvg-name="Phygital Fighting group-title="Prime Video", Fatal Fury" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2df6bb79-af87-4d66-b327-ac126e28e500/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Fighting, Fatal Fury
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 #EXTINF:-1 tvg-id="B0HBWWXNCZ" tvg-name="Grand Prix de Trois Riviere - Saturday Morning" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e550434f-4a21-4e0d-a7d1-0f8b09bffc73/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Grand Prix de Trois Riviere - Saturday Morning
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
+#EXTINF:-1 tvg-id="B0H992LC38" tvg-name="Hollywoodbets Sharks v Boland Cavaliers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3913f12-5bdd-4498-9d53-a734dc7a27b6/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hollywoodbets Sharks v Boland Cavaliers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCV2NV27" tvg-name="LIVE Prelims: Williamson vs. Simpson II" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfd26bef-a863-4a9f-9fbb-b4f2829d7e29/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE Prelims: Williamson vs. Simpson II
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
+#EXTINF:-1 tvg-id="B0H588VX5Q" tvg-name="MLP Dallas" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.279bd1e1-da59-42b0-ae02-be7d4ddf221b/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MLP Dallas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 #EXTINF:-1 tvg-id="B0HCHKKG3X" tvg-name="PONY League World Series - Game 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5472e07-e0c7-437b-96c2-c971487f7e53/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PONY League World Series - Game 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-id="B0H9ZW69QD" tvg-name="Qatar Airways Grand Prix of Great Britain group-title="Prime Video", Qualifying 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a54243a1-1c89-4822-bcb3-d3758847623f/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain, Qualifying 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABBIOOGAAAAAAAAMA75D7MV6DRNDL.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqiuFcBhpqdxrcA2pjbG91ZGZyb250Angpc3NpZDpiNGJhMDExOS03NzZlLTRiMGMtOTE2OS0yMjA5ZWNmM2IzNWMZATihBaECeDMvdWpzOHlmZzV6eC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzIZATyBYlVTWCDpH9NaERpOCqwtL00zebdTl0eiENfiwleopEGj4ACF0A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ujs8yfg5zx/out/v1/30f3ad9ba2c340739ea2943f29d44b32/2daf11d4-7edd-48cf-8d1e-f065e83d0958-cenc.mpd?aws.sessionId=d63725f9-f982-4bdb-9cac-529f98b7eb09
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0H9HBDXHT" tvg-name="Discmania Challenge: Female Professional group-title="Prime Video", Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d999742-a3ac-4fd8-8d68-982a5b1efa53/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Discmania Challenge: Female Professional, Round 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -154,13 +158,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0H96VMZ5B" tvg-name="UK's Strongest Man 2026: Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15a8a7ec-d916-4282-83b6-7430f58daf46/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",UK's Strongest Man 2026: Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCL9Z5WY" tvg-name="Silverstone Circuit group-title="Prime Video", Silverstone, Northamptonshire, United Kingdom - Race 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4242dcc-c4da-469b-aedc-f5b58ac1687a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Silverstone Circuit, Silverstone, Northamptonshire, United Kingdom - Race 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABBIZROAAAAAAAAMMB2UGFYBGVHLD.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqixmaBhpqd1MaA2pjbG91ZGZyb250Angpc3NpZDpkYWVlYzkzNC0wYTQ1LTQ0YTgtYjEyOS0yZmE2YmJmMTE3NWEZATihBaECeDMvaHh3bnZzZTZ2Zi9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmYZATyBYlVTWCAly4iyd3fTBmOM3bPwxTAvWPNWJZjeZbCOh_M7WBy9kg/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/hxwnvse6vf/out/v1/8197c8e055c94a868623653ac55c10bf/e90cd715-e2da-416c-9e59-d923d0be138d-cenc.mpd?aws.sessionId=a05a394f-dc8e-462f-9f80-599c8b8a8afb
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
@@ -173,11 +183,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-logo="" tvg-name="Manchester United vs PSG" group-title="HimelOp",Manchester United vs PSG
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/54348/load-playlist?&.m3u8
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ee82/live/a3174200-f6fb-11f0-b385-5f48925de19a.jpg" tvg-name="The Hundred 2026" group-title="HimelOp",The Hundred 2026
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/24/07/2048x1152/skysports-the-hundred-womens-team-guide_6634156.jpg?20240720224613" tvg-name="The Hundred Women 2026" group-title="HimelOp",The Hundred Women 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
