@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-08 16:28:43 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 6
+# Generated: 2026-08-08 17:25:18 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,57 +56,37 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090538798_ENG" tvg-name="Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
-#EXTINF:-1 tvg-id="sonyliv-1090538801" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786197038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2cc07889c9d6b68297c6086b4da8eb35942b49ceae0d30d14c0f3632bffad387
-#EXTINF:-1 tvg-id="sonyliv-1090538808" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543357553055_the_hundred_womens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Sony Liv", MI London vs Trent Rockets - 8 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1786204239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9babefab0320475510893f052adaa7048429072a6621d0d98cd1ee9a0dd63052
-#EXTINF:-1 tvg-id="1090538814_ENG" tvg-name="Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Sony Liv",Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
-#EXTINF:-1 tvg-id="sonyliv-1090538814" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/master.m3u8?hdnea=exp=1786204232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8c2affb19d78d6f919901fd3976f895a6ec47e635387a66973d4271f7ddb1402
-
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15241" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860881511020x576women.jpg" group-title="Tapmad", MI London vs Trent Rockets - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860927951020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 3 | Esports World Cup 2026 (EWC)
 https://vodintlv2.in-maa-1.linodeobjects.com/EWC/Tekken8/day2/HLS/master.m3u8
 
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090538798_ENG" tvg-name="Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13
+#EXTINF:-1 tvg-id="sonyliv-1090538801" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786197038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2cc07889c9d6b68297c6086b4da8eb35942b49ceae0d30d14c0f3632bffad387
+#EXTINF:-1 tvg-id="sonyliv-1090538808" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543357553055_the_hundred_womens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Sony Liv", MI London vs Trent Rockets - 8 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1786204239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9babefab0320475510893f052adaa7048429072a6621d0d98cd1ee9a0dd63052
+#EXTINF:-1 tvg-id="1090538814_ENG" tvg-name="Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Sony Liv",Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13
+#EXTINF:-1 tvg-id="sonyliv-1090538814" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/master.m3u8?hdnea=exp=1786204232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8c2affb19d78d6f919901fd3976f895a6ec47e635387a66973d4271f7ddb1402
+
 #SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HC6YXW2M" tvg-name="Global e-Cricket Premier League 2026 - 50th Match - Bengaluru Badgers vs Delhi Sharks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cc5d9bf-5d47-46f8-98c2-107b5de8f6bd/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 50th Match - Bengaluru Badgers vs Delhi Sharks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aca4f6f37ac69e2d5a0541c39635f26:0e6a82d9322217cf968942b225b29598
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mr1dfrvmmt/out/v1/b416bc6b7fcb4a81acc9da50d47ed459/cenc.mpd
 #EXTINF:-1 tvg-id="B0H7WX1RF9" tvg-name="The Hundred Womens Competition 2026 - 25th Match - Mi London Women vs Trent Rockets Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63b4d19d-9b9a-4cad-8833-6c62768f1d91/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 25th Match - Mi London Women vs Trent Rockets Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ob81sfor4n/out/v1/0993c24df35c49a3ad07adba59e26569/cenc.mpd
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HBR4RW4P" tvg-name="MI London vs. Trent Rockets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff6f4cb0-0181-48a2-a011-e42ae329df3a/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MI London vs. Trent Rockets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCT5WN87" tvg-name="PPA Tour: Asia Ho Chi Minh-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b539806-a5a1-4cba-ba78-979d9a13dfdb/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCBVJMR9" tvg-name="Qatar Airways Grand Prix of Great Britain group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e0fbecd-6652-40d8-9948-8aed51425280/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain, Qualifying
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABAT2UVAAAAAAAAMOW6UHPAKQXIZH.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqirAfBhpqdumfA2pjbG91ZGZyb250Angpc3NpZDo3MjI3MjU0My1jZjAyLTRkN2YtYjBlNy1hNjg5YTQyNmM5NTMZATihBaECeDMvbHJ6cWMyYWgzYy9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzIZATyBYlVTWCBjZt7mjVt2zylEq5TNO3VpFJmBcqZCtXBZv0oND5tW4A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lrzqc2ah3c/out/v1/30f3ad9ba2c340739ea2943f29d44b32/70b3cc77-7552-405f-9804-9aecbbd985ef-cenc.mpd?aws.sessionId=d57b2db0-9e17-483e-a11e-7513ff2debcb
-#EXTINF:-1 tvg-id="B0HBBKNH13" tvg-name="Phygital Football group-title="Prime Video", Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34e9ae65-bc76-4c1d-aaed-f6ff2101c11a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Football, Semifinal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ob81sfor4n/out/v1/0993c24df35c49a3ad07adba59e26569/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Aston Villa vs Bayern Munich" group-title="HimelOp",Aston Villa vs Bayern Munich
@@ -129,3 +109,35 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HBPX34HQ" tvg-name="Phygital Fighting group-title="Prime Video", Fatal Fury" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2df6bb79-af87-4d66-b327-ac126e28e500/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Fighting, Fatal Fury
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCYY2T1K" tvg-name="Juventus vs. Inter" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8815f75-fa20-4b6c-bc99-1a8c380c6d33/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Juventus vs. Inter
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBR4RW4P" tvg-name="MI London vs. Trent Rockets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff6f4cb0-0181-48a2-a011-e42ae329df3a/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MI London vs. Trent Rockets
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCT5WN87" tvg-name="PPA Tour: Asia Ho Chi Minh-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b539806-a5a1-4cba-ba78-979d9a13dfdb/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Semifinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCBVJMR9" tvg-name="Qatar Airways Grand Prix of Great Britain group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e0fbecd-6652-40d8-9948-8aed51425280/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain, Qualifying
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABAT2UVAAAAAAAAMOW6UHPAKQXIZH.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqirAfBhpqdumfA2pjbG91ZGZyb250Angpc3NpZDo3MjI3MjU0My1jZjAyLTRkN2YtYjBlNy1hNjg5YTQyNmM5NTMZATihBaECeDMvbHJ6cWMyYWgzYy9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzIZATyBYlVTWCBjZt7mjVt2zylEq5TNO3VpFJmBcqZCtXBZv0oND5tW4A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lrzqc2ah3c/out/v1/30f3ad9ba2c340739ea2943f29d44b32/70b3cc77-7552-405f-9804-9aecbbd985ef-cenc.mpd?aws.sessionId=d57b2db0-9e17-483e-a11e-7513ff2debcb
