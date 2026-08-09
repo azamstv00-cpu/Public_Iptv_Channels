@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-09 07:25:34 Bangladesh Standard Time
-# Sources: 8 | Channels: 51 | Groups: 6
+# Generated: 2026-08-09 09:39:13 Bangladesh Standard Time
+# Sources: 8 | Channels: 43 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,25 +56,23 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090538872_ENG" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786280283~acl=/*~id=23261811659242941857593704460645~hmac=fd02b76a0b63aa37c8314ec88418d90c5a169ec944bf7a7ce48020dbfa4274d9
-#EXTINF:-1 tvg-id="1090538872_HIN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786280283~acl=/*~id=23261811659242941857593704460645~hmac=fd02b76a0b63aa37c8314ec88418d90c5a169ec944bf7a7ce48020dbfa4274d9
-#EXTINF:-1 tvg-id="1090538872_KAN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786280283~acl=/*~id=23261811659242941857593704460645~hmac=fd02b76a0b63aa37c8314ec88418d90c5a169ec944bf7a7ce48020dbfa4274d9
-#EXTINF:-1 tvg-id="1090538872_TAM" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786280283~acl=/*~id=23261811659242941857593704460645~hmac=fd02b76a0b63aa37c8314ec88418d90c5a169ec944bf7a7ce48020dbfa4274d9
-#EXTINF:-1 tvg-id="1090538872_TEL" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786280283~acl=/*~id=23261811659242941857593704460645~hmac=fd02b76a0b63aa37c8314ec88418d90c5a169ec944bf7a7ce48020dbfa4274d9
-#EXTINF:-1 tvg-id="sonyliv-1090538872" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 | UFC Fight Night - Gamrot vs Salkilld
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/master.m3u8?hdnea=exp=1786254629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5ed4b8577fce295cbb70e87de97c23916d79bb934d33ddeaaa7d0d70c9faf45c
-
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15571" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860865051020x576.jpg" group-title="Tapmad", Gamrot vs Salkilld | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15777" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860849811020x576.jpg" group-title="Tapmad", St Kitts and Nevis Patriots vs Trinbago Knight Riders | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090538872_ENG" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
+#EXTINF:-1 tvg-id="1090538872_HIN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
+#EXTINF:-1 tvg-id="1090538872_KAN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
+#EXTINF:-1 tvg-id="1090538872_TAM" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
+#EXTINF:-1 tvg-id="1090538872_TEL" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HCJ9M1DG" tvg-name="Caribbean Premier League 2026 - 2nd Match - St Kitts And Nevis Patriots vs Trinbago Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7d510cb-1091-4fee-9836-2ea037e41ed8/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 2nd Match - St Kitts And Nevis Patriots vs Trinbago Knight Riders
@@ -82,7 +80,7 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd
 
 #SOURCE-TITLE:Prime Video
 #EXTINF:-1 tvg-id="B0H9NLJW6M" tvg-name="Canada group-title="Prime Video", ATP/WTA Round of 16 & Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19136369-0cfd-4d40-943d-cbf177383e24/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canada, ATP/WTA Round of 16 & Doubles 2nd Round
@@ -90,73 +88,31 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4ojxdfbnbm
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-id="B0H9XLV3NX" tvg-name="BKFC Fight Night Sturgis: Acheson vs. Jones" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1be3d154-f9d9-4456-bb16-714a0866e7cf/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BKFC Fight Night Sturgis: Acheson vs. Jones
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
-#EXTINF:-1 tvg-id="B0H5J5549N" tvg-name="BKFC Fight Night Sturgis: Acheson vs. Jones (Prelims)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e9da968-ab66-4f90-b7c6-4bb7bdb5b215/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",BKFC Fight Night Sturgis: Acheson vs. Jones (Prelims)
+#EXTINF:-1 tvg-id="B0H9BQ2QNN" tvg-name="Denver vs. Royals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cd62b2ca-34da-4122-aa0e-d011f4fd00f0/49/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Denver vs. Royals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
-#EXTINF:-1 tvg-id="B0H8Z4J6JY" tvg-name="Chicago Dogs at Sioux City Explorers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5e05436-704f-4632-b002-69c7f36eb4d5/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Chicago Dogs at Sioux City Explorers
+#KODIPROP:inputstream.adaptive.license_key=96b08d24b0fa4b65fee721844ee216e0:f22e996f6bd18b571e3f9d25167a0526
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/evewsh19eb/out/v1/5ff67c8e84a148ac8407bbf1269b2049/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBQN37X3" tvg-name="Otago v Canterbury" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fc006f68-fbfa-4777-bdd4-c2c8ee172c0f/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Otago v Canterbury
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-#EXTINF:-1 tvg-id="B0H6Q3QVTR" tvg-name="Dash vs. KC Current" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.40ddbcf8-0235-45e0-aab8-eaea0c532322/34/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Dash vs. KC Current
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqi5gjBhpqd9GjA2ZmYXN0bHkCeClzc2lkOjJlZWQ0MTdiLTg3NDItNGJjNy04MDdjLWJhZGRiYzYxY2Q4MxkBOKEFoQJ4My9oZG84d3FvaHZ4L291dC92MS80OGQwZmZkYzBjMzU0ZmM4YmY5YjU2NWMyNDVkMGYwNxkBPIFiVVNYICHfB2QNfoltCsEYHAehDwA48uZDbwyYArMABXm0FJhH/IAD/20d7b90c274a4b6f9db44b11d2434abc/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/hdo8wqohvx/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/4bc3a732-b1fa-495f-9bd0-752a8f5c6749-cenc.mpd?aws.sessionId=a8ff0833-26d8-4cea-a53a-8d8e58c108da
-#EXTINF:-1 tvg-id="B0H9ZBSTBW" tvg-name="Detroit City FC at FC Tulsa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64b6b865-1bf9-4b36-bf92-31f9205a3dd4/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Detroit City FC at FC Tulsa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0H7SMQQMD" tvg-name="Monster Jam LIVE-Monster Jam from Orlando group-title="Prime Video", FL - 8/8/2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d05bd1e1-62ae-4caf-b372-c4ab2b948206/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Monster Jam LIVE-Monster Jam from Orlando, FL - 8/8/2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd
-#EXTINF:-1 tvg-id="B0H588VX5Q" tvg-name="MLP Dallas" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.279bd1e1-da59-42b0-ae02-be7d4ddf221b/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MLP Dallas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCJC2HPQ" tvg-name="Northwoods League: Green Bay Rockers at Madison Mallards" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b9654ff4-d262-4166-9078-38b267223260/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Northwoods League: Green Bay Rockers at Madison Mallards
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-#EXTINF:-1 tvg-id="B0H4MJ6VF3" tvg-name="NWSL On ION Match Break Show 8/08/2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a6ceb30-7d76-4880-b2e5-57f4a9d45d92/26/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",NWSL On ION Match Break Show 8/08/2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqi5EmBhpqd8qmA2ZmYXN0bHkCeClzc2lkOmJkNTQ0MmUwLWZlZjYtNDMyNy05MWY2LWVkMzhiYjE1ZTdhMxkBOKEFoQJ4My9vYTRibWN0bWpvL291dC92MS8wYTkzMjk0Mzg1YzE0NjY4YmFlYmExYjYwZGU5Zjc5MRkBPIFiVVNYIEdlJ-tSO3JH9P8dtTlQajwx_QCmcThkM3g9RJx3iSqQ/PDX/d5235c9d3a0c42a98044c4dd0d517149/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/oa4bmctmjo/out/v1/0a93294385c14668baeba1b60de9f791/08ef7129-7e6d-41cf-9e8c-aab72ec8d694-cenc.mpd?aws.sessionId=5d09e18a-9b6f-41ae-b7e6-ecc0b077cfb6
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 #EXTINF:-1 tvg-id="B0H5VLSHF4" tvg-name="PPA Tour: Asia Ho Chi Minh-Bronze" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.871fb998-05b3-4d1b-b777-3fafbbc23ace/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Bronze
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HBBD7SJL" tvg-name="Vores Compact Touring Series: Angola Motorsports Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c363046-3ea1-4421-b96f-6dcf3a83bce2/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Vores Compact Touring Series: Angola Motorsports Speedway
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33fd6ed947919b41842b62865954d2bb:c3d98962e9a617f9f59d5b64fd7b2a68
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqjsa6qomt/out/v1/c10c96cb166746299665951c1bcbb8f1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
