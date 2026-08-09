@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-09 16:31:21 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 6
+# Generated: 2026-08-09 17:25:51 Bangladesh Standard Time
+# Sources: 8 | Channels: 43 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -64,47 +64,15 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090538829_ENG" tvg-name="Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788
+https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786316125~acl=/*~id=31343816140316972220886035606528~hmac=36db334d7190c12a0982441ecedb2528f04950a477ea0bcf9dd79c882f47c6b8
 #EXTINF:-1 tvg-id="sonyliv-1090538831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg" group-title="Sony Liv", Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786285236~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a4b64a6411a22666614855049bdcf446f99738d9f2c6495eb913375c7f492e66
 #EXTINF:-1 tvg-id="sonyliv-1090538833" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543416073755_the_hundred_womens_Sunrisers_Leeds_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Sony Liv", Sunrisers Leeds vs Welsh Fire - 9 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1786290644~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a8cffb4b41acde17baa7159e6de52e8ad8e7e0692cc2362d376e4a6a0a8ed6e
 #EXTINF:-1 tvg-id="1090538834_ENG" tvg-name="Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg" group-title="Sony Liv",Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788
+https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786316125~acl=/*~id=31343816140316972220886035606528~hmac=36db334d7190c12a0982441ecedb2528f04950a477ea0bcf9dd79c882f47c6b8
 #EXTINF:-1 tvg-id="sonyliv-1090538834" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg" group-title="Sony Liv", Trau FC vs Indian Navy FT - 9 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/master.m3u8?hdnea=exp=1786290636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dcff539b0c2401469b2abcbdf13ed8f276e75b4f4a9e37295c5d7962a696850e
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H9NLJW6M" tvg-name="Canada group-title="Prime Video", ATP/WTA Round of 16 & Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19136369-0cfd-4d40-943d-cbf177383e24/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canada, ATP/WTA Round of 16 & Doubles 2nd Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0H9X3K1LW" tvg-name="Cricket Preview-The Hundred Women 2026: Leeds vs Fire - 27th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.90214c75-4c19-4cc5-8ea0-2efe493e2825/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Preview-The Hundred Women 2026: Leeds vs Fire - 27th Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCCYMX5X" tvg-name="PPA Tour: Asia Ho Chi Minh-Gold" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d33835e9-a2d9-40e3-bae3-d792f7ba3f00/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Gold
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-#EXTINF:-1 tvg-id="B0HC6WZZZ7" tvg-name="Qatar Airways Grand Prix of Great Britain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0230590a-7115-496c-a16b-9c1d16a0133c/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjAGnBhpqeDsnA2ZmYXN0bHkCeClzc2lkOjVlOTdmYzI5LTYzYzktNGIwYi04Y2JiLWJkZDA1ZWM0OWRhNRkBOKEFoQJ4My9wb2tvZ2dyeWNyL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYIIn1PUwDM331bKJ3YQmWbX5vuqRMZdyWEx1gWZY-5kGG/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pokoggrycr/out/v1/30f3ad9ba2c340739ea2943f29d44b32/b49a5189-3c12-499c-961c-052084631669-cenc.mpd?aws.sessionId=8181d21a-e889-4382-a8e1-2c0561124e76
-#EXTINF:-1 tvg-id="B0H6SCWDZP" tvg-name="Sunrisers Leeds vs. Welsh Fire" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.53a1bf79-3995-4724-b009-614b84818b52/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sunrisers Leeds vs. Welsh Fire
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HCTZ13JD" tvg-name="Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be72fac0-1119-4ec4-9b51-96584419f396/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons
@@ -120,9 +88,44 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hvjhmj0rh/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
 
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H8JNJ59L" tvg-name="2026 International Professional Pool Players Association Masters" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a1331c8-4405-43f8-828d-cc9b8cc313e4/26/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 International Professional Pool Players Association Masters
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBPQRSX7" tvg-name="Manchester City vs. Atlético Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9a267669-3672-44c5-9889-da4f480bf5ef/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manchester City vs. Atlético Madrid
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCCYMX5X" tvg-name="PPA Tour: Asia Ho Chi Minh-Gold" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d33835e9-a2d9-40e3-bae3-d792f7ba3f00/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Gold
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HC6WZZZ7" tvg-name="Qatar Airways Grand Prix of Great Britain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0230590a-7115-496c-a16b-9c1d16a0133c/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjAGnBhpqeDsnA2ZmYXN0bHkCeClzc2lkOjVlOTdmYzI5LTYzYzktNGIwYi04Y2JiLWJkZDA1ZWM0OWRhNRkBOKEFoQJ4My9wb2tvZ2dyeWNyL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYIIn1PUwDM331bKJ3YQmWbX5vuqRMZdyWEx1gWZY-5kGG/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pokoggrycr/out/v1/30f3ad9ba2c340739ea2943f29d44b32/b49a5189-3c12-499c-961c-052084631669-cenc.mpd?aws.sessionId=8181d21a-e889-4382-a8e1-2c0561124e76
+#EXTINF:-1 tvg-id="B0H6SCWDZP" tvg-name="Sunrisers Leeds vs. Welsh Fire" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.53a1bf79-3995-4724-b009-614b84818b52/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sunrisers Leeds vs. Welsh Fire
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="" tvg-name="Manchester City vs Atletico Madrid" group-title="HimelOp",Manchester City vs Atletico Madrid
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54398/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ee82/live/a3174200-f6fb-11f0-b385-5f48925de19a.jpg" tvg-name="The Hundred 2026" group-title="HimelOp",The Hundred 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
