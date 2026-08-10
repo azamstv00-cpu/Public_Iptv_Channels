@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-10 15:16:44 Bangladesh Standard Time
-# Sources: 8 | Channels: 28 | Groups: 2
+# Generated: 2026-08-10 17:05:34 Bangladesh Standard Time
+# Sources: 8 | Channels: 32 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -55,6 +55,28 @@ https://live05.meung.app/live/08552895.m3u8
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090538900_ENG" tvg-name="Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg" group-title="Sony Liv",Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786402272~acl=/*~id=36009868960310701215553234332715~hmac=daae941a0129f94a8efc197db96eb8823d2de28c8453027a08150c86529a9bf5
+#EXTINF:-1 tvg-id="sonyliv-1090538900" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg" group-title="Sony Liv", Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/master.m3u8?hdnea=exp=1786377031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5fb8b8c0e6f9234aef1b7e5d3bacc813847288f46960ae97f296ca9a6eb36844
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HCTYWK8J" tvg-name="Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4ewgxa3j3d/out/v1/678c3d45170e407cab21ad7a0796ae2d/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HBCSC5T9" tvg-name="Ireland vs. Afghanistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e99dc400-6ad6-4249-b2d2-e7463c0dc768/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Ireland vs. Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
