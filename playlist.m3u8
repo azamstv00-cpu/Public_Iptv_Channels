@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-11 00:53:21 Bangladesh Standard Time
-# Sources: 8 | Channels: 31 | Groups: 5
+# Generated: 2026-08-11 01:53:36 Bangladesh Standard Time
+# Sources: 8 | Channels: 33 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -64,6 +64,20 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090538912" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021453/1785436894501520_the_hundred_mens_Trent_Rockets_vs_Southern_Brave_landscape_thumb.jpg" group-title="Sony Liv", Trent Rockets vs Southern Brave - 10 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786404032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=38f04245f29461e3e2fe9139afa7df5b87c7d6e36032ae4ccca6bc3ea40cd194
 
+#SOURCE-TITLE:HimelOp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
+https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ee82/live/a3174200-f6fb-11f0-b385-5f48925de19a.jpg" tvg-name="The Hundred 2026" group-title="HimelOp",The Hundred 2026
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/24/07/2048x1152/skysports-the-hundred-womens-team-guide_6634156.jpg?20240720224613" tvg-name="The Hundred Women 2026" group-title="HimelOp",The Hundred Women 2026
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HCTYWK8J" tvg-name="Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 3rd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
@@ -76,13 +90,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ewgxa3j
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
 
-#SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
-https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/24/07/2048x1152/skysports-the-hundred-womens-team-guide_6634156.jpg?20240720224613" tvg-name="The Hundred Women 2026" group-title="HimelOp",The Hundred Women 2026
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HC4M29GV" tvg-name="Plymouth vs. Exeter" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5f08f7ad-9246-4218-b51e-0758c6fc58bf/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Plymouth vs. Exeter
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
