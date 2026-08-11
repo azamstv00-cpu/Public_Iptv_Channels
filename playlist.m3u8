@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-11 21:58:38 Bangladesh Standard Time
-# Sources: 8 | Channels: 34 | Groups: 6
+# Generated: 2026-08-11 23:04:11 Bangladesh Standard Time
+# Sources: 8 | Channels: 32 | Groups: 4
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,17 +56,19 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090538905" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631305976131_The_Hundred2026_womens_Manchester_Super_Giants_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Sony Liv", Manchester Super Giants vs Sunrisers Leeds - 11 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786476031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0bcc90b0fde55833b59d8a00055b0ca3280f355fbf19dd5993f9567dc4cacd5e
-#EXTINF:-1 tvg-id="1090538904_ENG" tvg-name="Nongkseh SS&CC vs Mumbay FC - 11 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709090428385_DC26_Nongkseh_SSCC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Sony Liv",Nongkseh SS&CC vs Mumbay FC - 11 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786503590~acl=/*~id=74797082286978707895820558861135~hmac=033837a08100dcc948fd9d227cdec7ac454b48b9e829393ce0d50a832089666b
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15246" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863553481020x576women.jpg" group-title="Tapmad", Manchester Super Giants vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863500271020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 5 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H8QR3Q3K" tvg-name="The Hundred Mens Competition 2026 - 30th Match - Manchester Super Giants vs Sunrisers Leeds" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a972e796-7cc9-46da-ab17-adc4313f176f/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 30th Match - Manchester Super Giants vs Sunrisers Leeds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/x6gv43mu1e/out/v1/510d2f6449fc495793a220a078013966/cenc.mpd
+#EXTINF:-1 tvg-id="B0H56XPKZS" tvg-name="The Hundred Womens Competition 2026 - 30th Match - Manchester Super Giants Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63234a37-2840-4d36-9864-0414756c8343/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 30th Match - Manchester Super Giants Women vs Sunrisers Leeds Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
@@ -82,15 +84,13 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrf
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H56XPKZS" tvg-name="The Hundred Womens Competition 2026 - 30th Match - Manchester Super Giants Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63234a37-2840-4d36-9864-0414756c8343/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 30th Match - Manchester Super Giants Women vs Sunrisers Leeds Women
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H3H9WNDM" tvg-name="Hollywoodbets Sharks v New Zealand" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d4d9550-7b79-47d3-97fb-310df2f20d6d/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hollywoodbets Sharks v New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd
-
-#SOURCE-TITLE:Prime Video
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 #EXTINF:-1 tvg-id="B0HBQNP16R" tvg-name="Manchester Super Giants vs. Sunrisers Leeds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2d250f8-8e7d-48da-9f44-5721ac109e34/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manchester Super Giants vs. Sunrisers Leeds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
