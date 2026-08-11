@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-11 15:57:25 Bangladesh Standard Time
-# Sources: 8 | Channels: 28 | Groups: 2
+# Generated: 2026-08-11 16:52:26 Bangladesh Standard Time
+# Sources: 8 | Channels: 31 | Groups: 4
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -55,6 +55,20 @@ https://live05.meung.app/live/08552895.m3u8
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090538903_ENG" tvg-name="North East United FC vs FC 1 - 11 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg" group-title="Sony Liv",North East United FC vs FC 1 - 11 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786485355~acl=/*~id=50712827186152437961053558136402~hmac=a83f57284e936d6e44ad17701701fece1ffc6217e01b368c3937049ccd9faeb3
+#EXTINF:-1 tvg-id="sonyliv-1090538903" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg" group-title="Sony Liv", North East United FC vs FC 1 - 11 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/master.m3u8?hdnea=exp=1786465241~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=812a048d44570767d51e56d275061f54a4b0ce960845d23da83572c5f64f7cb6
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H9H5NF39" tvg-name="Juventus vs. Palermo FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c49d48ef-a8d7-4bd1-88aa-680d0e637a4a/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Juventus vs. Palermo FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
