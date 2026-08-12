@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-12 23:59:34 Bangladesh Standard Time
+# Generated: 2026-08-13 01:13:15 Bangladesh Standard Time
 # Sources: 8 | Channels: 40 | Groups: 6
 
 
@@ -59,26 +59,28 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864514161020x576men.jpg" group-title="Tapmad", Birmingham Pheonix vs MI London | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg" group-title="Tapmad", Welsh Fire vs London Spirit | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865167591020x576.jpg" group-title="Tapmad", PSG vs Aston Villa | UEFA Super Cup 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090539026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631791014131_The_Hundred2026_mens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Sony Liv", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MBPMI/master.m3u8?hdnea=exp=1786576830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4bff79225e0826114970e0d137b1ab76a488cea976f287317e1ed52fe21e878a
+#EXTINF:-1 tvg-id="sonyliv-1090539087" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786442722992390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Sony Liv", PSG vs Aston Villa - 13 Aug 2026 | UEFA Super Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/football1208/ENG/master.m3u8?hdnea=exp=1786582235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=00f3f13455a5332eb32aa1b308d79c89c4b83299fa6934a132713980d139591d
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HC85YD6H" tvg-name="Newcastle vs. Everton" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.535f16ba-13ae-4a06-ac01-ed9bacd8f505/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Newcastle vs. Everton
+#EXTINF:-1 tvg-id="B0H4WHT4T9" tvg-name="Manchester United vs. Leeds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b9491a61-265e-419a-9a9c-a9e52091fbb7/23/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manchester United vs. Leeds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="B0HC6TZR2C" tvg-name="On the Range from the FedEx St. Jude Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.75ffb933-28c8-4f99-92ad-50a42dacb9c9/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",On the Range from the FedEx St. Jude Championship
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0H234272P" tvg-name="RC Deportivo de A Coruña vs. Real Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32ba2d57-b8bb-4dee-9765-94bfb0235251/9/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",RC Deportivo de A Coruña vs. Real Madrid
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://ABDJLNDAAAAAAAAMNFYH553AJELCT.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqkInGBhpqfMNGA2pjbG91ZGZyb250Angpc3NpZDozMTU0NDI4OS1iNDI2LTQ2NDAtYWVjOS1mNTU5YzA1Y2NmMTEZATihBaECeDMvZHFzdm5qY2FjZS9vdXQvdjEvNDhkMGZmZGMwYzM1NGZjOGJmOWI1NjVjMjQ1ZDBmMDcZATyBYlVTWCD-sPSFBdDf537-s01V94kHEjMXpg4kY-MRNqeiPY8i8Q/CMH/47672b40c4ce4f39b9dfa11ca51d6a18/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dqsvnjcace/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/8c64a614-82ce-4820-9dd8-5744d91180de-cenc.mpd?aws.sessionId=4a7c461e-9d51-4b9b-8f03-10c4450df60b
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HC7B15PM" tvg-name="Afghanistan tour of Ireland 2026 - 4th ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.029e327e-765a-4c14-83bf-bb2284bb35ce/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 4th ODI - Ireland vs Afghanistan
@@ -86,32 +88,28 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
 #EXTINF:-1 tvg-id="B0H7RV4YL1" tvg-name="The Hundred Mens Competition 2026 - 32nd Match - Birmingham Phoenix vs Mi London" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d6293202-12ed-4fcc-90ae-aab6c392dfcd/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 32nd Match - Birmingham Phoenix vs Mi London
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b084d3dc2d9165a4dfbb5a79bedb6a3:29393c86bdcbec79889d4a8927444828
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1/9f484b442bd74483ac438ae11a000d00/cenc.mpd
-#EXTINF:-1 tvg-id="B0H8DY57M3" tvg-name="The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4431a22-ddf0-40f8-bb4d-648d8ca816e8/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Arsenal vs Como" group-title="HimelOp",Arsenal vs Como
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54527/load-playlist?&.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20vs%20Everton.jpg" tvg-name="Everton vs Newcastle United" group-title="HimelOp",Everton vs Newcastle United
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54519/load-playlist?&.m3u8
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+https://live.vivo200.com/live/sd-1-4565097.m3u8?txSecret=aac25085679fe682be0b3947509b3bfb&txTime=6A7CCBE2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="" tvg-name="Manchester United vs Leeds United" group-title="HimelOp",Manchester United vs Leeds United
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60831734-3030-4484-b5cf-76178a98cb10/5/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_SX624_FMjpg_.jpg" tvg-name="PSG vs Aston Villa" group-title="Sports",PSG vs Aston Villa
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54526/load-playlist?&.m3u8
+https://chatgpt.hereisman.net/playlist/54529/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Real Madrid vs Deportivo de A Coruña" group-title="HimelOp",Real Madrid vs Deportivo de A Coruña
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
