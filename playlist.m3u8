@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-12 20:54:07 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 6
+# Generated: 2026-08-12 21:56:40 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -70,13 +70,11 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 #EXTINF:-1 tvg-id="sonyliv-1090539031" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631798498131_The_Hundred2026_womens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Sony Liv", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WBPMI/master.m3u8?hdnea=exp=1786564264~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ef30285695c9fb11676b16c592fb48af5846b0593298d2a87a84368433893b1a
 #EXTINF:-1 tvg-id="1090539027_ENG" tvg-name="England vs India - 4th T20I - 12 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv",England vs India - 4th T20I - 12 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786586130~acl=/*~id=56136029020996837840600660453758~hmac=8670a5a86f6ce4a758dd592a9384de4c99ca7d6c0b3ca7a2c67d7b59cb632045
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786589775~acl=/*~id=74614083569791057120327285492986~hmac=469c46cac63f492284d770a9e73aa211e045593949bca47015aa2431a665f3e9
 #EXTINF:-1 tvg-id="sonyliv-1090539027" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv", England vs India - 4th T20I - 12 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786562431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45e0e3ab563a086fb3794ad7e56a5993568635970d97814a43312e37a17d98fb
 #EXTINF:-1 tvg-id="1090539029_ENG" tvg-name="Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg" group-title="Sony Liv",Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786586130~acl=/*~id=56136029020996837840600660453758~hmac=8670a5a86f6ce4a758dd592a9384de4c99ca7d6c0b3ca7a2c67d7b59cb632045
-#EXTINF:-1 tvg-id="sonyliv-1090539029" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg" group-title="Sony Liv", Mohammedan SC vs Indian Army FT - 12 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/master.m3u8?hdnea=exp=1786560636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8c212d52bc01d7817a444d6a9a2b47b2e3328c490bbb39fff7a49f3151d718d7
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786589775~acl=/*~id=74614083569791057120327285492986~hmac=469c46cac63f492284d770a9e73aa211e045593949bca47015aa2431a665f3e9
 #EXTINF:-1 tvg-id="sonyliv-1090539025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631446056131_The_Hundred2026_mens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg" group-title="Sony Liv", Welsh Fire vs London Spirit  - 12 Aug 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786564271~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d7cec12ba3e6f92b467c96ce5cd995ce8b7300ee008cf4f7e98aca40b1c0b3e1
 
@@ -108,16 +106,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8SSWJLN" tvg-name="The Hundred Mens Competition 2026 - 31st Match - Welsh Fire vs London Spirit" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.78b6c9f9-5e21-4aff-8100-440672ec7a6a/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 31st Match - Welsh Fire vs London Spirit
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8DY57M3" tvg-name="The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4431a22-ddf0-40f8-bb4d-648d8ca816e8/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd
