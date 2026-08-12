@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-12 14:14:43 Bangladesh Standard Time
-# Sources: 8 | Channels: 28 | Groups: 2
+# Generated: 2026-08-12 16:00:14 Bangladesh Standard Time
+# Sources: 8 | Channels: 29 | Groups: 3
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -55,6 +55,10 @@ https://live05.meung.app/live/08552895.m3u8
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090539028" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="Sony Liv", Neroca FC vs FC Raengdai FT - 12 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/master.m3u8?hdnea=exp=1786549831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e1f23ba77622534cb00bde863aa686a309716a5f415613b929f7cfc8b4ee5f0e
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
