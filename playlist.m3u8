@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-12 17:06:16 Bangladesh Standard Time
+# Generated: 2026-08-12 19:02:12 Bangladesh Standard Time
 # Sources: 8 | Channels: 34 | Groups: 4
 
 
@@ -56,14 +56,6 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539028_ENG" tvg-name="Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="Sony Liv",Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786575180~acl=/*~id=93811303738793945063703548342424~hmac=9e2d27b86fe09afefb0982caa5d467cb83ae062ab8b9e8f6357070006d15967a
-#EXTINF:-1 tvg-id="sonyliv-1090539028" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="Sony Liv", Neroca FC vs FC Raengdai FT - 12 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/master.m3u8?hdnea=exp=1786549831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e1f23ba77622534cb00bde863aa686a309716a5f415613b929f7cfc8b4ee5f0e
-#EXTINF:-1 tvg-id="sonyliv-1090539030" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631437927131_The_Hundred2026_womens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg" group-title="Sony Liv", Welsh Fire vs London Spirit - 12 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786551632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8f5f2153db74e5bc045d54c9b9705ad3aa278207df0b84029da196bf574cc221
-
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15947" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864280871020x576.jpg" group-title="Tapmad", Aussie Mavericks Jaguars vs Vedanta Leopards | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
@@ -71,6 +63,14 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15247" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864502241020x576women.jpg" group-title="Tapmad", Welsh Fire vs London Spirit - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539029_ENG" tvg-name="Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg" group-title="Sony Liv",Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786582478~acl=/*~id=39467029035505086816050307252454~hmac=8ed97fcf406fb5acc65f52a13741dca63f028abfd05a378774f53dbfe56ca681
+#EXTINF:-1 tvg-id="sonyliv-1090539029" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg" group-title="Sony Liv", Mohammedan SC vs Indian Army FT - 12 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/master.m3u8?hdnea=exp=1786560636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8c212d52bc01d7817a444d6a9a2b47b2e3328c490bbb39fff7a49f3151d718d7
+#EXTINF:-1 tvg-id="sonyliv-1090539030" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631437927131_The_Hundred2026_womens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg" group-title="Sony Liv", Welsh Fire vs London Spirit - 12 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786551632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8f5f2153db74e5bc045d54c9b9705ad3aa278207df0b84029da196bf574cc221
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
