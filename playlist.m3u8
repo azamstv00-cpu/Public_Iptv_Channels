@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-13 19:03:15 Bangladesh Standard Time
-# Sources: 8 | Channels: 34 | Groups: 5
+# Generated: 2026-08-13 20:54:29 Bangladesh Standard Time
+# Sources: 8 | Channels: 35 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,29 +56,19 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539134" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 1 - 13 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/master.m3u8?hdnea=exp=1786639833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d520e2acae163df37e9dee22d9dfa2fcb256830567b4dd401e90e12a9857e25d
-#EXTINF:-1 tvg-id="sonyliv-1090539094" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs Langsning FC - 13 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/master.m3u8?hdnea=exp=1786647040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fb426bfefbde6a5c4c83d7033f2a28864d8e38d37fe42f5a6fef350a344b58a5
-
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865194281020x576.jpg" group-title="Tapmad", Khan Tigers vs Vedanta Leopards | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0H9YMJC8N" tvg-name="Lions vs. Panthers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b9722c9-34d1-4b57-b3e3-89b20f944e51/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lions vs. Panthers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HBWSJ59Y" tvg-name="Tigers vs. Leopards" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.177bf073-5c44-4da5-b972-fef8192390cd/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tigers vs. Leopards
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539134_ENG" tvg-name="Danish Golf Championship - Day 1 - 13 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 1 - 13 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786672376~acl=/*~id=64699457279152980161404207512387~hmac=f05ce9f57492c2b2d41f3a5c7047a6507283eb502c2101ec37f9b49aca2b1ae6
+#EXTINF:-1 tvg-id="sonyliv-1090539134" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 1 - 13 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/master.m3u8?hdnea=exp=1786639833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d520e2acae163df37e9dee22d9dfa2fcb256830567b4dd401e90e12a9857e25d
+#EXTINF:-1 tvg-id="1090539094_ENG" tvg-name="Shillong Lajong FC vs Langsning FC - 13 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg" group-title="Sony Liv",Shillong Lajong FC vs Langsning FC - 13 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786672376~acl=/*~id=64699457279152980161404207512387~hmac=f05ce9f57492c2b2d41f3a5c7047a6507283eb502c2101ec37f9b49aca2b1ae6
+#EXTINF:-1 tvg-id="sonyliv-1090539094" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs Langsning FC - 13 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/master.m3u8?hdnea=exp=1786647040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fb426bfefbde6a5c4c83d7033f2a28864d8e38d37fe42f5a6fef350a344b58a5
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" tvg-name="Bangladesh vs Australia" group-title="HimelOp",Bangladesh vs Australia
@@ -98,3 +88,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HBWSJ59Y" tvg-name="Tigers vs. Leopards" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.177bf073-5c44-4da5-b972-fef8192390cd/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tigers vs. Leopards
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
