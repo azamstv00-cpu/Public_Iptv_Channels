@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-14 18:59:17 Bangladesh Standard Time
-# Sources: 8 | Channels: 35 | Groups: 4
+# Generated: 2026-08-14 20:17:50 Bangladesh Standard Time
+# Sources: 8 | Channels: 38 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,21 +56,43 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539209_ENG" tvg-name="Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786751955~acl=/*~id=03332257484153915104450631001796~hmac=2b9da438d2878b578d14274745cb6b9cef6b486476dd58ebb62acca859ca8c14
-#EXTINF:-1 tvg-id="sonyliv-1090539209" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 2 - 14 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/master.m3u8?hdnea=exp=1786726231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5945c88e159efd2b56f0a5de30deacd1d536794f1104ade291d58c4a76af325c
-#EXTINF:-1 tvg-id="sonyliv-1090539181" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695599742126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_landscape_thumb.jpg" group-title="Sony Liv", Sunrisers Leeds vs Southern Brave - Eliminator - 14 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786733432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b0a04ca46aaf513c723017accd7a781e58fbcf8bd9de5f964ce37b1d79d06b7
-
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15951" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866080861020x576.jpg" group-title="Tapmad", Khan Tigers vs Aussie Mavericks Jaguars | World Padel League 2026
+#EXTINF:-1 tvg-id="tapmad-15952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866082411020x576.jpg" group-title="Tapmad", Game Changer Lions vs VB Realty Cheetahs | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15719" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865204931020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 7 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866174531020x576women.jpg" group-title="Tapmad", Southern Brave vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539209_ENG" tvg-name="Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786758650~acl=/*~id=83690130487578630751694579132831~hmac=7b4430f3506c0671477547f1ae42abdc93166f1fc365db5bff1c505f10a1d1d0
+#EXTINF:-1 tvg-id="sonyliv-1090539209" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 2 - 14 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/master.m3u8?hdnea=exp=1786726231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5945c88e159efd2b56f0a5de30deacd1d536794f1104ade291d58c4a76af325c
+#EXTINF:-1 tvg-id="sonyliv-1090539181" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695599742126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_landscape_thumb.jpg" group-title="Sony Liv", Sunrisers Leeds vs Southern Brave - Eliminator - 14 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786733432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b0a04ca46aaf513c723017accd7a781e58fbcf8bd9de5f964ce37b1d79d06b7
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H389DFX7" tvg-name="The Hundred Womens Competition 2026 - Eliminator - Sunrisers Leeds Women vs Southern Brave Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6d5e042-21b9-42ec-aeea-6d1bc166837a/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - Eliminator - Sunrisers Leeds Women vs Southern Brave Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ldouqzq3cx/out/v1/299a89bb79504a8da60569a41e0053a0/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HC9NJQZ7" tvg-name="ONE Friday Fights 166" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9651307-704f-4708-b266-c729ba22f62b/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 166
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+#EXTINF:-1 tvg-id="B0HC7GJ613" tvg-name="Lausanne: Day 1 group-title="Prime Video", Session 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de250851-e92e-4eaf-8ec6-99b0c821dc88/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lausanne: Day 1, Session 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" tvg-name="Bangladesh vs Australia" group-title="HimelOp",Bangladesh vs Australia
