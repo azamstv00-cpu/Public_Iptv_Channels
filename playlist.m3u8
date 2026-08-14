@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-14 17:51:59 Bangladesh Standard Time
-# Sources: 8 | Channels: 33 | Groups: 4
+# Generated: 2026-08-14 18:59:17 Bangladesh Standard Time
+# Sources: 8 | Channels: 35 | Groups: 4
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,17 +56,21 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539209_ENG" tvg-name="Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786751955~acl=/*~id=03332257484153915104450631001796~hmac=2b9da438d2878b578d14274745cb6b9cef6b486476dd58ebb62acca859ca8c14
+#EXTINF:-1 tvg-id="sonyliv-1090539209" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 2 - 14 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/master.m3u8?hdnea=exp=1786726231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5945c88e159efd2b56f0a5de30deacd1d536794f1104ade291d58c4a76af325c
+#EXTINF:-1 tvg-id="sonyliv-1090539181" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695599742126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_landscape_thumb.jpg" group-title="Sony Liv", Sunrisers Leeds vs Southern Brave - Eliminator - 14 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786733432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b0a04ca46aaf513c723017accd7a781e58fbcf8bd9de5f964ce37b1d79d06b7
+
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15951" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866080861020x576.jpg" group-title="Tapmad", Khan Tigers vs Aussie Mavericks Jaguars | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15719" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865204931020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 7 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539209_ENG" tvg-name="Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786748315~acl=/*~id=56681429717976699575987991547497~hmac=2677caecb5b672f6c465ac33c1ec9a576280bffb7f63b3aca53edf8df9d5c00c
-#EXTINF:-1 tvg-id="sonyliv-1090539209" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 2 - 14 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/master.m3u8?hdnea=exp=1786726231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5945c88e159efd2b56f0a5de30deacd1d536794f1104ade291d58c4a76af325c
+#EXTINF:-1 tvg-id="tapmad-15249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866174531020x576women.jpg" group-title="Tapmad", Southern Brave vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" tvg-name="Bangladesh vs Australia" group-title="HimelOp",Bangladesh vs Australia
