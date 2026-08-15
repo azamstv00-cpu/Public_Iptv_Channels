@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-15 09:35:48 Bangladesh Standard Time
-# Sources: 8 | Channels: 39 | Groups: 5
+# Generated: 2026-08-15 10:27:04 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,11 +56,25 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539201_ENG" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 1st Test - 15 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3
+#EXTINF:-1 tvg-id="1090539201_HIN" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 1st Test - 15 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3
+#EXTINF:-1 tvg-id="1090539201_KAN" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 1st Test - 15 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3
+#EXTINF:-1 tvg-id="1090539201_TAM" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 1st Test - 15 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3
+#EXTINF:-1 tvg-id="1090539201_TEL" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 1st Test - 15 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3
+#EXTINF:-1 tvg-id="sonyliv-1090539247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 1st Test - 15 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786789237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e51fb9a97533baa63bf209b2f0ca4cf709482ee79fcf2f524f3f0875d0a3f1a0
+
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="Tapmad", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15782" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867325191020x576.jpg" group-title="Tapmad", St Lucia Kings vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0GKPXS5CW" tvg-name="Bangladesh tour of Australia 2026 - 1st Test - Australia vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Bangladesh tour of Australia 2026 - 1st Test - Australia vs Bangladesh
@@ -68,13 +82,39 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0150a56b1be7ec9071169fd5bffc237:3f949ad399e6a732e57d9100cc79317e
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/135uesxk1s/out/v1/b83d0874f8ca458fa41a41df9c869753/cenc.mpd
-#EXTINF:-1 tvg-id="B0HBRCZ66X" tvg-name="Caribbean Premier League 2026 - 7th Match - Saint Lucia Kings vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f6c84d-a6ef-48df-bd56-274f79d73106/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 7th Match - Saint Lucia Kings vs Antigua And Barbuda Falcons
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/135uesxk1s/out/v1/b83d0874f8ca458fa41a41df9c869753/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HCYXX46N" tvg-name="American Poolplayers Association Billiards-2026 American Poolplayers Association: Team Captains Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa5c69b8-6a7a-4ce2-abdd-60d01730ae36/19/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",American Poolplayers Association Billiards-2026 American Poolplayers Association: Team Captains Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33ce9afd805f457505a17f55f9ca05d7:de955182ae936058856b9b5d6c6a1bf8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yr07asr2jg/out/v1/6a43c43b2f0a47fdb4122860050c7307/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HBWVSJ7J" tvg-name="Canterbury v Bay of Plenty" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bea5fb83-16ac-412f-b906-7b532a0ae7e5/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canterbury v Bay of Plenty
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#EXTINF:-1 tvg-id="B0H187RL8T" tvg-name="Fire vs. Storm" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bf3ace3-2550-4820-932d-620f46769f00/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Fire vs. Storm
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b08d24b0fa4b65fee721844ee216e0:f22e996f6bd18b571e3f9d25167a0526
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/evewsh19eb/out/v1/5ff67c8e84a148ac8407bbf1269b2049/cenc.mpd
+#EXTINF:-1 tvg-id="B0H7RRKC91" tvg-name="Lucas Oil Topless 100 at Batesville Motor Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64b9030d-7354-4a85-8e83-c4ed53cfc85b/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lucas Oil Topless 100 at Batesville Motor Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+#EXTINF:-1 tvg-id="B0GW3THXFB" tvg-name="ONE Fight Night 46: Hemetsberger vs. Diachkova on Prime Video" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.18b4337b-0bd2-4533-bca1-ea025262304f/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Fight Night 46: Hemetsberger vs. Diachkova on Prime Video
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27309bb0bafbb026aed4353f05ed4957:549339539c91ea5e90ec1d32fce926d0
+https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqk4EfBhpqf7qfA2ZmYXN0bHkCeClzc2lkOjJkZjZjZTgzLWNlYzAtNDc4NC1hYzE2LWEzYzEwNzMxNDAxZhkBOKEFoQJ4My91OG9pNG5kNHhyL291dC92MS8zZDM2Y2M3ODAwZTQ0OWNkOTM0ZDQxZTVmMDUxY2U3MRkBPIFiVVNYIDKz5IkdfLkZjVRhMdn2Y9y-6lmX2Awb2cwQDae05zjc/PDX/98fb01dc3c8540dfb85b889ad02a1414/v1/dash/396202602859/onec_amzn1_dv_live_csid_b96fa3e3-3992-4fae-ba37-425406121a35_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u8oi4nd4xr/out/v1/3d36cc7800e449cd934d41e5f051ce71/e2eff0ed-6786-4c67-900f-e5f69f9279d9-cenc.mpd?aws.sessionId=6e09df18-07f1-40f5-9152-6ace6acb6ae8
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" tvg-name="Bangladesh vs Australia" group-title="HimelOp",Bangladesh vs Australia
@@ -96,35 +136,3 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4ez0nzel5u/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HCYXX46N" tvg-name="American Poolplayers Association Billiards-2026 American Poolplayers Association: Team Captains Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa5c69b8-6a7a-4ce2-abdd-60d01730ae36/19/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",American Poolplayers Association Billiards-2026 American Poolplayers Association: Team Captains Championship
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HBWVSJ7J" tvg-name="Canterbury v Bay of Plenty" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bea5fb83-16ac-412f-b906-7b532a0ae7e5/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canterbury v Bay of Plenty
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-#EXTINF:-1 tvg-id="B0H187RL8T" tvg-name="Fire vs. Storm" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bf3ace3-2550-4820-932d-620f46769f00/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Fire vs. Storm
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b08d24b0fa4b65fee721844ee216e0:f22e996f6bd18b571e3f9d25167a0526
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/evewsh19eb/out/v1/5ff67c8e84a148ac8407bbf1269b2049/cenc.mpd
-#EXTINF:-1 tvg-id="B0H7RRKC91" tvg-name="Lucas Oil Topless 100 at Batesville Motor Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64b9030d-7354-4a85-8e83-c4ed53cfc85b/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lucas Oil Topless 100 at Batesville Motor Speedway
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
-#EXTINF:-1 tvg-id="B0GW3THXFB" tvg-name="Unknown Match" tvg-logo="https://m.media-amazon.com/images/S/sonata-images-prod/US_SVOD_ONE_Championship_Event46_StandardHero/3bf41f75-c6ff-4917-8be4-0a5d74ae1b10._UR3840 group-title="Prime Video",1440_SX2160_FMjpg_.jpeg" group-title="Prime Video Sports",Unknown Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27309bb0bafbb026aed4353f05ed4957:549339539c91ea5e90ec1d32fce926d0
-https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqk4EfBhpqf7qfA2ZmYXN0bHkCeClzc2lkOjJkZjZjZTgzLWNlYzAtNDc4NC1hYzE2LWEzYzEwNzMxNDAxZhkBOKEFoQJ4My91OG9pNG5kNHhyL291dC92MS8zZDM2Y2M3ODAwZTQ0OWNkOTM0ZDQxZTVmMDUxY2U3MRkBPIFiVVNYIDKz5IkdfLkZjVRhMdn2Y9y-6lmX2Awb2cwQDae05zjc/PDX/98fb01dc3c8540dfb85b889ad02a1414/v1/dash/396202602859/onec_amzn1_dv_live_csid_b96fa3e3-3992-4fae-ba37-425406121a35_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u8oi4nd4xr/out/v1/3d36cc7800e449cd934d41e5f051ce71/e2eff0ed-6786-4c67-900f-e5f69f9279d9-cenc.mpd?aws.sessionId=6e09df18-07f1-40f5-9152-6ace6acb6ae8
