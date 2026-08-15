@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-15 20:19:03 Bangladesh Standard Time
-# Sources: 8 | Channels: 41 | Groups: 6
+# Generated: 2026-08-15 21:17:22 Bangladesh Standard Time
+# Sources: 8 | Channels: 46 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -56,39 +56,71 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539270_ENG" tvg-name="Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786845566~acl=/*~id=37236085952584677550019546137526~hmac=bf02a6af28bf4b658e3d43e8c832ea6df4e121b84358ddbb2cdb9238c6c9ff07
-#EXTINF:-1 tvg-id="sonyliv-1090539270" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 3 - 15 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/master.m3u8?hdnea=exp=1786810835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a7ea25d78f7912b1f3eda7c7e87ecfb492fcc51d5dca03dd76baca0d11fba66
-#EXTINF:-1 tvg-id="1090539251_ENG" tvg-name="England vs India - 5th T20I - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv",England vs India - 5th T20I - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786845566~acl=/*~id=37236085952584677550019546137526~hmac=bf02a6af28bf4b658e3d43e8c832ea6df4e121b84358ddbb2cdb9238c6c9ff07
-#EXTINF:-1 tvg-id="sonyliv-1090539251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv", England vs India - 5th T20I - 15 Aug 2026 | Vitality Mixed Disability IT20 series
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/master.m3u8?hdnea=exp=1786821633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7dc93ea0480d510fb525f5f0a4267407e4068feea6070455cefff5af189c8839
-#EXTINF:-1 tvg-id="1090539217_ENG" tvg-name="R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv",R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786845566~acl=/*~id=37236085952584677550019546137526~hmac=bf02a6af28bf4b658e3d43e8c832ea6df4e121b84358ddbb2cdb9238c6c9ff07
-#EXTINF:-1 tvg-id="sonyliv-1090539217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv", R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 | ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/master.m3u8?hdnea=exp=1786819831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3ce4bc1cc3cd348522bb184b05ce5c1a860208e5aaf3fb889c31e674a8d7a168
-
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867982931020x576.jpg" group-title="Tapmad", Hubtown Panaroma Panthers vs VB Realty Cheetahs | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15720" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867334001020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 8 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HCJNB8ZX" tvg-name="Afghanistan tour of Ireland 2026 - 5th ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.100f33dd-e97e-4cad-aaf1-3726da0ac9fc/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 5th ODI - Ireland vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090539270_ENG" tvg-name="Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786848614~acl=/*~id=40786260146783894173671530008707~hmac=7b54b362d8ff0a92d850aa9812fd083502cbbf4ca4ae759e5377cefee785fbd7
+#EXTINF:-1 tvg-id="sonyliv-1090539270" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 3 - 15 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/master.m3u8?hdnea=exp=1786827033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9c60d2a18f68ec19bd0c68ba9702574000788bf16f8263b26beece634b242f1c
+#EXTINF:-1 tvg-id="1090539251_ENG" tvg-name="England vs India - 5th T20I - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv",England vs India - 5th T20I - 15 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786848614~acl=/*~id=40786260146783894173671530008707~hmac=7b54b362d8ff0a92d850aa9812fd083502cbbf4ca4ae759e5377cefee785fbd7
+#EXTINF:-1 tvg-id="sonyliv-1090539251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv", England vs India - 5th T20I - 15 Aug 2026 | Vitality Mixed Disability IT20 series
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/master.m3u8?hdnea=exp=1786821633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7dc93ea0480d510fb525f5f0a4267407e4068feea6070455cefff5af189c8839
+#EXTINF:-1 tvg-id="1090539217_ENG" tvg-name="R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv",R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786848614~acl=/*~id=40786260146783894173671530008707~hmac=7b54b362d8ff0a92d850aa9812fd083502cbbf4ca4ae759e5377cefee785fbd7
+#EXTINF:-1 tvg-id="sonyliv-1090539217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv", R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 | ABB FIA Formula E World Championship
+https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/master.m3u8?hdnea=exp=1786819831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3ce4bc1cc3cd348522bb184b05ce5c1a860208e5aaf3fb889c31e674a8d7a168
+
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H8TKVVHQ" tvg-name="ATP/WTA: 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f77afb72-4a9a-4635-83a4-22df29da2108/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP/WTA: 2nd Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 #EXTINF:-1 tvg-id="B0HF7CYYG2" tvg-name="Borussia VfL Mönchengladbach vs. Aston Villa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf96dafe-5ea2-4979-92fe-baac26cc88ca/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Borussia VfL Mönchengladbach vs. Aston Villa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCJNCXXH" tvg-name="Manhattan Beach Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e2f13fc-e076-45c1-9697-216de1d5a496/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manhattan Beach Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd
 #EXTINF:-1 tvg-id="B0HC4Z84N7" tvg-name="Newcastle vs. Leverkusen" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51f185ea-84fe-4d1e-9c36-27b191ae3875/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Newcastle vs. Leverkusen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HC82H2G2" tvg-name="Lausanne group-title="Prime Video", Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01fcfa7d-2d05-46b8-b991-56f46c75beb1/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lausanne, Quarterfinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCVBCXQY" tvg-name="Rolex Monterey Motorsports Reunion: Saturday Morning" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.530a8aaa-78fe-4ccc-81c0-d436e3e9bc3f/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Rolex Monterey Motorsports Reunion: Saturday Morning
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
@@ -103,6 +135,9 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97a5513689d3b2f6a4e31bfedb2ea2d6:19ba11eba39303ebd05986d92d974a02
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vsbkktsjpw/out/v1/a73da2deccb14219939a675c0b3d99cf/cenc.mpd
+#EXTINF:-1 tvg-logo="" tvg-name="Manchester United vs Milan" group-title="HimelOp",Manchester United vs Milan
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54664/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e6dd6a6-ed2f-4af2-9b25-ecf30e5fb61b/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="The Hundred 2026" group-title="Sports",The Hundred 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,11 +148,3 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4ez0nzel5u/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HCJNB8ZX" tvg-name="Afghanistan tour of Ireland 2026 - 5th ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.100f33dd-e97e-4cad-aaf1-3726da0ac9fc/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 5th ODI - Ireland vs Afghanistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd
