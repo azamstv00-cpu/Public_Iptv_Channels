@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-16 21:18:09 Bangladesh Standard Time
-# Sources: 8 | Channels: 52 | Groups: 6
+# Generated: 2026-08-16 22:07:39 Bangladesh Standard Time
+# Sources: 8 | Channels: 51 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -39,42 +39,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
 #EXTINF:-1 tvg-chno="17" tvg-name="ITV Sports FHD" group-title="Personal-Collection",ITV Sports FHD
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Premier Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTINF:-1 tvg-chno="18" tvg-name="SporTv" group-title="Personal-Collection",SporTv
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 #EXTINF:-1 tvg-chno="20" tvg-name="TNS AQ 1" group-title="Personal-Collection",TNS AQ 1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 tvg-chno="21" tvg-name="TSN AQ 2" group-title="Personal-Collection",TSN AQ 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 tvg-chno="22" tvg-name="TUDN Mexico" group-title="Personal-Collection",TUDN Mexico
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 #EXTINF:-1 tvg-chno="23" tvg-name="TVE La 1" group-title="Personal-Collection",TVE La 1
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
-#EXTINF:-1 tvg-chno="24" tvg-name="Vietnamese 1" group-title="Personal-Collection",Vietnamese 1
-https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-name="WC Tv" group-title="Personal-Collection",WC Tv
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539280" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786701229610634_FA_Community_Shield_Live_landscape_thumb.jpg" group-title="Sony Liv", Arsenal vs Manchester City - 16 Aug 2026 | FA Community Shield 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/Football1608/ENG/master.m3u8?hdnea=exp=1786908029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca3e6311cff97dadbdd391c55c774d63e83e4401ac94654c2d09ec316c6ac7ed
-#EXTINF:-1 tvg-id="1090539358_ENG" tvg-name="Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Sony Liv",Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786935421~acl=/*~id=95192043087573201135408183769852~hmac=d7921992d8e4aa4a0cd67a6a4b76a7787ea5481a37a148ab990edcc09bae3be3
-#EXTINF:-1 tvg-id="sonyliv-1090539358" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Sony Liv", Danish Golf Championship - Day 4 - 16 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/master.m3u8?hdnea=exp=1786908047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ab9d7ad9c3f192cdfe0658d63f6af0a0b2b19051455edf4deedd6226096e1fb7
-#EXTINF:-1 tvg-id="1090539305_ENG" tvg-name="England vs India - 6th T20I - 16 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv",England vs India - 6th T20I - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786935421~acl=/*~id=95192043087573201135408183769852~hmac=d7921992d8e4aa4a0cd67a6a4b76a7787ea5481a37a148ab990edcc09bae3be3
-#EXTINF:-1 tvg-id="sonyliv-1090539305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv", England vs India - 6th T20I - 16 Aug 2026 | Vitality Mixed Disability IT20 series
-https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/master.m3u8?hdnea=exp=1786908036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6620ea1f28b3b11db7e974ed50c7441af77b9a9b1ad595c602bfd56b9efd6921
-#EXTINF:-1 tvg-id="sonyliv-1090539294" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786795080367466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_landscape_thumb.jpg" group-title="Sony Liv", Indian Army FT vs East Bengal FC - Quarter Final 2 - 16 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000385/Football1608/ENG/master.m3u8?hdnea=exp=1786906231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=913e9428661182ca0f93e7a26d7eafbb627ccb7c554c7f6ed109ba8a261c87a2
-#EXTINF:-1 tvg-id="1090539307_ENG" tvg-name="R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv",R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786935421~acl=/*~id=95192043087573201135408183769852~hmac=d7921992d8e4aa4a0cd67a6a4b76a7787ea5481a37a148ab990edcc09bae3be3
-#EXTINF:-1 tvg-id="sonyliv-1090539307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv", R17 - London E-Prix - Final Race - 16 Aug 2026 | ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/master.m3u8?hdnea=exp=1786906246~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ca11a7e194ab53e2f312f1896b172b157ac59515df9fe89c2c920b164b974bd
-#EXTINF:-1 tvg-id="sonyliv-1090539295" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812419943953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Sony Liv", Trent Rockets vs Sunrisers Leeds - Final - 16 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786906239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1026d6f9fe4f49c40f4b6230e5812f6b24ed0cd44f273c1608de384521232271
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg" group-title="Tapmad", Arsenal vs Manchester City Live | FA Community Shield 2026
@@ -86,45 +68,19 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg" group-title="Tapmad", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0GYV8QNGJ" tvg-name="ATP/WTA: 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3c21741-f4fd-4d02-9e1a-35d050102f1f/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP/WTA: 2nd Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCTS8VW3" tvg-name="FC Schalke 04 vs. Real Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8d4ac59-a791-47a7-9e72-383991fb9ccf/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FC Schalke 04 vs. Real Madrid
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0H6FLG3RW" tvg-name="Final: Sunrisers Leeds vs. Trent Rockets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2408536d-e825-4dfc-a244-4aae8bb4945b/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Final: Sunrisers Leeds vs. Trent Rockets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0H7ZCXJ19" tvg-name="Nordic Storm vs. Paris Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c29942d8-3942-4f3d-8703-412467e84e1c/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Nordic Storm vs. Paris Musketeers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
-#EXTINF:-1 tvg-id="B0H7LXYB7Q" tvg-name="Vodacom Bulls v Toyota Cheetahs" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb830ad6-e0a1-4b5d-8dcd-f45567cbaf53/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Vodacom Bulls v Toyota Cheetahs
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H462DXK6" tvg-name="The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fac9f165-5bdf-44ab-91c9-d41435523095/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x4w5dkaqnd/out/v1/53fbe058c1274a6791da3fc24020140d/cenc.mpd
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090539280" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786701229610634_FA_Community_Shield_Live_landscape_thumb.jpg" group-title="Sony Liv", Arsenal vs Manchester City - 16 Aug 2026 | FA Community Shield 2026
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1608/ENG/master.m3u8?hdnea=exp=1786908029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca3e6311cff97dadbdd391c55c774d63e83e4401ac94654c2d09ec316c6ac7ed
+#EXTINF:-1 tvg-id="1090539305_ENG" tvg-name="England vs India - 6th T20I - 16 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv",England vs India - 6th T20I - 16 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786936029~acl=/*~id=27083061309113800995982187872345~hmac=6f2730ebba0f8be37ea06a41ca0ac56f361a578746a4e222ef827b88adb1e4de
+#EXTINF:-1 tvg-id="sonyliv-1090539305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Sony Liv", England vs India - 6th T20I - 16 Aug 2026 | Vitality Mixed Disability IT20 series
+https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/master.m3u8?hdnea=exp=1786908036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6620ea1f28b3b11db7e974ed50c7441af77b9a9b1ad595c602bfd56b9efd6921
+#EXTINF:-1 tvg-id="1090539307_ENG" tvg-name="R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv",R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786936029~acl=/*~id=27083061309113800995982187872345~hmac=6f2730ebba0f8be37ea06a41ca0ac56f361a578746a4e222ef827b88adb1e4de
+#EXTINF:-1 tvg-id="sonyliv-1090539307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg" group-title="Sony Liv", R17 - London E-Prix - Final Race - 16 Aug 2026 | ABB FIA Formula E World Championship
+https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/master.m3u8?hdnea=exp=1786906246~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ca11a7e194ab53e2f312f1896b172b157ac59515df9fe89c2c920b164b974bd
+#EXTINF:-1 tvg-id="sonyliv-1090539295" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812419943953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Sony Liv", Trent Rockets vs Sunrisers Leeds - Final - 16 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786906239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1026d6f9fe4f49c40f4b6230e5812f6b24ed0cd44f273c1608de384521232271
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Arsenal vs Manchester City" group-title="HimelOp",Arsenal vs Manchester City
@@ -157,3 +113,49 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4ez0nzel5u/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0GYV8QNGJ" tvg-name="ATP/WTA: 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3c21741-f4fd-4d02-9e1a-35d050102f1f/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP/WTA: 2nd Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCTS8VW3" tvg-name="FC Schalke 04 vs. Real Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8d4ac59-a791-47a7-9e72-383991fb9ccf/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FC Schalke 04 vs. Real Madrid
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0H6FLG3RW" tvg-name="Final: Sunrisers Leeds vs. Trent Rockets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2408536d-e825-4dfc-a244-4aae8bb4945b/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Final: Sunrisers Leeds vs. Trent Rockets
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0H7ZCXJ19" tvg-name="Nordic Storm vs. Paris Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c29942d8-3942-4f3d-8703-412467e84e1c/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Nordic Storm vs. Paris Musketeers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#EXTINF:-1 tvg-id="B0H6KBYDJW" tvg-name="Manhattan Beach Open group-title="Prime Video", Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.62531e60-6308-41d7-802c-a4daa2e82c34/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manhattan Beach Open, Semifinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
+#EXTINF:-1 tvg-id="B0H7LXYB7Q" tvg-name="Vodacom Bulls v Toyota Cheetahs" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb830ad6-e0a1-4b5d-8dcd-f45567cbaf53/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Vodacom Bulls v Toyota Cheetahs
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H462DXK6" tvg-name="The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fac9f165-5bdf-44ab-91c9-d41435523095/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x4w5dkaqnd/out/v1/53fbe058c1274a6791da3fc24020140d/cenc.mpd
