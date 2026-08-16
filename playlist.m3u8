@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-16 22:07:39 Bangladesh Standard Time
+# Generated: 2026-08-16 22:09:35 Bangladesh Standard Time
 # Sources: 8 | Channels: 51 | Groups: 6
 
 
@@ -58,16 +58,6 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg" group-title="Tapmad", Arsenal vs Manchester City Live | FA Community Shield 2026
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868901271020x576.jpg" group-title="Tapmad", Game Changer Lions vs Aussie Mavericks Jaguars | World Padel League 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15721" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg" group-title="Tapmad", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090539280" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786701229610634_FA_Community_Shield_Live_landscape_thumb.jpg" group-title="Sony Liv", Arsenal vs Manchester City - 16 Aug 2026 | FA Community Shield 2026
 https://sonydaimenew.akamaized.net/hls/live/20000301/Football1608/ENG/master.m3u8?hdnea=exp=1786908029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca3e6311cff97dadbdd391c55c774d63e83e4401ac94654c2d09ec316c6ac7ed
@@ -81,6 +71,24 @@ https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-80
 https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/master.m3u8?hdnea=exp=1786906246~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ca11a7e194ab53e2f312f1896b172b157ac59515df9fe89c2c920b164b974bd
 #EXTINF:-1 tvg-id="sonyliv-1090539295" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812419943953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Sony Liv", Trent Rockets vs Sunrisers Leeds - Final - 16 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786906239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1026d6f9fe4f49c40f4b6230e5812f6b24ed0cd44f273c1608de384521232271
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg" group-title="Tapmad", Arsenal vs Manchester City Live | FA Community Shield 2026
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868901271020x576.jpg" group-title="Tapmad", Game Changer Lions vs Aussie Mavericks Jaguars | World Padel League 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15721" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg" group-title="Tapmad", PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg" group-title="Tapmad", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H462DXK6" tvg-name="The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fac9f165-5bdf-44ab-91c9-d41435523095/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x4w5dkaqnd/out/v1/53fbe058c1274a6791da3fc24020140d/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Arsenal vs Manchester City" group-title="HimelOp",Arsenal vs Manchester City
@@ -151,11 +159,3 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H462DXK6" tvg-name="The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fac9f165-5bdf-44ab-91c9-d41435523095/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - Final - Trent Rockets Women vs Sunrisers Leeds Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x4w5dkaqnd/out/v1/53fbe058c1274a6791da3fc24020140d/cenc.mpd
