@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-17 10:37:45 Bangladesh Standard Time
-# Sources: 8 | Channels: 35 | Groups: 5
+# Generated: 2026-08-17 11:07:04 Bangladesh Standard Time
+# Sources: 8 | Channels: 36 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -45,6 +45,8 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 #EXTINF:-1 tvg-chno="20" tvg-name="TNS AQ 1" group-title="Personal-Collection",TNS AQ 1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",TNT Sports 1
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",TNT Sports 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 tvg-chno="21" tvg-name="TSN AQ 2" group-title="Personal-Collection",TSN AQ 2
@@ -58,11 +60,13 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090539434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875259795377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 3 - 1st Test - 17 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786960229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b874baf580b9d6d8fd409fb239cd91729b93e6154d771e12e1fbc5f54dc0c159
+
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15784" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868713991020x576.jpg" group-title="Tapmad", St Lucia Kings vs Barbados Tridents | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
@@ -94,8 +98,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875259795377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 3 - 1st Test - 17 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786960229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b874baf580b9d6d8fd409fb239cd91729b93e6154d771e12e1fbc5f54dc0c159
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HCX5GP83" tvg-name="India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/5/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26d1e7d0ed8205fd964f87d793ce4681:837e3f6e328319333f8d8cf9ca3ab9ec
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd
