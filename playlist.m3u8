@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-17 20:24:25 Bangladesh Standard Time
+# Generated: 2026-08-17 21:22:24 Bangladesh Standard Time
 # Sources: 8 | Channels: 34 | Groups: 4
 
 
@@ -61,8 +61,12 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869711821020x576.jpg" group-title="Tapmad", India vs England | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16137" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869751111020x576WOMEN.jpg" group-title="Tapmad", Germany vs Argentina - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090539452" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/Football1708/ENG/master.m3u8?hdnea=exp=1786992633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=40e26a5f55fe4d4b40946b1e1d8674f60a4809b0e40e31127de54bcd8511bfef
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
@@ -87,7 +91,3 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jykn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539452" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" group-title="Sony Liv", Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Football1708/ENG/master.m3u8?hdnea=exp=1786992633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=40e26a5f55fe4d4b40946b1e1d8674f60a4809b0e40e31127de54bcd8511bfef
