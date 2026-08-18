@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-18 19:39:46 Bangladesh Standard Time
-# Sources: 8 | Channels: 39 | Groups: 4
+# Generated: 2026-08-18 20:30:08 Bangladesh Standard Time
+# Sources: 8 | Channels: 34 | Groups: 3
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -62,21 +62,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-16144" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870561271020x576WOMEN.jpg" group-title="Tapmad", India vs South Africa - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8v
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16143" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870372601020x576MEN.jpg" group-title="Tapmad", Spain vs Australia | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539530_English" tvg-name="Day 4 - 1st Test - 18 Aug 2026 [English]" tvg-logo="https://img.media.jio.com/tvpimages/65/17/f93915dba0935bf38e816a66674c9d2e_1787045421820_l_medium.jpg" group-title="Sony Liv",Day 4 - 1st Test - 18 Aug 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787101192~acl=/*~id=42358997027659943471261585353228~hmac=cb5e01a3e2c983ee906f888783993e808c96b4450b2f820eaeddaf51081c7729
-#EXTINF:-1 tvg-id="1090539530_Hindi" tvg-name="Day 4 - 1st Test - 18 Aug 2026 [Hindi]" tvg-logo="https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg" group-title="Sony Liv",Day 4 - 1st Test - 18 Aug 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787101192~acl=/*~id=42358997027659943471261585353228~hmac=cb5e01a3e2c983ee906f888783993e808c96b4450b2f820eaeddaf51081c7729
-#EXTINF:-1 tvg-id="1090539530_Kannada" tvg-name="Day 4 - 1st Test - 18 Aug 2026 [Kannada]" tvg-logo="https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg" group-title="Sony Liv",Day 4 - 1st Test - 18 Aug 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787101192~acl=/*~id=42358997027659943471261585353228~hmac=cb5e01a3e2c983ee906f888783993e808c96b4450b2f820eaeddaf51081c7729
-#EXTINF:-1 tvg-id="1090539530_Tamil" tvg-name="Day 4 - 1st Test - 18 Aug 2026 [Tamil]" tvg-logo="https://img.media.jio.com/tvpimages/37/60/7dd327ddf57e5e8684ad6e1d849c2220_1787045421721_l_medium.jpg" group-title="Sony Liv",Day 4 - 1st Test - 18 Aug 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787101192~acl=/*~id=42358997027659943471261585353228~hmac=cb5e01a3e2c983ee906f888783993e808c96b4450b2f820eaeddaf51081c7729
-#EXTINF:-1 tvg-id="1090539530_Telugu" tvg-name="Day 4 - 1st Test - 18 Aug 2026 [Telugu]" tvg-logo="https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg" group-title="Sony Liv",Day 4 - 1st Test - 18 Aug 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787101192~acl=/*~id=42358997027659943471261585353228~hmac=cb5e01a3e2c983ee906f888783993e808c96b4450b2f820eaeddaf51081c7729
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
