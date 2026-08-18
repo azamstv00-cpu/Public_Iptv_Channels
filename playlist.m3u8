@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-19 03:20:23 Bangladesh Standard Time
-# Sources: 8 | Channels: 40 | Groups: 5
+# Generated: 2026-08-19 04:19:22 Bangladesh Standard Time
+# Sources: 8 | Channels: 34 | Groups: 3
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -60,31 +60,19 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg" group-title="Tapmad", Dinamo Zagreb vs Viking | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16082" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg" group-title="Tapmad", Fenerbache vs OL | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16080" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg" group-title="Tapmad", Levski Sofia vs AEK | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16147" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870590811020x576WOMEN.jpg" group-title="Tapmad", Spain vs Belgium - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539572" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022385/1786979056172606_UCL26-27_Play-offs_Leg1_Fenerbahce_vs_Lyon_live_landscape_thumb.jpg" group-title="Sony Liv", Fenerbahce vs Lyon - Play-offs - Leg 1 - 19 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000291/Football1808/ENG/master.m3u8?hdnea=exp=1787100632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4ec4ef119f7bb724fb69ed63ab9762be5061bf88276a55bd5e64238227156be
-#EXTINF:-1 tvg-id="sonyliv-1090539571" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031647078942_UCL_26_Play-offs-Leg1_GNK-Dinamo-vs-Viking_live_landscape_thumb.jpg" group-title="Sony Liv", GNK Dinamo vs Viking - Play-offs - Leg 1 - 19 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000301/Football1808/ENG/master.m3u8?hdnea=exp=1787100639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7bf24646c1cefd87b232f408339fc54a9198c65eba1453eaffbf0e3bccefdcca
-#EXTINF:-1 tvg-id="sonyliv-1090539534" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031755536942_UCL_26_Play-offs-Leg1_Levski-Sofia-vs-AEK-Athens_live_landscape_thumb.jpg" group-title="Sony Liv", Levski Sofia vs AEK Athens - Play-offs - Leg 1 - 19 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1808/ENG/master.m3u8?hdnea=exp=1787100647~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=612236148414d232666cc195d52018b30abe3cec997f68ec26efc7bd25ddb77b
-
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HFFMBT3R" tvg-name="Mount Pleasant vs. Cibao FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.227c0067-38e4-48c6-922f-4f62031eff5c/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Mount Pleasant vs. Cibao FC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFBY77ZN" tvg-name="WTA: 3rd Round & Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64acf271-60a9-4687-a4a9-d6829f379b8d/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",WTA: 3rd Round & Doubles 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
