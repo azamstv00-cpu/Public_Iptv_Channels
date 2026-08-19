@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-19 13:35:44 Bangladesh Standard Time
+# Generated: 2026-08-19 14:33:47 Bangladesh Standard Time
 # Sources: 8 | Channels: 39 | Groups: 5
 
 
@@ -67,18 +67,18 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539706_English" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [English]" tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787122263541_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787165646~acl=/*~id=16136217402082727282356827634110~hmac=6476da0d7828db8603be6f5ff248ce92796c27b3a58b274cce56e801bb705362
-#EXTINF:-1 tvg-id="1090539706_Hindi" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Hindi]" tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787122263556_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787165646~acl=/*~id=16136217402082727282356827634110~hmac=6476da0d7828db8603be6f5ff248ce92796c27b3a58b274cce56e801bb705362
-#EXTINF:-1 tvg-id="1090539706_Kannada" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Kannada]" tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787122263475_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787165646~acl=/*~id=16136217402082727282356827634110~hmac=6476da0d7828db8603be6f5ff248ce92796c27b3a58b274cce56e801bb705362
-#EXTINF:-1 tvg-id="1090539706_Tamil" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Tamil]" tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787122263444_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787165646~acl=/*~id=16136217402082727282356827634110~hmac=6476da0d7828db8603be6f5ff248ce92796c27b3a58b274cce56e801bb705362
-#EXTINF:-1 tvg-id="1090539706_Telugu" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Telugu]" tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787122263526_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787165646~acl=/*~id=16136217402082727282356827634110~hmac=6476da0d7828db8603be6f5ff248ce92796c27b3a58b274cce56e801bb705362
+#EXTINF:-1 tvg-id="1090539706_English" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [English]" tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787124633572_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d
+#EXTINF:-1 tvg-id="1090539706_Hindi" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Hindi]" tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787124633452_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d
+#EXTINF:-1 tvg-id="1090539706_Kannada" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Kannada]" tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787124633397_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d
+#EXTINF:-1 tvg-id="1090539706_Tamil" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Tamil]" tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787124633440_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d
+#EXTINF:-1 tvg-id="1090539706_Telugu" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Telugu]" tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787124633424_l_medium.jpg" group-title="Sony Liv",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d
 #EXTINF:-1 tvg-id="sonyliv-1090539696" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964161981306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 5 - 1st Test - 19 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787133030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=95cf299be462b6b3958a0c8f4ad70312326d77c9e6d33d816d4ba66d613eccc3
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787149233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e236d4539774a07fa6f6835690dd3154b3378a0b139dc264a30abebf3e758216
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
@@ -100,4 +100,4 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/duuj
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
