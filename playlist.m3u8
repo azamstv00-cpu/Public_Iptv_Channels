@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-20 02:23:16 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 5
+# Generated: 2026-08-20 03:22:10 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 4
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -74,29 +74,13 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870412141020x576.jpg" group-title="Tapmad", Slovan Bratislava vs Celje | UEFA Champions League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090539683" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033925006476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_landscape_thumb.jpg" group-title="Sony Liv", Bratislava vs Celje - Play-offs - Leg 1 - 20 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football1908/ENG/master.m3u8?hdnea=exp=1787187061~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=23691d5f117a6d001474938131351b8aec8b41214ca0214d4ae4546289d9bf71
-#EXTINF:-1 tvg-id="sonyliv-1090539675" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980479078688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_landscape_thumb.jpg" group-title="Sony Liv", Celtic vs LASK - Play-offs - Leg 1 - 20 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football1908/ENG/master.m3u8?hdnea=exp=1787187034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=778e9fe5cb2b2d73fa403bce2a3dbb5ce8b4a3ef4aaee56e35b0915eb07054ad
-#EXTINF:-1 tvg-id="sonyliv-1090539690" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034725642476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_landscape_thumb.jpg" group-title="Sony Liv", H. Beer-Sheva vs Sabah - Play-offs - Leg 1 - 20 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000299/Football1908/ENG/master.m3u8?hdnea=exp=1787187040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9aef4f7571f4c32a63bc28cd1742eca9d673384b096bedd9fc618fba7586b353
-#EXTINF:-1 tvg-id="sonyliv-1090539693" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035474329476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_landscape_thumb.jpg" group-title="Sony Liv", N.E.C. vs Bodø/Glimt - Play-offs - Leg 1 - 20 Aug 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football1908/ENG/master.m3u8?hdnea=exp=1787187052~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f5d894efcddb2445eea897f5de71092a947ce5bc58da26f4ced3fd96b177eeef
-
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HC9X6G7J" tvg-name="Celtic vs. LASK" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2eca456-f031-4570-9523-4a4d62a5e8ab/7/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Celtic vs. LASK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HF8J674T" tvg-name="ATP/WTA: Round of 16 group-title="Prime Video", Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9081d63b-3402-4977-98b3-e462f1796bfa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP/WTA: Round of 16, Doubles 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFCDMS1H" tvg-name="MLF LIVE - Team Series Patriot Cup Knockout Round 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57420452-3996-419a-8bd8-48fc17e8cc26/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MLF LIVE - Team Series Patriot Cup Knockout Round 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
