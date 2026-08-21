@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-21 22:29:50 Bangladesh Standard Time
-# Sources: 8 | Channels: 41 | Groups: 5
+# Generated: 2026-08-21 23:25:35 Bangladesh Standard Time
+# Sources: 8 | Channels: 39 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -71,10 +71,6 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090539897" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg" group-title="Sony Liv", Indianapolis - Day 2 - 21 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/master.m3u8?hdnea=exp=1787349043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fe47c61c1aa2868e30f3335be514d94acbc35ba5cd14f3a08cf58ff5ed70725d
-#EXTINF:-1 tvg-id="1090539908_ENG" tvg-name="Nexo Championship - Day 2 - 21 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Nexo Championship - Day 2 - 21 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787371048~acl=/*~id=57779437433183250320903081124680~hmac=44abee64cbca534c174ddb7c752e9f5f1b88c48c4bf6fa111df2bd6e532a8f0d
-#EXTINF:-1 tvg-id="sonyliv-1090539908" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Nexo Championship - Day 2 - 21 Aug 2026 | DP World Tour
-https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787349034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8a5ed0b0cb1aa3f95cef2bc5621dd97ffa6ba74a49a0d9b6e87ead8436808507
 
 #SOURCE-TITLE:Prime Video
 #EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/14/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
@@ -82,19 +78,19 @@ https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFH4S5QJ" tvg-name="ONE Friday Fights 167" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a1474af-c243-46d6-9ad3-72dcfc810f47/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 167
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 #EXTINF:-1 tvg-id="B0H756NXKP" tvg-name="Quebec City - Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a176d4a1-1651-4737-9521-fe3fff81b429/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Quebec City - Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFP37FVG" tvg-name="TOURCAST  from BMW Championship Round 1-Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01d63977-80cc-4409-913e-3052887e06a8/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",TOURCAST  from BMW Championship Round 1-Round 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="" tvg-name="Al Riyadh vs Al Nassr" group-title="HimelOp",Al Riyadh vs Al Nassr
