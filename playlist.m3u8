@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-21 21:29:37 Bangladesh Standard Time
-# Sources: 8 | Channels: 43 | Groups: 6
+# Generated: 2026-08-21 22:29:50 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -60,51 +60,21 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090539891_ENG" tvg-name="Day 3 - 1st Test - 21 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 1st Test - 21 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787367396~acl=/*~id=51939263392611105039569573916957~hmac=1117bc93625d02a4f105d066dbfdab2516d2564112782bae8bc18aaa4969eefe
-#EXTINF:-1 tvg-id="1090539908_ENG" tvg-name="Nexo Championship - Day 2 - 21 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Nexo Championship - Day 2 - 21 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787367396~acl=/*~id=51939263392611105039569573916957~hmac=1117bc93625d02a4f105d066dbfdab2516d2564112782bae8bc18aaa4969eefe
-#EXTINF:-1 tvg-id="sonyliv-1090539908" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Nexo Championship - Day 2 - 21 Aug 2026 | DP World Tour
-https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787332832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=def40b948d1cd551527f57adc09d0fcb11ac77da152a7b6c1adfb67441d97673
-
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16168" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873097391020x576WOMEN.jpg" group-title="Tapmad", China vs Australia - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15974" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872290901020x576.jpg" group-title="Tapmad", Al-Riyadh vs Al-Nassr | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16169" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872940921020x576MEN.jpg" group-title="Tapmad", Germany vs Spain | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16170" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873098451020x576WOMEN.jpg" group-title="Tapmad", Netherlands vs India - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
-#SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a5ho235pm6/out/v1/1c97371aa3014f0291ada5751a1e0d42/cenc.mpd
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd
-#EXTINF:-1 tvg-logo="" tvg-name="Formula 1" group-title="HimelOp",Formula 1
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54937/load-playlist?&.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
-https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="Pakistan tour of England 2026 - 1st Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 1st Test - England vs Pakistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mv2a4a16dt/out/v1/15437c63a814419182f1dfde499357f2/cenc.mpd
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090539897" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg" group-title="Sony Liv", Indianapolis - Day 2 - 21 Aug 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/master.m3u8?hdnea=exp=1787349043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fe47c61c1aa2868e30f3335be514d94acbc35ba5cd14f3a08cf58ff5ed70725d
+#EXTINF:-1 tvg-id="1090539908_ENG" tvg-name="Nexo Championship - Day 2 - 21 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv",Nexo Championship - Day 2 - 21 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787371048~acl=/*~id=57779437433183250320903081124680~hmac=44abee64cbca534c174ddb7c752e9f5f1b88c48c4bf6fa111df2bd6e532a8f0d
+#EXTINF:-1 tvg-id="sonyliv-1090539908" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="Sony Liv", Nexo Championship - Day 2 - 21 Aug 2026 | DP World Tour
+https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787349034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8a5ed0b0cb1aa3f95cef2bc5621dd97ffa6ba74a49a0d9b6e87ead8436808507
 
 #SOURCE-TITLE:Prime Video
 #EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/14/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
@@ -118,16 +88,32 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF14XPH5" tvg-name="Pumas v Suzuki Griquas" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.732cb936-8456-4a2f-aa90-ad3bc814537f/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Pumas v Suzuki Griquas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 #EXTINF:-1 tvg-id="B0H756NXKP" tvg-name="Quebec City - Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a176d4a1-1651-4737-9521-fe3fff81b429/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Quebec City - Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+
+#SOURCE-TITLE:HimelOp
+#EXTINF:-1 tvg-logo="" tvg-name="Al Riyadh vs Al Nassr" group-title="HimelOp",Al Riyadh vs Al Nassr
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54941/load-playlist?&.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a5ho235pm6/out/v1/1c97371aa3014f0291ada5751a1e0d42/cenc.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
+https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
