@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-22 23:17:38 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 6
+# Generated: 2026-08-23 00:25:04 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -60,61 +60,19 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15978" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873122241020x576.jpg" group-title="Tapmad", Al Fateh vs Al-Ettifaq | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16098" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873104241020x576.jpg" group-title="Tapmad", Athletic vs Sevilla | Laliga 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16178" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874125691020x576MEN.jpg" group-title="Tapmad", England vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16177" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873443111020x576WOMEN.jpg" group-title="Tapmad", Germany vs Belgium - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090539974_ENG" tvg-name="Indianapolis - Day 3 - 22 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702505513697_LIV_Golf_Indianapolis_day3_landscape_thumb.jpg" group-title="Sony Liv",Indianapolis - Day 3 - 22 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787460887~acl=/*~id=84902306311474827893634812399937~hmac=d704de61a2805e5ff942891f9f0513df5e1b5bd40ae11e469e903b562fb876ba
+https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787464538~acl=/*~id=97985667242232123400762233917741~hmac=67ca293fa41724959128904bf43f84dca2280f724765998f751a9147020c3ef0
 #EXTINF:-1 tvg-id="sonyliv-1090539974" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702505513697_LIV_Golf_Indianapolis_day3_landscape_thumb.jpg" group-title="Sony Liv", Indianapolis - Day 3 - 22 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/master.m3u8?hdnea=exp=1787431830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6528a334f8d977a7b97b3861eee06c87de510f3a27923057fa537602d871a7fa
 
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="Pakistan tour of England 2026 - 1st Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 1st Test - England vs Pakistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFFNWDMK" tvg-name="ATP: Doubles Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41bc91de-eea9-4ee5-a000-6d1abbc5c0b1/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP: Doubles Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HDXZLHGC" tvg-name="BMW Championship - TOURCast/SiriusXM Simulcast-Round 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6064ae90-86b4-4973-89fc-626a811e9728/9/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BMW Championship - TOURCast/SiriusXM Simulcast-Round 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
-#EXTINF:-1 tvg-id="B0HDYFTY96" tvg-name="Inter vs. Monza" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab995b39-dc47-4f4e-a985-09fd6259e1e7/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Inter vs. Monza
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="B0H23PPXNF" tvg-name="Springboks v All Blacks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.16a65b4e-023f-4db6-8bc4-11cdcfa24319/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Springboks v All Blacks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15980" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874160741020x576.jpg" group-title="Tapmad", Al-Ahli vs Abha | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16178" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874125691020x576MEN.jpg" group-title="Tapmad", England vs Argentina | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16099" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873105091020x576.jpg" group-title="Tapmad", Valencia vs Celta | Laliga 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
@@ -139,3 +97,43 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/duuj
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8378/1787342788378-h" tvg-name="Manchester United vs Hull City" group-title="HimelOp",Manchester United vs Hull City
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/55012/load-playlist?&.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="Pakistan tour of England 2026 - 1st Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 1st Test - England vs Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFFNWDMK" tvg-name="ATP: Doubles Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41bc91de-eea9-4ee5-a000-6d1abbc5c0b1/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP: Doubles Semifinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HDXZLHGC" tvg-name="BMW Championship - TOURCast/SiriusXM Simulcast-Round 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6064ae90-86b4-4973-89fc-626a811e9728/9/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BMW Championship - TOURCast/SiriusXM Simulcast-Round 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+#EXTINF:-1 tvg-id="B0HDYFTY96" tvg-name="Inter vs. Monza" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab995b39-dc47-4f4e-a985-09fd6259e1e7/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Inter vs. Monza
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCLCD3ZJ" tvg-name="Quebec - Singles Semifinals & Doubles Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d18916d-e210-447d-954d-f6af5d053265/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Quebec - Singles Semifinals & Doubles Final
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
