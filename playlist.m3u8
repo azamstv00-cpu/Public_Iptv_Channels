@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-23 12:35:33 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 6
+# Generated: 2026-08-23 13:30:46 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -64,45 +64,39 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090540028_ENG" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787507671~acl=/*~id=57768549498409685964561011878567~hmac=5a05eee04f4f66db36158c4696e0aab8f2040736990ddfb8a3ac1c401c5b4d95
-#EXTINF:-1 tvg-id="1090540028_HIN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787507671~acl=/*~id=57768549498409685964561011878567~hmac=5a05eee04f4f66db36158c4696e0aab8f2040736990ddfb8a3ac1c401c5b4d95
-#EXTINF:-1 tvg-id="1090540028_KAN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787507671~acl=/*~id=57768549498409685964561011878567~hmac=5a05eee04f4f66db36158c4696e0aab8f2040736990ddfb8a3ac1c401c5b4d95
-#EXTINF:-1 tvg-id="1090540028_TAM" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787507671~acl=/*~id=57768549498409685964561011878567~hmac=5a05eee04f4f66db36158c4696e0aab8f2040736990ddfb8a3ac1c401c5b4d95
-#EXTINF:-1 tvg-id="1090540028_TEL" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787507671~acl=/*~id=57768549498409685964561011878567~hmac=5a05eee04f4f66db36158c4696e0aab8f2040736990ddfb8a3ac1c401c5b4d95
-#EXTINF:-1 tvg-id="sonyliv-1090540040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326364907960_SL_vs_IND_2nd_Test_Day1_clean_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 2nd Test - 23 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787478633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dee7524cba25c12dc78a84c0c4cbf756cc81181334bdc9ca9c07d0b3ee3d34e2
-
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HC8KQP2K" tvg-name="Orix Buffaloes vs. Fukuoka SoftBank Hawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d72910a-0f63-4f84-a838-197f6608abf3/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Orix Buffaloes vs. Fukuoka SoftBank Hawks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFH5HG5W" tvg-name="Otago v Wellington Lions" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.818cbd17-67b7-47d1-9551-7c68f4346f96/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Otago v Wellington Lions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFDBCQK1" tvg-name="PPA Tour Asia: Shenzhen Open-Gold" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ba05926-def5-4b18-84e2-468cfd69891b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Asia: Shenzhen Open-Gold
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 #EXTINF:-1 tvg-id="B0H85J96JP" tvg-name="Sri Lanka vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb328646-4c6d-49ba-9565-f5f831c52f8b/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sri Lanka vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090540028_ENG" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787511329~acl=/*~id=48769905106364201217999211118720~hmac=3378ef98842713f03ed342556a61cd53f44eea8a6036144697fc5f25b67d33c1
+#EXTINF:-1 tvg-id="1090540028_HIN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787511329~acl=/*~id=48769905106364201217999211118720~hmac=3378ef98842713f03ed342556a61cd53f44eea8a6036144697fc5f25b67d33c1
+#EXTINF:-1 tvg-id="1090540028_KAN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787511329~acl=/*~id=48769905106364201217999211118720~hmac=3378ef98842713f03ed342556a61cd53f44eea8a6036144697fc5f25b67d33c1
+#EXTINF:-1 tvg-id="1090540028_TAM" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787511329~acl=/*~id=48769905106364201217999211118720~hmac=3378ef98842713f03ed342556a61cd53f44eea8a6036144697fc5f25b67d33c1
+#EXTINF:-1 tvg-id="1090540028_TEL" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787511329~acl=/*~id=48769905106364201217999211118720~hmac=3378ef98842713f03ed342556a61cd53f44eea8a6036144697fc5f25b67d33c1
+#EXTINF:-1 tvg-id="sonyliv-1090540040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326364907960_SL_vs_IND_2nd_Test_Day1_clean_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 2nd Test - 23 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787478633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dee7524cba25c12dc78a84c0c4cbf756cc81181334bdc9ca9c07d0b3ee3d34e2
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
@@ -110,7 +104,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4cab2df0-513e-4676-b9a3-83502707c2ae/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="Bangladesh vs Australia" group-title="Sports",Bangladesh vs Australia
