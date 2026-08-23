@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-23 18:33:41 Bangladesh Standard Time
-# Sources: 8 | Channels: 50 | Groups: 6
+# Generated: 2026-08-23 19:30:01 Bangladesh Standard Time
+# Sources: 8 | Channels: 48 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -62,21 +62,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090540028_ENG" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="1090540028_HIN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="1090540028_KAN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="1090540028_TAM" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="1090540028_TEL" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="1090540056_ENG" tvg-name="East Bengal FC vs Mohun Bagan SG - Final - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022648/1787301855188130_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_live_landscape_thumb.jpg" group-title="Sony Liv",East Bengal FC vs Mohun Bagan SG - Final - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="sonyliv-1090540056" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022648/1787301855188130_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_live_landscape_thumb.jpg" group-title="Sony Liv", East Bengal FC vs Mohun Bagan SG - Final - 23 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/East_Ben2308/BEN/master.m3u8?hdnea=exp=1787503831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6e1d53be93b17b2f6dd3892766f1933b604621d0abdab938e5e189dc2503d205
 #EXTINF:-1 tvg-id="1090540053_ENG" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Sony Liv",Nexo Championship - Day 4 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787529572~acl=/*~id=26933773846878289179204627678385~hmac=1dc89a6f5f93fa8d3de8a228e37f36b0a6876057bbfd19456f26b2339f9fb365
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f
 #EXTINF:-1 tvg-id="sonyliv-1090540053" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Sony Liv", Nexo Championship - Day 4 - 23 Aug 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/master.m3u8?hdnea=exp=1787503842~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ad55b7808829b19769d6a45f219ab4751e1a8a2633de10cf8d12c479ae5493ba
 
@@ -85,34 +85,6 @@ https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16182" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874177621020x576WOMEN.jpg" group-title="Tapmad", Japan vs England - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cuba vs. Chinese Taipei
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
-#EXTINF:-1 tvg-id="B0H85J96JP" tvg-name="Sri Lanka vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb328646-4c6d-49ba-9565-f5f831c52f8b/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sri Lanka vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFKH7BDD" tvg-name="West Bromwich Albion vs. Burnley" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f412e2fe-95c1-41bc-a2cd-dabc0143142f/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Bromwich Albion vs. Burnley
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
@@ -120,13 +92,39 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd
 #EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="Pakistan tour of England 2026 - 1st Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 1st Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef339e47e69b88eb9dd7c0662fb64f3d:d36e7107d85a6bb7e1fd3872222b286b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/afp4hzsimk/out/v1/a19661c905264e2096a319cefaa396df/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/afp4hzsimk/out/v1/a19661c905264e2096a319cefaa396df/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cuba vs. Chinese Taipei
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+#EXTINF:-1 tvg-id="B0H85J96JP" tvg-name="Sri Lanka vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb328646-4c6d-49ba-9565-f5f831c52f8b/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sri Lanka vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFKH7BDD" tvg-name="West Bromwich Albion vs. Burnley" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f412e2fe-95c1-41bc-a2cd-dabc0143142f/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Bromwich Albion vs. Burnley
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
@@ -139,11 +137,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bgaa
 https://chatgpt.hereisman.net/playlist/54936/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wfoftkmuzq/out/v1/70cec870847f415bbb508ac012959b5f/cenc.mpd
 #EXTINF:-1 tvg-logo="" tvg-name="Manchester City vs Bournemouth" group-title="HimelOp",Manchester City vs Bournemouth
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/55106/load-playlist?&.m3u8
