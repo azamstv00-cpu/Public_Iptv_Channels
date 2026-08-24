@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-24 13:55:54 Bangladesh Standard Time
-# Sources: 8 | Channels: 43 | Groups: 6
+# Generated: 2026-08-24 14:46:36 Bangladesh Standard Time
+# Sources: 8 | Channels: 44 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -64,17 +64,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090540152" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326357844960_SL_vs_IND_2nd_Test_Day2_clean_landscape_thumb.jpg" group-title="Sony Liv", 2nd Test - Day 2 - 24 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787565030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=059eb9f7ff07f8ac0343035d91df37014eb501204632b95a3d5fee7b0d91ffcd
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787581236~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=279d33a4154ce9f4e92ad9820c42505b588e658a6e0c9f85c01e3ee4bdc117a3
 #EXTINF:-1 tvg-id="1090540147_ENG" tvg-name="Day 2 - 2nd Test - 24 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 24 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787597601~acl=/*~id=31085813863001695934309722392374~hmac=d0c6a1d7060ac82fd6633d155397536dbea30a373841ec8c1b597148ae25c2ae
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787601243~acl=/*~id=36894197667394689429540909987288~hmac=ac66d5fd0fb4dbe6615e3f95aa5154281ee0e90ac1910805e6d6f6f9789e6adb
 #EXTINF:-1 tvg-id="1090540147_HIN" tvg-name="Day 2 - 2nd Test - 24 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 24 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787597601~acl=/*~id=31085813863001695934309722392374~hmac=d0c6a1d7060ac82fd6633d155397536dbea30a373841ec8c1b597148ae25c2ae
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787601243~acl=/*~id=36894197667394689429540909987288~hmac=ac66d5fd0fb4dbe6615e3f95aa5154281ee0e90ac1910805e6d6f6f9789e6adb
 #EXTINF:-1 tvg-id="1090540147_KAN" tvg-name="Day 2 - 2nd Test - 24 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 24 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787597601~acl=/*~id=31085813863001695934309722392374~hmac=d0c6a1d7060ac82fd6633d155397536dbea30a373841ec8c1b597148ae25c2ae
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787601243~acl=/*~id=36894197667394689429540909987288~hmac=ac66d5fd0fb4dbe6615e3f95aa5154281ee0e90ac1910805e6d6f6f9789e6adb
 #EXTINF:-1 tvg-id="1090540147_TAM" tvg-name="Day 2 - 2nd Test - 24 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 24 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787597601~acl=/*~id=31085813863001695934309722392374~hmac=d0c6a1d7060ac82fd6633d155397536dbea30a373841ec8c1b597148ae25c2ae
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787601243~acl=/*~id=36894197667394689429540909987288~hmac=ac66d5fd0fb4dbe6615e3f95aa5154281ee0e90ac1910805e6d6f6f9789e6adb
 #EXTINF:-1 tvg-id="1090540147_TEL" tvg-name="Day 2 - 2nd Test - 24 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 24 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787597601~acl=/*~id=31085813863001695934309722392374~hmac=d0c6a1d7060ac82fd6633d155397536dbea30a373841ec8c1b597148ae25c2ae
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787601243~acl=/*~id=36894197667394689429540909987288~hmac=ac66d5fd0fb4dbe6615e3f95aa5154281ee0e90ac1910805e6d6f6f9789e6adb
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-16188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875533141020x576MEN.jpg" group-title="Tapmad", Japan vs Wales | FIH Hockey World Cup 2026
@@ -83,18 +83,24 @@ https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H41J7MC5" tvg-name="Cricket Review-Top End T20 Series - Victoria vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2528d08-a0fb-4609-8d9b-aea8e4e4b200/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Review-Top End T20 Series - Victoria vs. Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8YKS9K5" tvg-name="Great Britain vs. Venezuela" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8995941f-3199-4632-a430-11c3f24a3c64/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Great Britain vs. Venezuela
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFJWGRHC" tvg-name="Top End Series: Victoria vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1fb966ad-35dd-494f-82b6-8615b912d5a4/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Victoria vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
@@ -116,10 +122,10 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r6rp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFTF4BYJ" tvg-name="Top End T20 Series 2026 - 11th Match - Victoria vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36ba9ef5-b764-46de-8f17-a44848b23f81/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 11th Match - Victoria vs Bangladesh HP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
