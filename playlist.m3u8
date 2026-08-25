@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-25 15:32:06 Bangladesh Standard Time
-# Sources: 8 | Channels: 43 | Groups: 5
+# Generated: 2026-08-25 16:28:51 Bangladesh Standard Time
+# Sources: 8 | Channels: 43 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -66,23 +66,45 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezxzrnbccf/out/v1/8d7e9f7b9d2040daa87ffa8a5789cfad/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFSN1L9T" tvg-name="Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da19826b-2823-42b1-af6d-a78cac5bd2d6/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
+
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090540240_ENG" tvg-name="Day 3 - 2nd Test - 25 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 2nd Test - 25 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
 #EXTINF:-1 tvg-id="1090540240_HIN" tvg-name="Day 3 - 2nd Test - 25 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 2nd Test - 25 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
 #EXTINF:-1 tvg-id="1090540240_KAN" tvg-name="Day 3 - 2nd Test - 25 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 2nd Test - 25 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
 #EXTINF:-1 tvg-id="1090540240_TAM" tvg-name="Day 3 - 2nd Test - 25 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 2nd Test - 25 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
 #EXTINF:-1 tvg-id="1090540240_TEL" tvg-name="Day 3 - 2nd Test - 25 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" group-title="Sony Liv",Day 3 - 2nd Test - 25 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
 #EXTINF:-1 tvg-id="sonyliv-1090540256" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315586628_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 3 - 2nd Test - 25 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787665840~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=256c9d567da809462995bc2a3ddf63432fc1f388370cc8eb122d5a6d7c4540e2
 #EXTINF:-1 tvg-id="1090540287_ENG" tvg-name="Mumbai Kings vs Gujarat Gladiators - 25 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022859/1787638776025877_JPL26_Mumbai_Kings_vs_Gujarat_Gladiators_landscape_thumb.jpg" group-title="Sony Liv",Mumbai Kings vs Gujarat Gladiators - 25 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787691024~acl=/*~id=85643179573114735427520128861332~hmac=32b64dd54f537aeec7d6f86f8f5e283769c8a431432bd5d5aea934d90f4d0150
-#EXTINF:-1 tvg-id="sonyliv-1090540287" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022859/1787638776025877_JPL26_Mumbai_Kings_vs_Gujarat_Gladiators_landscape_thumb.jpg" group-title="Sony Liv", Mumbai Kings vs Gujarat Gladiators - 25 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787694673~acl=/*~id=25464752675950778298997901901352~hmac=3ce1f66cbac33ca24884a7fd2d793c03c06ceee3dc86c5ac6844f3968f3c8787
+#EXTINF:-1 tvg-id="sonyliv-1090540287" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022862/1787639833874927_JPL26_PUNE_PESHWAS_vs_CHENNAI_STRIKERS_landscape_thumb.jpg" group-title="Sony Liv", Pune Peshwas vs Chennai Strikers - 25 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/master.m3u8?hdnea=exp=1787665850~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=41fa221575605a93b6a04185b7295a93518481f9777c8b1ff252134f6a0d5bbb
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0H5SK5PPX" tvg-name="Top End Series: Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdc5d41d-195f-4c1d-91a3-590a7061cef9/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Adelaide Strikers Academy vs Bangladesh HP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
@@ -97,23 +119,3 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezxzrnbccf/out/v1/8d7e9f7b9d2040daa87ffa8a5789cfad/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFTZVJHZ" tvg-name="Top End T20 Series 2026 - 14th Match - New Zealand A vs HH Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92fd6680-7576-4c4a-92dc-58403608e51d/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 14th Match - New Zealand A vs HH Kingsmen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2610defcad4585d40173657829b132a6:53a3d3a93952f54247b411e1b06eefed
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ubse8txudr/out/v1/1f133d3c622b48938e229302019408fa/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFSN1L9T" tvg-name="Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da19826b-2823-42b1-af6d-a78cac5bd2d6/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
