@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-26 22:15:26 Bangladesh Standard Time
-# Sources: 8 | Channels: 38 | Groups: 6
+# Generated: 2026-08-27 00:56:47 Bangladesh Standard Time
+# Sources: 8 | Channels: 47 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -63,32 +63,42 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-16093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875725811020x576.jpg" group-title="Tapmad", Celje vs Slovan Bratislava | UEFA Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875682371020x576.jpg" group-title="Tapmad", Levski Sofia vs AEK | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876409821020x576.jpg" group-title="Tapmad", Men's & Women's Singles Qualifying | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876649911020x576.jpg" group-title="Tapmad", Rotterdam Dockers vs Amsterdam Flames | European T20 Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-16091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875716441020x576.jpg" group-title="Tapmad", OL vs Fenerbache | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16107" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876512561020x576.jpg" group-title="Tapmad", Real Madrid vs Real Sociedad | Laliga 2026/27
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16092" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875724241020x576.jpg" group-title="Tapmad", Viking vs Dinamo Zagreb | UEFA Champions League 2026/27
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090540376_ENG" tvg-name="Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Sony Liv",Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787802912~acl=/*~id=90694556101338782573792005268121~hmac=51f27e54263391d8afa6249ce5bac7e78796d61b5ce08f98a3cc8f64b15201df
-#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787770237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=466bd0097acfff7a4b53b3c8df685c2d33ad5e62ffb3e8c2c6197eda59ade4e2
+#EXTINF:-1 tvg-id="sonyliv-1090540466" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228338758447_UCL_26_Play-offs-Leg2_AEK-Athens-vs-Levski-Sofia_live_landscape_thumb.jpg" group-title="Sony Liv", AEK vs Levski Sofia - Play-offs - Leg 2 - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/master.m3u8?hdnea=exp=1787791857~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f429da3c2b52e22504a8aa275e528fda2c4f4730c9a832cc3e17a6d806fb5b17
+#EXTINF:-1 tvg-id="sonyliv-1090540476" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787227719504447_UCL_26_Play-offs-Leg2_Celje-vs-SBratislava_live_landscape_thumb.jpg" group-title="Sony Liv", Celje vs Slovan Bratislava - Play-offs - Leg 2 - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/master.m3u8?hdnea=exp=1787791866~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3e23c7b581e003cc888557158e563255acdf1fbe7a2b53c8eb002d7719cea8ee
+#EXTINF:-1 tvg-id="sonyliv-1090540471" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787231595649447_UCL_26_Play-offs-Leg2_Lyon-vs-Fenerbahce_live_landscape_thumb.jpg" group-title="Sony Liv", Lyon vs Fenerbahce - Play-offs - Leg 2 - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/master.m3u8?hdnea=exp=1787791836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=85d0d89cafbfabd6723f303831517b11fc27beb9dd499327bd7d6de09f6558bc
+#EXTINF:-1 tvg-id="sonyliv-1090540475" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228710390447_UCL_26_Play-offs-Leg2_Viking-vs-GNK-Dinamo_live_landscape_thumb.jpg" group-title="Sony Liv", Viking FK vs GNK Dinamo - Play-offs - Leg 2 - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/master.m3u8?hdnea=exp=1787791846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45717f0aa8e3add1a78012b091a0a35f8279ed79fc2fc4410ce14a86b26723d9
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HFWZ2C8B" tvg-name="Rotterdam Dockers vs. Amsterdam Flames" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dae1f16f-c565-4a86-a698-2c0b3d41eec1/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Rotterdam Dockers vs. Amsterdam Flames
+#EXTINF:-1 tvg-id="B0HBW3P5WV" tvg-name="On the Range from the TOUR Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f8c62c4-bacf-4c59-bf23-1eb28ef2e6a3/3/BOXART-16X9/en-US/288x91._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",On the Range from the TOUR Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HF8GGRGX" tvg-name="European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20492208-8d38-40cf-983c-79a1617af56a/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames
+#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFF9R5PF" tvg-name="Qualifying 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da9dadaa-1d10-4431-8295-dc2c7d372c30/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qualifying 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xkmf9pp9cd/out/v1/6a2c0f008cf1452bb15d255d1823826d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
@@ -96,6 +106,11 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xkmf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xkmf9pp9cd/out/v1/6a2c0f008cf1452bb15d255d1823826d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
@@ -103,6 +118,12 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
+#EXTINF:-1 tvg-logo="" tvg-name="Olympique Lyonnais vs Fenerbahçe" group-title="HimelOp",Olympique Lyonnais vs Fenerbahçe
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55242/load-playlist?&.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=e5b8nxgsf3ej4jmfh87t4uoe6_image-header_pDach_1747641340000&quality=70" tvg-name="Real Madrid vs Real Sociedad" group-title="HimelOp",Real Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55245/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://static-files.cricket-australia.pulselive.com/series-web/74/4708.png" tvg-name="Top End T20" group-title="HimelOp",Top End T20
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
