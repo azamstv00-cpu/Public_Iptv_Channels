@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-26 17:26:36 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 6
+# Generated: 2026-08-26 18:45:25 Bangladesh Standard Time
+# Sources: 8 | Channels: 43 | Groups: 5
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -63,10 +63,10 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787754040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b9dc4d2aeffc169baa74cc55b2ddcf0abae9375df8055a0f4a40e69298652cc
 #EXTINF:-1 tvg-id="1090540376_ENG" tvg-name="Bengal Indians vs Indore Hawks - 26 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647798662385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Sony Liv",Bengal Indians vs Indore Hawks - 26 Aug 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787784665~acl=/*~id=19057506379129287100761176729536~hmac=4202b32e82695f293bdc235c62e0c2a8b0f4eccb3b46b0de4bfa099e291f7312
-#EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647798662385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Sony Liv", Bengal Indians vs Indore Hawks - 26 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787754040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b9dc4d2aeffc169baa74cc55b2ddcf0abae9375df8055a0f4a40e69298652cc
 #EXTINF:-1 tvg-id="1090540354_ENG" tvg-name="Day 4 - 2nd Test - 26 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435726079_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb.jpg" group-title="Sony Liv",Day 4 - 2nd Test - 26 Aug 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787784665~acl=/*~id=19057506379129287100761176729536~hmac=4202b32e82695f293bdc235c62e0c2a8b0f4eccb3b46b0de4bfa099e291f7312
 #EXTINF:-1 tvg-id="1090540354_HIN" tvg-name="Day 4 - 2nd Test - 26 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435726079_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb.jpg" group-title="Sony Liv",Day 4 - 2nd Test - 26 Aug 2026 [HIN]
@@ -77,40 +77,6 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2608/KAN/std_lrh-8003
 https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2608/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787784665~acl=/*~id=19057506379129287100761176729536~hmac=4202b32e82695f293bdc235c62e0c2a8b0f4eccb3b46b0de4bfa099e291f7312
 #EXTINF:-1 tvg-id="1090540354_TEL" tvg-name="Day 4 - 2nd Test - 26 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435726079_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb.jpg" group-title="Sony Liv",Day 4 - 2nd Test - 26 Aug 2026 [TEL]
 https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2608/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787784665~acl=/*~id=19057506379129287100761176729536~hmac=4202b32e82695f293bdc235c62e0c2a8b0f4eccb3b46b0de4bfa099e291f7312
-#EXTINF:-1 tvg-id="sonyliv-1090540360" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435102279_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 4 - 2nd Test - 26 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787754034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1be751638c7e0b397d0c2238452937d993efbac21b1cf164f08a9c71ccb9beb7
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Tapmad", Sri Lanka vs India | India Tour of Sri Lanka 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/7/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFRGYGTN" tvg-name="Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e8cf9c3-c43b-4892-9859-55d964bba43a/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ydhey7ayyo/out/v1/26c1fe58f12c41398284202a3aa4b079/cenc.mpd
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HCGY7N8K" tvg-name="European World Championships: Day 3 group-title="Prime Video", Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b51cc903-b283-4ebf-9657-e70eb2b0ae36/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships: Day 3, Heats
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG4FN51B" tvg-name="Top End Series: Nepal vs ACT Comets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab099980-9645-48f6-aecc-e3f02d4c4327/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Nepal vs ACT Comets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
@@ -130,3 +96,31 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uco5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/7/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFRGYGTN" tvg-name="Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e8cf9c3-c43b-4892-9859-55d964bba43a/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ydhey7ayyo/out/v1/26c1fe58f12c41398284202a3aa4b079/cenc.mpd
+
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HCGY7N8K" tvg-name="European World Championships: Day 3 group-title="Prime Video", Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b51cc903-b283-4ebf-9657-e70eb2b0ae36/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships: Day 3, Heats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG4FN51B" tvg-name="Top End Series: Nepal vs ACT Comets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab099980-9645-48f6-aecc-e3f02d4c4327/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Nepal vs ACT Comets
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
