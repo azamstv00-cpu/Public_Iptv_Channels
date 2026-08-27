@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-27 19:44:22 Bangladesh Standard Time
-# Sources: 8 | Channels: 52 | Groups: 6
+# Generated: 2026-08-27 22:10:06 Bangladesh Standard Time
+# Sources: 8 | Channels: 55 | Groups: 6
 
 
 #SOURCE-TITLE:Personal-Collection
@@ -62,29 +62,35 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090540508_ENG" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 2nd Test - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541
-#EXTINF:-1 tvg-id="sonyliv-1090540508" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 2nd Test - 27 Aug 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8?hdnea=exp=1787845833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4148a0751f6f47cb3768e69a7050b4d1f1622b9a6b434871f3a8680151e7bca2
-#EXTINF:-1 tvg-id="1090540522_ENG" tvg-name="Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Sony Liv",Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541
-#EXTINF:-1 tvg-id="sonyliv-1090540522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Sony Liv", Husqvarna British Masters - Day 1 - 27 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/master.m3u8?hdnea=exp=1787851238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=32e961d344821c5e8c23d0e27aae90f2516c473ac2bdcc97882ab64256d8889e
-#EXTINF:-1 tvg-id="1090540510_ENG" tvg-name="Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Sony Liv",Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541
-#EXTINF:-1 tvg-id="sonyliv-1090540510" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Sony Liv", Pune Peshwas vs Bengal Indians - 27 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787856633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=829bc17eba5db7edc4b9e0ec3b2563e5f0159c59182a549920da4b27351a078d
-
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16689" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876652061020x576.jpg" group-title="Tapmad", Belfast Wolves vs Dublin Guardians | European T20 Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-16201" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878110231020x576WOMEN.jpg" group-title="Tapmad", China vs Spain - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16690" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878145551020x576.jpg" group-title="Tapmad", Edinburgh Castle Rockers vs Glasgow Cosmic | European T20 Premier League 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16199" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878108291020x576WOMEN.jpg" group-title="Tapmad", England vs USA - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16200" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878109261020x576WOMEN.jpg" group-title="Tapmad", India vs Germany - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16290" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg" group-title="Tapmad", Men's & Women's Singles Qualifying | US Open 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090540508_ENG" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 2nd Test - 27 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1
+#EXTINF:-1 tvg-id="sonyliv-1090540508" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 2nd Test - 27 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8?hdnea=exp=1787862035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dfbf0d2e5e62bf68d5a7601f4449226b7df07b54c5655ccd848bfaf661f3242d
+#EXTINF:-1 tvg-id="1090540522_ENG" tvg-name="Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Sony Liv",Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1
+#EXTINF:-1 tvg-id="sonyliv-1090540522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Sony Liv", Husqvarna British Masters - Day 1 - 27 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/master.m3u8?hdnea=exp=1787867447~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d9236f019c94af970a139d3051c6660af4b7ca7df8a6cdeaef2ef307071d4036
+#EXTINF:-1 tvg-id="1090540524_ENG" tvg-name="League Phase Draw - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022993/1787767270935627_UCL_Phase_Draw_landscape_thumb.jpg" group-title="Sony Liv",League Phase Draw - 27 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1
+#EXTINF:-1 tvg-id="sonyliv-1090540524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022993/1787767270935627_UCL_Phase_Draw_landscape_thumb.jpg" group-title="Sony Liv", League Phase Draw - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/master.m3u8?hdnea=exp=1787867439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f66262567af603a36d6ee065079e0159e0b1ff61b9ddcc31cfdfa02072ce1e1e
+#EXTINF:-1 tvg-id="1090540510_ENG" tvg-name="Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Sony Liv",Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1
+#EXTINF:-1 tvg-id="sonyliv-1090540510" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Sony Liv", Pune Peshwas vs Bengal Indians - 27 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787856633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=829bc17eba5db7edc4b9e0ec3b2563e5f0159c59182a549920da4b27351a078d
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0GFY2D9KZ" tvg-name="England vs. Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",England vs. Pakistan
@@ -92,25 +98,13 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFYM9KBT" tvg-name="European T20 Premier League 2026 - 2nd Match - Belfast Wolves vs Dublin Guardians" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5d490a7-d491-4b42-82d0-959b0251103e/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 2nd Match - Belfast Wolves vs Dublin Guardians
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31704e972fdba30e90f065b9f3bdf56a:2191bff71a0360ba9b6ddde5fc4d0db6
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd
 #EXTINF:-1 tvg-id="B0HCJCFBHN" tvg-name="European T20 Premier League 2026 - 3rd Match - Edinburgh Castle Rockers vs Glasgow Cosmics" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84adc9a6-f426-4e09-a3c7-2badbf6277e7/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 3rd Match - Edinburgh Castle Rockers vs Glasgow Cosmics
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdecc745b15f34a3cef3a0933ea66997:6d2c94d90a9ce4888735f1e0f6a04d33
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xpfuvwakeh/out/v1/63a86a15d2d64ac7974d14d44b7cf972/cenc.mpd
-#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c3qhpjfd1i/out/v1/df521435c6e34621be8a1f94453d4622/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xpfuvwakeh/out/v1/63a86a15d2d64ac7974d14d44b7cf972/cenc.mpd
 
 #SOURCE-TITLE:Prime Video
 #EXTINF:-1 tvg-id="B0H9YKFMQ5" tvg-name="England vs. Pakistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b07d168a-6294-43c1-845c-7cf951b0d267/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",England vs. Pakistan
@@ -118,25 +112,31 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c3qhpjfd1i/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HF3NYBF8" tvg-name="European World Championships group-title="Prime Video", FInals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b9dce6f-4618-4feb-86f5-935b090596e2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships, FInals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF7PKLWD" tvg-name="Great Britain vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f3ef303-660a-407e-84cc-6f5d31a15baf/8/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Great Britain vs. Chinese Taipei
+#EXTINF:-1 tvg-id="B0HBYMD4L7" tvg-name="Itauma vs. Hrgovic: Press Conference" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.23c907ec-d005-4eae-acd9-507ef3939626/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Itauma vs. Hrgovic: Press Conference
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
 #EXTINF:-1 tvg-id="B0HG4WWDP1" tvg-name="LIVE: British Masters Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac0c2d5c-a60c-4e4f-a0e1-aef5f03bd9d4/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: British Masters Day 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-id="B0H6RVKB8C" tvg-name="TOURCAST Live From the TOUR Championship-Round 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9dca8b81-9d9e-4d20-be28-64e8d0d2862b/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",TOURCAST Live From the TOUR Championship-Round 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=c2f20ox2pl7rtrh95icyldelz_image-header_pRow_1783001292000&quality=50" tvg-name="Barcelona vs Athletic Club" group-title="HimelOp",Barcelona vs Athletic Club
@@ -159,6 +159,8 @@ https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lbi7nld6mr/out/v1/2f2b55235de649fca12ac5ba12316dbf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022993/1787767270935627_UCL_Phase_Draw_landscape_thumb.jpg" tvg-name="League Phase Draw" group-title="HimelOp",League Phase Draw
+https://live-uefa-com.akamaized.net/hls/live/2036934/270826_2627UCL/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-files.cricket-australia.pulselive.com/series-web/74/4708.png" tvg-name="Top End T20" group-title="HimelOp",Top End T20
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
