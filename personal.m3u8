@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Premier Sports 2
+#EXTINF:-1 tvg-chno="1" tvg-name="Premier Sports 2" group-title="Personal-Collection",Premier Sports 2
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Premier Sports 1
+#EXTINF:-1 tvg-chno="1" tvg-name="Bein Sports 3" group-title="Personal-Collection",Bein Sports 3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 tvg-chno="1" tvg-name="Premier Sports 1" group-title="Personal-Collection",Premier Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",TNT Sports 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
