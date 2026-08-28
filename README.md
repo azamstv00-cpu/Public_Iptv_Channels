@@ -1,6 +1,6 @@
 # Public IPTV Channels
 
-A single merged IPTV playlist that aggregates channels from multiple public playlist sources into one file, refreshed automatically every hour.
+A single merged IPTV playlist that aggregates channels from multiple public playlist sources into one file, refreshed automatically every 30 minutes.
 
 ## How to use
 
@@ -10,11 +10,11 @@ Load this URL in any IPTV player (Kodi, TiviMate, VLC, etc.):
 https://raw.githubusercontent.com/azamstv00-cpu/Public_Iptv_Channels/main/playlist.m3u8
 ```
 
-The file is regenerated hourly by GitHub Actions, so it always reflects the latest state of the source playlists.
+The file is regenerated every 30 minutes by GitHub Actions, so it always reflects the latest state of the source playlists.
 
 ## How it works
 
-- Every hour, a GitHub Actions workflow downloads each source playlist in `sources.txt`.
+- Every 30 minutes, a GitHub Actions workflow downloads each source playlist in `sources.txt`.
 - Channels are **deduplicated by URL** — the same channel appearing in multiple sources is kept only once.
 - Channels are **grouped by source** using the `group-title` attribute, so you always know which source a channel came from.
 - The merged result is written to `playlist.m3u8` and committed only when it actually changes.
