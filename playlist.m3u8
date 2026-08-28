@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-28 21:38:37 Bangladesh Standard Time
-# Sources: 8 | Channels: 57 | Groups: 6
+# Generated: 2026-08-28 23:11:01 Bangladesh Standard Time
+# Sources: 8 | Channels: 58 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -91,73 +91,75 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF6XJ662" tvg-name="World Championships group-title="Prime Video", Finals A" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.66f7a106-caf7-4bd6-af42-e49fadf849cd/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Championships, Finals A
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFF2J9YW" tvg-name="LIVE Weigh In-Itauma vs. Hrgovic" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.db20ef12-0348-41c6-80e8-8e37e858e5d6/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE Weigh In-Itauma vs. Hrgovic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
 #EXTINF:-1 tvg-id="B0HGGNPDW9" tvg-name="LIVE: British Masters Day 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88ca59df-4323-4e15-96f4-a570423c35f5/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: British Masters Day 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HC3B8P76" tvg-name="ONE Friday Fights 168" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a31f4a43-40d9-42c2-94f4-06611f7a86fb/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 168
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFQNLS9T" tvg-name="MLP Finals group-title="Prime Video", New York City: Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a0f013f-de73-4890-8d9a-48434187d74d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MLP Finals, New York City: Semifinal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 #EXTINF:-1 tvg-id="B0HCXX3JRV" tvg-name="Qualifying 3rd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.052eb39a-1362-4afa-bced-d325cf52ef8e/10/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qualifying 3rd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090540693_ENG" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023086/178786769379187_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="1090540693_HIN" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023086/178786769379187_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="1090540693_KAN" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023086/178786769379187_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="1090540693_TAM" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023086/178786769379187_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="1090540693_TEL" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023086/178786769379187_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="1090540725_ENG" tvg-name="Day 2 - 2nd Test - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 28 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="sonyliv-1090540725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - 2nd Test - 28 Aug 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/master.m3u8?hdnea=exp=1787948432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a3712f205e5b51268c976f4127d240e6242d73fe52ef56c1a738044d52960823
-#EXTINF:-1 tvg-id="1090540708_ENG" tvg-name="Husqvarna British Masters - Day 2 - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg" group-title="Sony Liv",Husqvarna British Masters - Day 2 - 28 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="sonyliv-1090540708" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg" group-title="Sony Liv", Husqvarna British Masters - Day 2 - 28 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/master.m3u8?hdnea=exp=1787937631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=971d880bfbbfbe79678b1dc3ed39963093dc6c484679b9d3bc71395ef3b51d23
-#EXTINF:-1 tvg-id="1090540652_ENG" tvg-name="Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg" group-title="Sony Liv",Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787972138~acl=/*~id=06708213688911975331866232264378~hmac=1b07177ad924615380f89318dab50fd34bfaec0fdb71657cc17b27a9ce0f7a1e
-#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg" group-title="Sony Liv", Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787941242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=29060802f6cf67dc4c1dad43dfa730a5c5acdbde9ccc99be6b28659bea7a58fe
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16691" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878268761020x576.jpg" group-title="Tapmad", Amsterdam Flames vs Edinburgh Castle Rockers | European T20 Premier League 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878183761020x576MEN.jpg" group-title="Tapmad", England vs Australia | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16387" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878247221020x576.jpg" group-title="Tapmad", Serbia vs Brazil Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HGMJFBJ3" tvg-name="European T20 Premier League 2026 - 4th Match - Amsterdam Flames vs Edinburgh Castle Rockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4617f447-0f51-4f6d-90c5-812b7d3d5ca4/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 4th Match - Amsterdam Flames vs Edinburgh Castle Rockers
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFB1CW9J" tvg-name="TOURCAST Live From the TOUR Championship-Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.562c967a-7765-48f6-b1aa-8729177d7b3b/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",TOURCAST Live From the TOUR Championship-Round 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4404976bc861c8adce475c9533921cf3:d1fdc818c29f3c6aa020a4d0eb803957
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090540693_ENG" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023121/1787930298534641_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="1090540693_HIN" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023121/1787930298534641_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="1090540693_KAN" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023121/1787930298534641_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="1090540693_TAM" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023121/1787930298534641_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="1090540693_TEL" tvg-name="Thailand Women vs Hong Kong group-title="Sony Liv", China Women - 28 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023121/1787930298534641_AsiaCup26_Thailand_vs_HongKong_live_landscape_thumb.jpg" group-title="Cricket",Thailand Women vs Hong Kong, China Women - 28 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="1090540725_ENG" tvg-name="Day 2 - 2nd Test - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 2nd Test - 28 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="sonyliv-1090540725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - 2nd Test - 28 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/master.m3u8?hdnea=exp=1787948432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a3712f205e5b51268c976f4127d240e6242d73fe52ef56c1a738044d52960823
+#EXTINF:-1 tvg-id="1090540708_ENG" tvg-name="Husqvarna British Masters - Day 2 - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg" group-title="Sony Liv",Husqvarna British Masters - Day 2 - 28 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="sonyliv-1090540708" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg" group-title="Sony Liv", Husqvarna British Masters - Day 2 - 28 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/master.m3u8?hdnea=exp=1787953836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d83b952df4cecc0a88ca0a89564ed898ec254ae51ca4d192ccc722501ffe6e2c
+#EXTINF:-1 tvg-id="1090540652_ENG" tvg-name="Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg" group-title="Sony Liv",Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787979467~acl=/*~id=79797066565517401461327941985375~hmac=f3cb6c850bac65c3252ae52bb43fa3b8cb55c45d2f0e70c5c0ab568730f885ed
+#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg" group-title="Sony Liv", Royals Hyderabad vs Bangalore Blasters - 28 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787957451~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10f1ec3f48f4f102f562135635ec77248e5dd104254f38dfb7ac957fc53f356e
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16393" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878260711020x576.jpg" group-title="Tapmad", Germany vs Argentina Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16210" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878189041020x576MEN.jpg" group-title="Tapmad", India vs Belgium | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16209" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878186851020x576MEN.jpg" group-title="Tapmad", Netherlands vs Spain | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16110" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878212411020x576.jpg" group-title="Tapmad", Racing Santander vs Elche | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0GFY2D9KZ" tvg-name="Pakistan tour of England 2026 - 2nd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 2nd Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -169,4 +171,4 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izxi0y1ikw
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5i1esp0zyd/out/v1/bf124d1787e84213a8d98f460d9b65af/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5i1esp0zyd/out/v1/bf124d1787e84213a8d98f460d9b65af/cenc.mpd
