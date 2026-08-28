@@ -1,8 +1,42 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-28 09:44:15 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 5
+# Generated: 2026-08-28 10:55:41 Bangladesh Standard Time
+# Sources: 8 | Channels: 43 | Groups: 6
 
+
+#SOURCE-TITLE:HimelOp
+#EXTINF:-1 tvg-logo="" tvg-name="Barcelona vs Athletic Club" group-title="HimelOp",Barcelona vs Athletic Club
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png" tvg-name="Barcelona vs Athletic Club [BD]" group-title="HimelOp",Barcelona vs Athletic Club [BD]
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2879ec64a64e44bd8f566b40f089e74b:d7bec90525c68790864baf9b76e347fa
+https://bd-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31704e972fdba30e90f065b9f3bdf56a:2191bff71a0360ba9b6ddde5fc4d0db6
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
+https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lbi7nld6mr/out/v1/2f2b55235de649fca12ac5ba12316dbf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://static-files.cricket-australia.pulselive.com/series-web/74/4708.png" tvg-name="Top End T20" group-title="HimelOp",Top End T20
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #SOURCE-TITLE:Personal-Collection
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
@@ -64,74 +98,40 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg" group-title="Tapmad", St Kitts and Nevis Patriots vs Jamaica Kingsmen | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H9XDG8TK" tvg-name="Caribbean Premier League 2026 - 18th Match - St Kitts And Nevis Patriots vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.61752510-3dc4-4e8c-aaac-de53912ebbfd/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 18th Match - St Kitts And Nevis Patriots vs Jamaica Kingsmen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53a0a295068a5036c3839e5808bf419a:54aa37989f24ce3becf71593b809eee2
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wvstq9m5fp/out/v1/cccf2260ca894394b2ce9fee80e8515e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG392HMD" tvg-name="Top End T20 Series 2026 - 22nd Match - Hobart Hurricanes vs ACT Comets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e47af7c2-19c8-4252-b5c3-c89bcf8773bf/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 22nd Match - Hobart Hurricanes vs ACT Comets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=081891d18793a78b33de571654587e6d:7bf0aa7ee0727a07d24060e3a20bf511
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0j7unx6kon/out/v1/b0a92002ea8148b88ee7c474ed12d320/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF7LSW7P" tvg-name="Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49c24ad8-62aa-488a-9bb4-a6fd91aafc35/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e0d81d4f594a530df0ac04fff18f8e:cf4937be963ccf0ac5a101af13df4a3f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd
-
-#SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="" tvg-name="Barcelona vs Athletic Club" group-title="HimelOp",Barcelona vs Athletic Club
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png" tvg-name="Barcelona vs Athletic Club [BD]" group-title="HimelOp",Barcelona vs Athletic Club [BD]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2879ec64a64e44bd8f566b40f089e74b:d7bec90525c68790864baf9b76e347fa
-https://bd-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="England vs Pakistan" group-title="Sports",England vs Pakistan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31704e972fdba30e90f065b9f3bdf56a:2191bff71a0360ba9b6ddde5fc4d0db6
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
-https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs Sri Lanka" group-title="Sports",India vs Sri Lanka
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lbi7nld6mr/out/v1/2f2b55235de649fca12ac5ba12316dbf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://static-files.cricket-australia.pulselive.com/series-web/74/4708.png" tvg-name="Top End T20" group-title="HimelOp",Top End T20
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
 #SOURCE-TITLE:Prime Video
 #EXTINF:-1 tvg-id="B0HGCGLRVP" tvg-name="Club Olimpia vs. Saprissa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7abb367d-1323-4dd0-93f8-45c6dacf5c76/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Club Olimpia vs. Saprissa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0H6JGH5RQ" tvg-name="Top End Series: HH Kingsmen vs Adelaide Strikers Academy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7faf7b8a-8427-4406-aaf3-9e12239f6a0e/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: HH Kingsmen vs Adelaide Strikers Academy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HDY8S587" tvg-name="Top End Series: Hobart Hurricanes vs ACT Comets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c761e35-b7a4-4fd9-bbf4-6e4422c78eba/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Hobart Hurricanes vs ACT Comets
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090540652_ENG" tvg-name="Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg" group-title="Sony Liv",Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787932490~acl=/*~id=30673124412674850464799508473868~hmac=9bcb4ee26fe11629aa66a5bb2cd2a88e4c1e14380024140059bffc7b0048c502
+#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg" group-title="Sony Liv", Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787910630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ff51acaa4b6f8ac872dd40c3dc3747aa71b1ed9faa881396edbd0563c2e88288
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-15793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg" group-title="Tapmad", St Kitts and Nevis Patriots vs Jamaica Kingsmen | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HF7LSW7P" tvg-name="Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49c24ad8-62aa-488a-9bb4-a6fd91aafc35/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e0d81d4f594a530df0ac04fff18f8e:cf4937be963ccf0ac5a101af13df4a3f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd
