@@ -194,7 +194,8 @@ def build_merged(sources, personal_text, labels=None, skip_list=None, force=Fals
 
 def render_m3u8(groups):
     lines = ["#EXTM3U", ""]
-    for group, items in groups.items():
+    for group in sorted(groups.keys(), key=str.lower):
+        items = groups[group]
         channels = sorted(items, key=lambda item: item[1].name.lower())
         lines.append(f"#SOURCE-TITLE:{group}")
         for _, ch, is_personal in channels:
