@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-29 07:05:46 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 5
+# Generated: 2026-08-29 14:08:48 Bangladesh Standard Time
+# Sources: 8 | Channels: 46 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -93,57 +93,57 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HGG71L69" tvg-name="Championship: Minnesota Wind Chill vs. Oakland Spiders" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e085142-4a27-4c8e-9260-04878426f980/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Championship: Minnesota Wind Chill vs. Oakland Spiders
+#EXTINF:-1 tvg-id="B0HDZSRJHC" tvg-name="World Championships: Amsterdam group-title="Prime Video", Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e8b06d3-8f97-4351-be02-dc2497fccce1/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Championships: Amsterdam, Finals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 #EXTINF:-1 tvg-id="B0GV5QWNQW" tvg-name="K-1 Challenge: The Road to Tokyo Part II" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85b26bfe-4b08-49c2-9833-45297dfd040c/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",K-1 Challenge: The Road to Tokyo Part II
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
-#EXTINF:-1 tvg-id="B0H8JS5K1G" tvg-name="Lucas Oil Late Model Dirt Series at Port Royal Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38f855d9-ece0-4217-8278-198982544705/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lucas Oil Late Model Dirt Series at Port Royal Speedway
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF8FB2VB" tvg-name="Manawatu v North Harbour" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d98261e-0e47-4386-8b90-e2890d8530cf/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manawatu v North Harbour
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HF7Z725J" tvg-name="Sun vs. Fever" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e43dfa27-ca35-4c9d-a15c-6a4a6d2a9b1d/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Sun vs. Fever
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF1M2BMG" tvg-name="UIPM World Championships group-title="Prime Video", Men's Semifinal A" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c482055-080e-41de-b7da-21e4b44f7456/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",UIPM World Championships, Men's Semifinal A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b08d24b0fa4b65fee721844ee216e0:f22e996f6bd18b571e3f9d25167a0526
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/qoimhrlgrb/out/v1/182bce1f6b9b46b4aa3c1575aef5ff7a/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG6HSKCB" tvg-name="Top End Series: New Zealand A vs Hobart Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5183d498-708e-491c-aa61-7bc1a5c3af40/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: New Zealand A vs Hobart Hurricanes
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFR9FRR6" tvg-name="Grand Prix of Aragon group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f3151ae-7742-425f-9d80-5e8af08c7be8/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Grand Prix of Aragon, Qualifying
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABBIA5HAAAAAAAAMMFAWSBQKGCJGI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpkN5Bhpqknz5A2pjbG91ZGZyb250Angpc3NpZDo5NjFkYmU5YS03NTFhLTQzMmEtODU5ZS0yNzY2MDk0ZTIwODcZATihBaECeDMvZzZxdnZ6YmthbC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzJYIAMvvbx6kD57m6951T7HxPLofIvp5QfhNo2yOXPTiZS2/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g6qvvzbkal/out/v1/30f3ad9ba2c340739ea2943f29d44b32/977cc6d3-c163-49db-8ab4-6e98a4de979f-cenc.mpd?aws.sessionId=bde3c6d2-b5e4-4ab8-9d0b-f57bbda5d0ea
+#EXTINF:-1 tvg-id="B0HCLQTC4Y" tvg-name="Top End Series: Nepal vs Victoria" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.161824c7-b427-4457-a25c-47427b6ddf70/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Nepal vs Victoria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCV27H6L" tvg-name="Women's First Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9234596-f378-47ab-9e6b-2985bb610a9d/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Women's First Semifinal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090540806_ENG" tvg-name="Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Sony Liv",Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788033497~acl=/*~id=25818836927588610701641733017108~hmac=ffa600fd384b75a96ca045f8bcf914aadc1b19dd72ed72c9a6ec20c3bc4840a6
+#EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Sony Liv", Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1787997032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c639b192712c7af1a5e1bdf7188276109b64a7616835c72c33dfe33c3ec28232
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15794" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878329521020x576.jpg" group-title="Tapmad", Trinbago Knight Riders vs Barbados Tridents | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16405" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879141531020x576.jpg" group-title="Tapmad", Denmark vs Slovenia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H2SBJPS3" tvg-name="Caribbean Premier League 2026 - 19th Match - Trinbago Knight Riders vs Barbados Tridents" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c45610ac-9e8d-4a14-bf45-6509fce30eb1/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 19th Match - Trinbago Knight Riders vs Barbados Tridents
+#EXTINF:-1 tvg-id="B0HFLW9R9K" tvg-name="Top End T20 Series 2026 - 27th Match - Nepal vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da1795d3-8084-4728-bef6-3248d04d5cb2/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 27th Match - Nepal vs Victoria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08bededba73d57019eecdbca2476fc23:7447ad5ccdd221509cad32e2e1dda0cf
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd
-#EXTINF:-1 tvg-id="B0H9KTLL3G" tvg-name="Top End T20 Series 2026 - 25th Match - New Zealand A vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d993d7df-5992-441c-b868-f78f4ef45639/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 25th Match - New Zealand A vs Hobart Hurricanes
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97f55b799526127f546d75e65880e247:31f42cfc3ba50567226d995a7139eecf
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ofwgoj6854/out/v1/d0db5c87eca14b00a1b4935c02f53542/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
