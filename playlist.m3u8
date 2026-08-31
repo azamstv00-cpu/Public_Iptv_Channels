@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-08-31 12:26:41 Bangladesh Standard Time
-# Sources: 8 | Channels: 36 | Groups: 4
+# Generated: 2026-08-31 13:32:39 Bangladesh Standard Time
+# Sources: 8 | Channels: 37 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -85,10 +85,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090540966_ENG" tvg-name="Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Sony Liv",Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788198919~acl=/*~id=62413607548350482776414474402478~hmac=776d189b34f36d040ceca070926a561b3fa41409bf4f2f2e030755256a52ed09
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788202567~acl=/*~id=73339722364860904971862702363982~hmac=a09129abdc5ab9ffc1902c917d0e402cb6ebd192f66f2458d69d30f4d31ebb16
 #EXTINF:-1 tvg-id="sonyliv-1090540966" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Sony Liv", Indore Hawks vs Pune Peshwas - 31 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/master.m3u8?hdnea=exp=1788169835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cd3795eba51c1b6609dcb48487eb2e31a8d7f820ae090129fe5ae06aede5ea9
+#EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="Sony Liv", Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788182432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb9b253cc52c1ed3e50902c7146bb340aaff77cc738cf367ca9d088ad1ac886e
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg" group-title="Tapmad", Men's & Women's Singles 1st Round | US Open 2026
+#EXTINF:-1 tvg-id="tapmad-16477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880161461020x576.jpg" group-title="Tapmad", Afghanistan vs Italy Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
