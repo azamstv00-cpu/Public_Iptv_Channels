@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-02 03:56:47 Bangladesh Standard Time
-# Sources: 8 | Channels: 35 | Groups: 3
+# Generated: 2026-09-02 05:54:31 Bangladesh Standard Time
+# Sources: 8 | Channels: 38 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -85,10 +85,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFYQXHVF" tvg-name="PPA Tour: Cary-Round of 64" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a544db2-ee58-4b10-9ed2-780f2e92d3d9/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Round of 64
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGBC7YF5" tvg-name="Defence Force vs. Club Sando" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27f55799-d73d-4db5-bc09-92b44cd79743/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Defence Force vs. Club Sando
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-16297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882464341020x576.jpg" group-title="Tapmad", Men's & Women's Singles 1st Round | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-15798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882460711020x576.jpg" group-title="Tapmad", St Kitts and Nevis Patriots vs Barbados Tridents | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HCV54RV9" tvg-name="Caribbean Premier League 2026 - 23rd Match - St Kitts And Nevis Patriots vs Barbados Tridents" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30b14351-41c0-472e-9644-3e526cf590e6/5/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 23rd Match - St Kitts And Nevis Patriots vs Barbados Tridents
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc7573f06a7ae00d728025fbbdbdc271:8cf044d588b12f77a6261951528ec7ba
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfelhuefkq/out/v1/9cd20e06a19c4d5c8c55b6941a7822d8/cenc.mpd
