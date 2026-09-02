@@ -1,21 +1,10 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-02 14:03:57 Bangladesh Standard Time
-# Sources: 8 | Channels: 37 | Groups: 4
+# Generated: 2026-09-02 18:53:47 Bangladesh Standard Time
+# Sources: 8 | Channels: 38 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="" tvg-name="Arsenal vs Aston Villa" group-title="HimelOp",Arsenal vs Aston Villa
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/284/720p/chunks.m3u8?is_vip=false&token=1788287590-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-255c30449e76370d0fe8077635371c91
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/90/87/rayo-vallecano-vs-fc-barcelona_eh5jxpestyhkz6u25kp0og3y.png?t=-427582456" tvg-name="Barcelona vs Rayo Vallecano" group-title="HimelOp",Barcelona vs Rayo Vallecano
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1788289411-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0349eef81f1f2c8d190903bf97758846
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6afd168c09734b602c18c4c6cb58e60:60a6851b08dc064f65be90aa4fd9688f
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/dzjxsxlbjy/out/v1/4f071655efe64f86ae57e299712c3470/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 
@@ -80,13 +69,27 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787992407824882_JPL_26_Bengal-Indians-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Sony Liv", Bengal Indians vs Gujarat Gladiators - 2 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788344437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43d7ad37a5aba719c291d8dab2f9d6c1c1057b167d81c15559d0e683612ee70c
-#EXTINF:-1 tvg-id="sonyliv-1090541196" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" group-title="Sony Liv", Mohali Kings vs Ludhiana Lions - 2 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/master.m3u8?hdnea=exp=1788353429~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a664e584daafd99071ca5678ac88c4f56250f5f70bed94f8336615d864864edc
+#EXTINF:-1 tvg-id="1090541196_HIN" tvg-name="Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881
+#EXTINF:-1 tvg-id="1090541196_PAN" tvg-name="Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881
+#EXTINF:-1 tvg-id="sonyliv-1090541196" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv", Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/master.m3u8?hdnea=exp=1788367841~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3c37f09935485bd3d40c6f101d74ecccc695a815706dcb28ccfbd9f6885a75b7
+#EXTINF:-1 tvg-id="1090541190_ENG" tvg-name="Indore Hawks vs Chennai Strikers - 2 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824727602054_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_landscape_thumb.jpg" group-title="Sony Liv",Indore Hawks vs Chennai Strikers - 2 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881
+#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023305/1788253435543955_JPL_26_Mumbai-Kings-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Sony Liv", Mumbai Kings vs Pune Peshwas - 2 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788375039~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8a94a20d60ee867aef37f5d4142d6c668af353915338b36cf4a00ceb3dcdb3f3
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883272781020x576.jpg" group-title="Tapmad", Costa Rica vs Bulgaria Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16697" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882500851020x576.jpg" group-title="Tapmad", Dublin Guardians vs Rotterdam Dockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16561" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883281561020x576.jpg" group-title="Tapmad", Oman vs Slovenia Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16549" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882452911020x576.jpg" group-title="Tapmad", India vs England Live | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HFZRHJ9L" tvg-name="European T20 Premier League 2026 - 10th Match - Dublin Guardians vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8050f764-a5cf-464d-bb17-07f90e762462/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 10th Match - Dublin Guardians vs Rotterdam Dockers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
