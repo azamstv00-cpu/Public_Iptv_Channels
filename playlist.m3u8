@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-04 00:22:49 Bangladesh Standard Time
-# Sources: 8 | Channels: 43 | Groups: 6
+# Generated: 2026-09-04 03:13:20 Bangladesh Standard Time
+# Sources: 8 | Channels: 37 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -74,49 +74,29 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HH13S8H7" tvg-name="Hong Kong group-title="Prime Video", China vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.8d5aa324-d494-449f-9d08-b49ee8fcaf7d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hong Kong, China vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HDVDFGM1" tvg-name="Palermo vs. Mantova" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.862f93c5-f7c7-4f4d-9193-156138929990/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Palermo vs. Mantova
+#EXTINF:-1 tvg-id="B0HGNHXFMX" tvg-name="Cagliari vs. Hellas Verona" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.24460261-7ab5-48c2-b2a6-8d8cf7712cad/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cagliari vs. Hellas Verona
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG61LMZ8" tvg-name="DAZN Boxing-Ruiz Jr. vs. Knyba: Weigh-In" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.17ce0543-f15f-40be-b7fb-2705aa7d5fa8/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",DAZN Boxing-Ruiz Jr. vs. Knyba: Weigh-In
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFYJMXLP" tvg-name="PPA Tour: Cary-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2a1f8dc1-dd6b-4664-8ccc-e51626f31333/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541289_ENG" tvg-name="India Women vs Hong Kong group-title="Sony Liv", China Women - 3 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023435/178844722657246_ACC_INDvsHKG_live_landscape_thumb.jpg" group-title="Cricket",India Women vs Hong Kong, China Women - 3 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788501042~acl=/*~id=92822420621944941137437645996428~hmac=8bc99463f496b98ff16a5d32aac8ac742352cc1f901da9f3de4e8de035bf84e1
-#EXTINF:-1 tvg-id="1090541289_HIN" tvg-name="India Women vs Hong Kong group-title="Sony Liv", China Women - 3 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023435/178844722657246_ACC_INDvsHKG_live_landscape_thumb.jpg" group-title="Cricket",India Women vs Hong Kong, China Women - 3 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788501042~acl=/*~id=92822420621944941137437645996428~hmac=8bc99463f496b98ff16a5d32aac8ac742352cc1f901da9f3de4e8de035bf84e1
-#EXTINF:-1 tvg-id="1090541289_KAN" tvg-name="India Women vs Hong Kong group-title="Sony Liv", China Women - 3 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023435/178844722657246_ACC_INDvsHKG_live_landscape_thumb.jpg" group-title="Cricket",India Women vs Hong Kong, China Women - 3 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788501042~acl=/*~id=92822420621944941137437645996428~hmac=8bc99463f496b98ff16a5d32aac8ac742352cc1f901da9f3de4e8de035bf84e1
-#EXTINF:-1 tvg-id="1090541289_TAM" tvg-name="India Women vs Hong Kong group-title="Sony Liv", China Women - 3 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023435/178844722657246_ACC_INDvsHKG_live_landscape_thumb.jpg" group-title="Cricket",India Women vs Hong Kong, China Women - 3 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788501042~acl=/*~id=92822420621944941137437645996428~hmac=8bc99463f496b98ff16a5d32aac8ac742352cc1f901da9f3de4e8de035bf84e1
-#EXTINF:-1 tvg-id="1090541289_TEL" tvg-name="India Women vs Hong Kong group-title="Sony Liv", China Women - 3 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023435/178844722657246_ACC_INDvsHKG_live_landscape_thumb.jpg" group-title="Cricket",India Women vs Hong Kong, China Women - 3 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788501042~acl=/*~id=92822420621944941137437645996428~hmac=8bc99463f496b98ff16a5d32aac8ac742352cc1f901da9f3de4e8de035bf84e1
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882512851020x576.jpg" group-title="Tapmad", Diriyah vs Al Qadsiah | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16601" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884181071020x576.jpg" group-title="Tapmad", Germany vs Serbia Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16607" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884223341020x576.jpg" group-title="Tapmad", Georgia vs Syria Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16300" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882634231020x576.jpg" group-title="Tapmad", Men's & Women's Singles 2nd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HGBBB1WB" tvg-name="Womens Asia Cup 2026 - 7th Match - India Women vs Hong Kong China Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e928a63-b7b0-4630-88e2-a2e8fb303961/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 7th Match - India Women vs Hong Kong China Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7190077c78e42f2a87b42cbdb898dbd:57ce4a26c1e0597de24481cd620c03d3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/245vlp0ugx/out/v1/186ea1d5c56d45a4bada3369a9289586/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-16937" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882511501020x576.jpg" group-title="Tapmad", Real Sociedad vs Celta | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
