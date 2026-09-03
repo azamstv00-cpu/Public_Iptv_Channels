@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-03 11:39:00 Bangladesh Standard Time
-# Sources: 8 | Channels: 33 | Groups: 3
+# Generated: 2026-09-03 16:48:32 Bangladesh Standard Time
+# Sources: 8 | Channels: 36 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -74,7 +74,13 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541267_ENG" tvg-name="Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Sony Liv",Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788454152~acl=/*~id=81638713703344534704719563691202~hmac=9b017bf6c8bc6d8e30c09e3af786ff1a40b090558de8f5570036f6f1cc97ccfd
-#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
+#EXTINF:-1 tvg-id="1090541268_HIN" tvg-name="Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57
+#EXTINF:-1 tvg-id="1090541268_PAN" tvg-name="Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57
+#EXTINF:-1 tvg-id="sonyliv-1090541268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv", Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788439834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6c81f7fee586720f5474a401328e4e60c7d97bbea17c5d8c87fc257d3ca0fc3
+#EXTINF:-1 tvg-id="1090541267_ENG" tvg-name="Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg" group-title="Sony Liv",Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57
+#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg" group-title="Sony Liv", Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788445233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c279b2df132a1373ee65bbfb1376e40309d9881904a89c151b898431b4337ff5
