@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-04 21:53:37 Bangladesh Standard Time
-# Sources: 8 | Channels: 54 | Groups: 6
+# Generated: 2026-09-05 00:51:42 Bangladesh Standard Time
+# Sources: 8 | Channels: 42 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -16,9 +16,11 @@ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://usanetwork.asset.viewlift.com/images/2026/09/03/1788429642881/recGLknwirF6q0JiG/thumbnail.jpg?impolicy=resize&w=1920&h=1080" tvg-name="Liverpool vs Ipswich Town" group-title="HimelOp",Liverpool vs Ipswich Town
-https://usanetwork.asset.viewlift.com/images/2026/09/03/1788429642881/recGLknwirF6q0JiG/thumbnail.jpg?impolicy=resize&w=1920&h=1080
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55759/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/6b/5a/real-betis-sevilla-real-madrid_7rzapu6luaf41ijj1d2xwnggo.jpg?t=-1567004114&quality=80&w=750&h=422" tvg-name="Real Madrid vs Real Betis" group-title="HimelOp",Real Madrid vs Real Betis
-https://cms-images.acc.indazn.com/di/library/DAZN_News/6b/5a/real-betis-sevilla-real-madrid_7rzapu6luaf41ijj1d2xwnggo.jpg?t=-1567004114&quality=80&w=750&h=422
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55760/load-playlist?&.m3u8
 
 #SOURCE-TITLE:Personal-Collection
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
@@ -81,69 +83,33 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HGR8F57C" tvg-name="ONE Friday Fights 169" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.850d00aa-af01-4ba3-80b8-b587d7fe0c1b/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 169
+#EXTINF:-1 tvg-id="B0HGX9MMSR" tvg-name="London City Lionesses vs. Manchester United" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7c538e05-23e0-4b72-a98d-65b2771f8c9a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",London City Lionesses vs. Manchester United
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFFWKQ2P" tvg-name="PPA Tour: Cary-Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.86bbcb64-09e1-4e92-9b85-04c129dcd69c/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFBJQL6L" tvg-name="United Arab Emirates vs. Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ff05b7b8-4812-4e0e-94b6-2411ce4c6edf/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",United Arab Emirates vs. Indonesia
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0H1ZP3WRJ" tvg-name="Taylor vs. Pili: Weigh In" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4e3fc4ee-81bf-43dd-b068-4c5e565bde63/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Taylor vs. Pili: Weigh In
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541355_HIN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="1090541355_PAN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Sony Liv", Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788544232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d6cda8a698d413584ff2127c0929be39f37c97f0147c95e3e4abec667ee24b5
-#EXTINF:-1 tvg-id="1090541356_ENG" tvg-name="Omega European Masters - Day 2 - 4 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Sony Liv",Omega European Masters - Day 2 - 4 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="sonyliv-1090541356" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Sony Liv", Omega European Masters - Day 2 - 4 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8?hdnea=exp=1788558634~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a8bc3e7935739ecd6337cba3e99ce4fbffd48988243dc476a5867b5b99841f1
-#EXTINF:-1 tvg-id="1090541517_ENG" tvg-name="Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023469/1788466451709385_JPL_Eliminator_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv",Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="sonyliv-1090541517" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023469/1788466451709385_JPL_Eliminator_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv", Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788547832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f3d63236e7477042a4a8017b2a78b52e048e1668ac4ab32d86332a9c249a0d29
-#EXTINF:-1 tvg-id="1090541368_ENG" tvg-name="UAE Women vs Indonesia Women - 4 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Sony Liv",UAE Women vs Indonesia Women - 4 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="1090541368_HIN" tvg-name="UAE Women vs Indonesia Women - 4 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Sony Liv",UAE Women vs Indonesia Women - 4 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="1090541368_KAN" tvg-name="UAE Women vs Indonesia Women - 4 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Sony Liv",UAE Women vs Indonesia Women - 4 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="1090541368_TAM" tvg-name="UAE Women vs Indonesia Women - 4 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Sony Liv",UAE Women vs Indonesia Women - 4 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
-#EXTINF:-1 tvg-id="1090541368_TEL" tvg-name="UAE Women vs Indonesia Women - 4 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Sony Liv",UAE Women vs Indonesia Women - 4 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788576988~acl=/*~id=46215012368905993111865344147616~hmac=fcf1035c8fc4a9406ca764c4426c5ac4db3b9637e0f2ef9dc349adb906bbc5a3
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16619" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885123381020x576.jpg" group-title="Tapmad", France vs Romania Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg" group-title="Tapmad", Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg" group-title="Tapmad", Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16938" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885300491020x576.jpg" group-title="Tapmad", Betis vs Real Madrid | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16622" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885125251020x576.jpg" group-title="Tapmad", Denmark vs Germany Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg" group-title="Tapmad", Glasgow Cosmic vs Belfast Wolves | European T20 Premier League 2026
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-16302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg" group-title="Tapmad", Men's & Women's Singles 3rd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HH32H5FV" tvg-name="European T20 Premier League 2026 - 13th Match - Glasgow Cosmics vs Belfast Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2a82e9a7-be03-433a-9a5b-dfab88dd1dd1/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 13th Match - Glasgow Cosmics vs Belfast Wolves
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd3b27fa9fec3ae1ba2b53bf1f5fc022:de46a6d90d5ec10f3a50e6ac269773ac
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/p0dpfipel9/out/v1/1b51e61fdcee4e19a27ea00e172068cf/cenc.mpd
-#EXTINF:-1 tvg-id="B0HGSXJ9YD" tvg-name="Womens Asia Cup 2026 - 8th Match - United Arab Emirates Women vs Indonesia Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3215586-84d0-4862-a1da-77a91b7f34c8/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 8th Match - United Arab Emirates Women vs Indonesia Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd
