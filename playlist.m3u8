@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-04 12:19:24 Bangladesh Standard Time
-# Sources: 8 | Channels: 36 | Groups: 4
+# Generated: 2026-09-04 17:34:52 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -10,6 +10,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/9E3FE18D-7460-4470-BCC3F8CE77F0F01E.jpg" tvg-name="Formula 1" group-title="HimelOp",Formula 1
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://usanetwork.asset.viewlift.com/images/2026/09/03/1788429642881/recGLknwirF6q0JiG/thumbnail.jpg?impolicy=resize&w=1920&h=1080" tvg-name="Liverpool vs Ipswich Town" group-title="HimelOp",Liverpool vs Ipswich Town
@@ -77,12 +80,24 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HHH97GT3" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ebc61823-a21e-4cb7-9bc4-e64136975136/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541354_ENG" tvg-name="Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg" group-title="Sony Liv",Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2
-#EXTINF:-1 tvg-id="sonyliv-1090541354" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788517232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a41fd65e130b717ba1013332ef4128b2337f9a3ff79d37f6feb297908d19df29
+#EXTINF:-1 tvg-id="1090541355_HIN" tvg-name="Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv",Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980
+#EXTINF:-1 tvg-id="1090541355_PAN" tvg-name="Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv",Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980
+#EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Sony Liv", Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788528040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3257c21b0a4aa86bbabf3d1e5687237b84113f28e89a4ea00f32f57aa1d0d110
+#EXTINF:-1 tvg-id="sonyliv-1090541356" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Sony Liv", Omega European Masters - Day 2 - 4 Sep 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8?hdnea=exp=1788542448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ac74639a5b393a24583ad68acb8735208dd7dafc8ab595310e897657786ba27
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884403161020x576.jpg" group-title="Tapmad", Men's & Women's Singles 2nd Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16610" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885064211020x576.jpg" group-title="Tapmad", Spain vs Croatia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
