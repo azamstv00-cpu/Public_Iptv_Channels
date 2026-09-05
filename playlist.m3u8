@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-05 16:50:27 Bangladesh Standard Time
-# Sources: 8 | Channels: 39 | Groups: 5
+# Generated: 2026-09-05 19:41:55 Bangladesh Standard Time
+# Sources: 8 | Channels: 45 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -15,6 +15,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wdghfxurk2/
 https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6x0fo49xrp5x98bb9yun10uey_image-header_pCa_1783409440000&quality=70" tvg-name="Manchester City vs Coventry City" group-title="HimelOp",Manchester City vs Coventry City
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
 
 #SOURCE-TITLE:Personal-Collection
 #EXTINF:-1 tvg-chno="1" tvg-name="Bein 1" group-title="Personal-Collection",Bein 1
@@ -76,15 +81,39 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HGD69C6G" tvg-name="Chelsea vs. Aston Villa" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.943cda80-daba-4a33-a69c-6352076d628e/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Chelsea vs. Aston Villa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG6YRTLG" tvg-name="PPA Tour: Cary-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.38559770-7695-44d9-ad5f-d82ca330193b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Semifinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG6HSQ7N" tvg-name="Women's Skate Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.915e1012-b0e4-4612-8f53-0e53848a6451/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Women's Skate Final
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="sonyliv-1090541486" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8?hdnea=exp=1788619832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f90e50b802657ac06ec09be4c7474768bf14bc58cf5caf6277e354a22364bed7
-#EXTINF:-1 tvg-id="1090541487_HIN" tvg-name="Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514
-#EXTINF:-1 tvg-id="1090541487_PAN" tvg-name="Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514
 #EXTINF:-1 tvg-id="sonyliv-1090541487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv", Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/master.m3u8?hdnea=exp=1788612628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=613f4b92f95c136e0390a25c3f26ecc8f073eb78ac2b1a79d60dbd84d872554f
+#EXTINF:-1 tvg-id="1090541487_HIN" tvg-name="Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Sony Liv",Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788655987~acl=/*~id=52047445702963834451969533328871~hmac=2b3d4937c13a1aff64b9ed9f3966861a40bbaadc9ca5933a7df80ef5e80ffc7c
+#EXTINF:-1 tvg-id="1090541487_PAN" tvg-name="Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Sony Liv",Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788655987~acl=/*~id=52047445702963834451969533328871~hmac=2b3d4937c13a1aff64b9ed9f3966861a40bbaadc9ca5933a7df80ef5e80ffc7c
+#EXTINF:-1 tvg-id="1090541489_ENG" tvg-name="Omega European Masters - Day 3 - 5 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341899788287_DP-World-2026-Omega-European-Masters_Day3_landscape_thumb.jpg" group-title="Sony Liv",Omega European Masters - Day 3 - 5 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788655987~acl=/*~id=52047445702963834451969533328871~hmac=2b3d4937c13a1aff64b9ed9f3966861a40bbaadc9ca5933a7df80ef5e80ffc7c
+#EXTINF:-1 tvg-id="1090541528_ENG" tvg-name="Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023522/1788600066961184_JPL_Final_Pune-Peshwas-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Sony Liv",Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788655987~acl=/*~id=52047445702963834451969533328871~hmac=2b3d4937c13a1aff64b9ed9f3966861a40bbaadc9ca5933a7df80ef5e80ffc7c
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-16634" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885626481020-23last.jpg" group-title="Tapmad", Greece vs Croatia | Socca World Cup 2026
@@ -93,9 +122,9 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HFS2J83V" tvg-name="European T20 Premier League 2026 - 14th Match - Rotterdam Dockers vs Edinburgh Castle Rockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03206ec2-0f25-4d60-a207-8924fa010f88/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 14th Match - Rotterdam Dockers vs Edinburgh Castle Rockers
+#EXTINF:-1 tvg-id="B0HFRY1PGJ" tvg-name="European T20 Premier League 2026 - 15th Match - Dublin Guardians vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf4dbf3f-d3e1-447b-833b-93a9031dc6fd/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 15th Match - Dublin Guardians vs Amsterdam Flames
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fda631e67d8dec78cd88009acecdd7c3:91b6052b0398035f4db11bcddc7f9366
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdghfxurk2/out/v1/216c249cca0a44a384c944ecfebf418d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1f0d01ac1817a13b581b0144822f4818:bb771380eea40f9a03988d3a95ad64e0
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ub8aqevvss/out/v1/2766196ba194474b85344af46b0a8aa7/cenc.mpd
