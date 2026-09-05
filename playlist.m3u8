@@ -1,15 +1,15 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-05 12:07:59 Bangladesh Standard Time
-# Sources: 8 | Channels: 36 | Groups: 5
+# Generated: 2026-09-05 16:50:27 Bangladesh Standard Time
+# Sources: 8 | Channels: 39 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd3b27fa9fec3ae1ba2b53bf1f5fc022:de46a6d90d5ec10f3a50e6ac269773ac
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p0dpfipel9/out/v1/1b51e61fdcee4e19a27ea00e172068cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fda631e67d8dec78cd88009acecdd7c3:91b6052b0398035f4db11bcddc7f9366
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wdghfxurk2/out/v1/216c249cca0a44a384c944ecfebf418d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/9E3FE18D-7460-4470-BCC3F8CE77F0F01E.jpg" tvg-name="Formula 1" group-title="HimelOp",Formula 1
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8
@@ -76,20 +76,26 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HHDD8PB1" tvg-name="Chiba Lotte Marines vs. Orix Buffaloes" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f499b4fd-fb05-4d7c-ab6f-5ca60982e543/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Chiba Lotte Marines vs. Orix Buffaloes
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090541486" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8?hdnea=exp=1788619832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f90e50b802657ac06ec09be4c7474768bf14bc58cf5caf6277e354a22364bed7
+#EXTINF:-1 tvg-id="1090541487_HIN" tvg-name="Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514
+#EXTINF:-1 tvg-id="1090541487_PAN" tvg-name="Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514
+#EXTINF:-1 tvg-id="sonyliv-1090541487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg" group-title="Sony Liv", Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/master.m3u8?hdnea=exp=1788612628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=613f4b92f95c136e0390a25c3f26ecc8f073eb78ac2b1a79d60dbd84d872554f
+
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-16634" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885626481020-23last.jpg" group-title="Tapmad", Greece vs Croatia | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885050981020x576.jpg" group-title="Tapmad", Rotterdam Dockers vs Edinburgh Castle Rockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HFS2J83V" tvg-name="European T20 Premier League 2026 - 14th Match - Rotterdam Dockers vs Edinburgh Castle Rockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03206ec2-0f25-4d60-a207-8924fa010f88/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 14th Match - Rotterdam Dockers vs Edinburgh Castle Rockers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541486_ENG" tvg-name="Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv",Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788631032~acl=/*~id=11670722098877202124009963517764~hmac=a0eee765305160274da33926d291c3c1978bc6d818a788d480a660acae03603b
-#EXTINF:-1 tvg-id="sonyliv-1090541486" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Sony Liv", Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/master.m3u8?hdnea=exp=1788603644~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2b023e7a157cdc0abac0436f52e3875b9c72c439d1c4e284c1150027745d8a2b
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885022631020x576.jpg" group-title="Tapmad", Men's & Women's Singles 3rd Round | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#KODIPROP:inputstream.adaptive.license_key=fda631e67d8dec78cd88009acecdd7c3:91b6052b0398035f4db11bcddc7f9366
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdghfxurk2/out/v1/216c249cca0a44a384c944ecfebf418d/cenc.mpd
