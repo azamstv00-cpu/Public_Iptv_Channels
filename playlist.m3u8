@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-06 02:57:40 Bangladesh Standard Time
-# Sources: 8 | Channels: 50 | Groups: 6
+# Generated: 2026-09-06 04:46:09 Bangladesh Standard Time
+# Sources: 8 | Channels: 48 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -77,64 +77,68 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HHJ5L6P8" tvg-name="American Flat Track-Live: American Flat Track racing from Springfield" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.e5ecb1bc-0338-4526-b9fb-5d7d3460d169/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",American Flat Track-Live: American Flat Track racing from Springfield
+#EXTINF:-1 tvg-id="B0HDZ81DDF" tvg-name="2nd Test: Argentina v Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3b56c51e-9137-49a7-906b-ac510998d602/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2nd Test: Argentina v Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
 #EXTINF:-1 tvg-id="B0HH3ZBQVW" tvg-name="Barbados Tridents vs. Trinbago Knight Riders" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0cd8fc7c-398f-4947-bb98-bbe71b8e6807/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Barbados Tridents vs. Trinbago Knight Riders
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HB8T5VRY" tvg-name="NASCAR Whelen Modified Tour at Oswego Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4a9b5a31-4a84-4443-9536-924be7cff7eb/11/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",NASCAR Whelen Modified Tour at Oswego Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 #EXTINF:-1 tvg-id="B0HG6YRTLG" tvg-name="PPA Tour: Cary-Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.38559770-7695-44d9-ad5f-d82ca330193b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0GWK5415M" tvg-name="Roma vs. Atalanta" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aaf31ca0-d689-412a-9b9a-b489b76bb737/4/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Roma vs. Atalanta
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFPRGM1S" tvg-name="Racing Lou vs. Angel City" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0aa2098-2f3d-490e-a3f2-7f348f96881d/28/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Racing Lou vs. Angel City
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHLGZLC3" tvg-name="Richmond vs. Howard" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.824edf11-9c23-4321-ad57-48f0666a3eef/4/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Richmond vs. Howard
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0HGS12QHN" tvg-name="Sierra at San Mateo" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.47d910ff-9b60-4f1d-9ce6-2d722baaf6b3/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sierra at San Mateo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090541574_ENG" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788681018~acl=/*~id=39188480792337801449247624383174~hmac=a648407d234d6ee6b2fec26709c2862ac65b01c14c394413cec4a51e833239e3
+https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea
 #EXTINF:-1 tvg-id="1090541574_HIN" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788681018~acl=/*~id=39188480792337801449247624383174~hmac=a648407d234d6ee6b2fec26709c2862ac65b01c14c394413cec4a51e833239e3
+https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea
 #EXTINF:-1 tvg-id="1090541574_KAN" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788681018~acl=/*~id=39188480792337801449247624383174~hmac=a648407d234d6ee6b2fec26709c2862ac65b01c14c394413cec4a51e833239e3
+https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea
 #EXTINF:-1 tvg-id="1090541574_TAM" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788681018~acl=/*~id=39188480792337801449247624383174~hmac=a648407d234d6ee6b2fec26709c2862ac65b01c14c394413cec4a51e833239e3
+https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea
 #EXTINF:-1 tvg-id="1090541574_TEL" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788681018~acl=/*~id=39188480792337801449247624383174~hmac=a648407d234d6ee6b2fec26709c2862ac65b01c14c394413cec4a51e833239e3
-#EXTINF:-1 tvg-id="sonyliv-1090541574" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 | UFC Fight Night - Hooker vs Parnasse
-https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/master.m3u8?hdnea=exp=1788655835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=899e20239b11f6a3251ecc6ba1a5481a71b42331a81cbb725eb93b265d10b2b3
+https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885298191020x576.jpg" group-title="Tapmad", Al-Ittihad vs Al-Nassr | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17051" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885709911020x576.jpg" group-title="Tapmad", Barbados Tridents Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886212801020x576.jpg" group-title="Tapmad", Brazil vs Croatia | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16930" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885199191020x576.jpg" group-title="Tapmad", Hooker vs Parnasse | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885023421020x576.jpg" group-title="Tapmad", Men's & Women's Singles 3rd Round | US Open 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885304231020x576.jpg" group-title="Tapmad", Villarreal vs Deportivo | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0H859Z7N5" tvg-name="Womens Caribbean Premier League 2026 - 1st Match - Barbados Tridents Women vs Trinbago Knight Riders Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8873d1c9-ffb6-41a6-9175-76db2187cc1c/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 1st Match - Barbados Tridents Women vs Trinbago Knight Riders Women
@@ -142,4 +146,4 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cbab0068b63b9eacc992be538f5e93c:9f37508ad14dc7250749588d4b42d338
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ffcxmxukky/out/v1/0009229173a84399a4a9b36c5659b5e2/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ffcxmxukky/out/v1/0009229173a84399a4a9b36c5659b5e2/cenc.mpd
