@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-07 06:51:51 Bangladesh Standard Time
-# Sources: 8 | Channels: 45 | Groups: 6
+# Generated: 2026-09-07 11:20:00 Bangladesh Standard Time
+# Sources: 8 | Channels: 31 | Groups: 2
 
 
 #SOURCE-TITLE:HimelOp
@@ -72,63 +72,3 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HFJNBH6P" tvg-name="Baltes Classic at Eldora Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.33c6ecce-23f5-495b-9be5-ba231732b3df/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Baltes Classic at Eldora Speedway
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HGG49ZWH" tvg-name="Barbados Tridents vs. St. Lucia Kings" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.9b92e7f1-c1de-4679-8978-66afc39d1cfd/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Barbados Tridents vs. St. Lucia Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFDL51T4" tvg-name="Boston vs. San Francisco" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.581a4a60-2e84-4f48-97fa-7fc3caeb8c55/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Boston vs. San Francisco
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHXT3ZQW" tvg-name="Cleburne Railroaders vs. Kane County Cougars" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.e4404ec4-22de-4c0e-a3eb-25c6bcfeb281/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cleburne Railroaders vs. Kane County Cougars
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-id="B0HGWGSBF6" tvg-name="LIVE: Omega European Masters Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ecdeef47-2714-4114-a4ff-4f057d4379d1/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: Omega European Masters Day 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541680_ENG" tvg-name="Sunday Night Main Event - 7 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv",Sunday Night Main Event - 7 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f
-#EXTINF:-1 tvg-id="1090541680_HIN" tvg-name="Sunday Night Main Event - 7 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv",Sunday Night Main Event - 7 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f
-#EXTINF:-1 tvg-id="1090541680_KAN" tvg-name="Sunday Night Main Event - 7 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv",Sunday Night Main Event - 7 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f
-#EXTINF:-1 tvg-id="1090541680_TAM" tvg-name="Sunday Night Main Event - 7 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv",Sunday Night Main Event - 7 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f
-#EXTINF:-1 tvg-id="1090541680_TEL" tvg-name="Sunday Night Main Event - 7 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv",Sunday Night Main Event - 7 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f
-#EXTINF:-1 tvg-id="sonyliv-1090541680" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg" group-title="Sony Liv", Sunday Night Main Event - 7 Sep 2026 | WWE
-https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/master.m3u8?hdnea=exp=1788760227~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0cdb86bb17f713d5b10a3fc2edffc9384429d935eea2ccc5cc006f70765393bb
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-15804" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885702801020x576.jpg" group-title="Tapmad", Barbados Tridents vs St Lucia Kings | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16307" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725731020x576.jpg" group-title="Tapmad", Men's & Women's Singles | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H99D4V72" tvg-name="Caribbean Premier League 2026 - 29th Match - Barbados Tridents vs Saint Lucia Kings" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9da8db61-ef50-46bb-8625-1f675f4f301a/6/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 29th Match - Barbados Tridents vs Saint Lucia Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b24fed5aa908b1365b97e9595854c992:50e8b80e62a3875830b0d60792959f83
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umvuxfduwv/out/v1/1c74d43344244971b90df034725fe28c/cenc.mpd
