@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-08 07:18:34 Bangladesh Standard Time
-# Sources: 8 | Channels: 32 | Groups: 3
+# Generated: 2026-09-08 12:19:04 Bangladesh Standard Time
+# Sources: 8 | Channels: 31 | Groups: 2
 
 
 #SOURCE-TITLE:HimelOp
@@ -72,7 +72,3 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16309" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726911020x576.jpg" group-title="Tapmad", Men's & Women's Singles - R16 | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
