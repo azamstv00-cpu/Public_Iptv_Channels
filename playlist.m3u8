@@ -1,15 +1,15 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-09 16:00:18 Bangladesh Standard Time
-# Sources: 8 | Channels: 38 | Groups: 5
+# Generated: 2026-09-09 20:43:55 Bangladesh Standard Time
+# Sources: 8 | Channels: 46 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=35b232c321e2f405a140441419ad6bb8:bc22f933ebaca81b34891dc76c5ee815
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dqodaw1doj/out/v1/754e4d553e6044b9b85067097a378f2a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4b6jcx4eov/out/v1/3173a9cf67484677816695ee5c7107eb/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" tvg-name="Pakistan Tour of England 2026" group-title="HimelOp",Pakistan Tour of England 2026
@@ -76,27 +76,57 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HHGXYYDG" tvg-name="England vs. Pakistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.989e7578-6121-48bb-932f-85e9e8b0ac66/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",England vs. Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJ6TCYMZ" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.11d78db0-4b10-48e7-89bb-69ad16e488f5/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHRG9LR5" tvg-name="Triton ONE Poker Series Jeju II-$30K NLH 8-Handed" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4a1cb111-6ba2-4fa5-a6dc-d4f220ffa2ec/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$30K NLH 8-Handed
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090541741_ENG" tvg-name="Day 1 - 3rd Test - 9 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Sony Liv",Day 1 - 3rd Test - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789005249~acl=/*~id=62635487769851254299517715522248~hmac=b3306eecea20e8418e2ae4f14e6309cfdaf5983c6ea9058bf7a516d4cb6a9ffa
 #EXTINF:-1 tvg-id="sonyliv-1090541741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Sony Liv", Day 1 - 3rd Test - 9 Sep 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="1090541733_HIN" tvg-name="Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788987650~acl=/*~id=53977174778748346987600685566769~hmac=ad84cb617b65b0b3e6b646f76960988666a47eb34b9cc18ccce762b49828040d
-#EXTINF:-1 tvg-id="1090541733_PAN" tvg-name="Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788987650~acl=/*~id=53977174778748346987600685566769~hmac=ad84cb617b65b0b3e6b646f76960988666a47eb34b9cc18ccce762b49828040d
-#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Sony Liv", Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 | Sher-E-Punjab T20 League
+#EXTINF:-1 tvg-id="1090541864_ENG" tvg-name="Liverpool vs Atletico - MD 1 - 8 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023592/178871940542211_UYL26_Liverpool_vs_Atletico_live_landscape_thumb.jpg" group-title="Sony Liv",Liverpool vs Atletico - MD 1 - 8 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789005249~acl=/*~id=62635487769851254299517715522248~hmac=b3306eecea20e8418e2ae4f14e6309cfdaf5983c6ea9058bf7a516d4cb6a9ffa
+#EXTINF:-1 tvg-id="sonyliv-1090541864" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023592/178871940542211_UYL26_Liverpool_vs_Atletico_live_landscape_thumb.jpg" group-title="Sony Liv", Liverpool vs Atletico - MD 1 - 8 Sep 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="1090541733_HIN" tvg-name="Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv",Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789005249~acl=/*~id=62635487769851254299517715522248~hmac=b3306eecea20e8418e2ae4f14e6309cfdaf5983c6ea9058bf7a516d4cb6a9ffa
+#EXTINF:-1 tvg-id="1090541733_PAN" tvg-name="Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv",Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789005249~acl=/*~id=62635487769851254299517715522248~hmac=b3306eecea20e8418e2ae4f14e6309cfdaf5983c6ea9058bf7a516d4cb6a9ffa
+#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv", Mohali Kings vs Bathinda Royals - 9 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
 
+#SOURCE-TITLE:Tapmad
+#EXTINF:-1 tvg-id="tapmad-16705" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg" group-title="Tapmad", Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
 #SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HGXSYNJM" tvg-name="European T20 Premier League 2026 - 18th Match - Dublin Guardians vs Belfast Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd608bb3-5beb-461d-a535-85d39c13455a/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 18th Match - Dublin Guardians vs Belfast Wolves
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gnrgx65g9s/out/v1/7e3cb1faea4540f38f928c9d0fb44300/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/5/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd
