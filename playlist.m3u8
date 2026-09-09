@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-10 03:04:59 Bangladesh Standard Time
-# Sources: 8 | Channels: 51 | Groups: 5
+# Generated: 2026-09-10 05:26:14 Bangladesh Standard Time
+# Sources: 8 | Channels: 37 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -78,47 +78,23 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HG5PVWV2" tvg-name="Seville group-title="Prime Video", Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.bafe7e42-5a48-4c69-acf1-aa6645be2e79/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Seville, Early Rounds
+#EXTINF:-1 tvg-id="B0HFWH52T8" tvg-name="Road to the Dance" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Road to the Dance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090541848_ENG" tvg-name="Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg" group-title="Sony Liv",Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="sonyliv-1090541848" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg" group-title="Sony Liv", Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="1090541856_ENG" tvg-name="Napoli vs Arsenal - MD 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv",Napoli vs Arsenal - MD 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="1090541856_HIN" tvg-name="Napoli vs Arsenal - MD 1 - 10 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv",Napoli vs Arsenal - MD 1 - 10 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="1090541856_KAN" tvg-name="Napoli vs Arsenal - MD 1 - 10 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv",Napoli vs Arsenal - MD 1 - 10 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="1090541856_TAM" tvg-name="Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv",Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="1090541856_TEL" tvg-name="Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv",Napoli vs Arsenal - MD 1 - 10 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="sonyliv-1090541856" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Sony Liv", Napoli vs Arsenal - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="1090541839_ENG" tvg-name="PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg" group-title="Sony Liv",PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="sonyliv-1090541839" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg" group-title="Sony Liv", PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="1090541851_ENG" tvg-name="Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg" group-title="Sony Liv",Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522
-#EXTINF:-1 tvg-id="sonyliv-1090541851" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg" group-title="Sony Liv", Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17022" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg" group-title="Tapmad", Liverpool vs Atletico Madrid | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15806" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889393571020x576.jpg" group-title="Tapmad", Guyana Amazon Warriors vs St Lucia Kings | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg" group-title="Tapmad", Men's & Women's Singles Quarterfinals | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17021" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg" group-title="Tapmad", Napoli vs Arsenal | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg" group-title="Tapmad", PSG vs Slovan Bratislava | UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg" group-title="Tapmad", SCP vs Galatasaray | UEFA Champions League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HC3V37XH" tvg-name="Caribbean Premier League 2026 - 31st Match - Guyana Amazon Warriors vs Saint Lucia Kings" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d7746a9-39a3-4793-9ac7-2d1015ac115e/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 31st Match - Guyana Amazon Warriors vs Saint Lucia Kings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee4c96132f7caeabed47b2409c774426:81f7786f15984de961ad068f3c9ea49e
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/z1yuligges/out/v1/5c3a5a60f150446ebd33ee4f29daa106/cenc.mpd
