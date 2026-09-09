@@ -1,16 +1,10 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-09 06:26:31 Bangladesh Standard Time
-# Sources: 8 | Channels: 41 | Groups: 5
+# Generated: 2026-09-09 11:02:35 Bangladesh Standard Time
+# Sources: 8 | Channels: 31 | Groups: 2
 
 
 #SOURCE-TITLE:HimelOp
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" tvg-name="AEK Athens vs LASK" group-title="HimelOp",AEK Athens vs LASK
-https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788927042~acl=/*~id=32678098689515843837405737451502~hmac=bc6f14ee52d6ec4be16510dcabc9e0e4e626a9dc6b25101d7a7e17ff1c2af8ce
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-name="Bangladesh Women vs UAE Women" group-title="HimelOp",Bangladesh Women vs UAE Women
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788919724~acl=/*~id=41558618062312466521554958048383~hmac=6e7c3a411ed76bd44dec1eca7fd758461026106c6cd396f7beedb0b2447a1d94
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" tvg-name="Club Brugge vs Aston Villa" group-title="HimelOp",Club Brugge vs Aston Villa
-https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788927042~acl=/*~id=32678098689515843837405737451502~hmac=bc6f14ee52d6ec4be16510dcabc9e0e4e626a9dc6b25101d7a7e17ff1c2af8ce
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -78,35 +72,3 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HGCDVJ1M" tvg-name="Ohio Dominican at Fairmont State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.9b86586c-0bdc-42ba-bbab-e03244ac06aa/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Ohio Dominican at Fairmont State
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFWH52T8" tvg-name="Road to the Dance" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Road to the Dance
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541701" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg" group-title="Sony Liv", Dortmund vs Villarreal - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541699" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg" group-title="Sony Liv", Lille vs Real Betis - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg" group-title="Sony Liv", Porto vs Man City - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Sony Liv", Real Madrid vs Inter - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0H9B5L8CC" tvg-name="Caribbean Premier League 2026 - 30th Match - Guyana Amazon Warriors vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04560bac-178b-417e-be3b-42d2d286afc4/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 30th Match - Guyana Amazon Warriors vs Antigua And Barbuda Falcons
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d2bdb41d94e4ce5970cfb94c761450e:36e58d99b132061d0899a08880fb8dd6
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/45uxkdljzf/out/v1/73d2bc98182848119455113680a0c4e9/cenc.mpd
