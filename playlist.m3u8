@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-10 21:57:31 Bangladesh Standard Time
-# Sources: 8 | Channels: 57 | Groups: 6
+# Generated: 2026-09-10 22:59:31 Bangladesh Standard Time
+# Sources: 8 | Channels: 60 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -78,58 +78,68 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HG9LW4J6" tvg-name="Challenger Tour-Live: Seville-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4dec1338-be7f-4129-bb17-b616ef17bb68/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Challenger Tour-Live: Seville-ATP Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHMD7FSQ" tvg-name="First Semifinal: Sri Lanka vs. Pakistan" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.cad73915-521e-45f5-b42d-7b5479eb710f/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",First Semifinal: Sri Lanka vs. Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HHMZQ2Q8" tvg-name="Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f6005b77-a8aa-43dd-be7a-b22a8230691e/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090541930_ENG" tvg-name="Amgen Irish Open - Day 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg" group-title="Sony Liv",Amgen Irish Open - Day 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="sonyliv-1090541930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg" group-title="Sony Liv", Amgen Irish Open - Day 1 - 10 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 #EXTINF:-1 tvg-id="1090541939_ENG" tvg-name="Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023755/17890249560548_UYL26_Bayern_vs_Bodo_10sep_landscape_thumb.jpg" group-title="Sony Liv",Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
-#EXTINF:-1 tvg-id="sonyliv-1090541939" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023755/17890249560548_UYL26_Bayern_vs_Bodo_10sep_landscape_thumb.jpg" group-title="Sony Liv", Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541867_ENG" tvg-name="Day 2 - 3rd Test - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Sony Liv",Day 2 - 3rd Test - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
-#EXTINF:-1 tvg-id="sonyliv-1090541867" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Sony Liv", Day 2 - 3rd Test - 10 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541928_HIN" tvg-name="Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541928_PAN" tvg-name="Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv",Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Sony Liv", Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023703/1788946669572354_UCL_26_MD1_Fenerbahce-vs-Roma_live_landscape_thumb.jpg" group-title="Sony Liv", Fenerbahce vs Roma - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 #EXTINF:-1 tvg-id="1090541953_ENG" tvg-name="India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541953_HIN" tvg-name="India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541953_KAN" tvg-name="India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541953_TAM" tvg-name="India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="1090541953_TEL" tvg-name="India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv",India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789095036~acl=/*~id=67108962722949395228888673263175~hmac=e0a2d4c269cf0ef02d9e2c4aaad7abd1074f3da5b41cf7a77ef9d2dd731d8c24
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789098744~acl=/*~id=69393220553327229354842242242955~hmac=2dd0704d987eae6efb2d7fddbfacec9240ee542240baeabcab333bb67a007e06
 #EXTINF:-1 tvg-id="sonyliv-1090541953" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Sony Liv", India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 | DP World Women's Asia Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541965" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522865090822_UCL_26_MD1_PSV-vs-Shakhtar_live_landscape_thumb.jpg" group-title="Sony Liv", PSV vs Shakhtar - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 
 #SOURCE-TITLE:Tapmad
 #EXTINF:-1 tvg-id="tapmad-16707" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg" group-title="Tapmad", Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg" group-title="Tapmad", Fenerbahce vs Roma | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Tapmad", Junior & Wheelchair Semifinals | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-17026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg" group-title="Tapmad", PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HFFY39ZW" tvg-name="European T20 Premier League 2026 - 20th Match - Belfast Wolves vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae9acd49-8d06-4832-ae68-e37383acc6f0/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 20th Match - Belfast Wolves vs Amsterdam Flames
@@ -137,19 +147,19 @@ https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/egy7tkvmaf/out/v1/a72787cfdafd4d02a22a3b2eda26f75f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/egy7tkvmaf/out/v1/a72787cfdafd4d02a22a3b2eda26f75f/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/7/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuqdfxtlty/out/v1/6159375de7de4fee9f81b7a9bc8cc61c/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kuqdfxtlty/out/v1/6159375de7de4fee9f81b7a9bc8cc61c/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFX3ZJK3" tvg-name="Womens Asia Cup 2026 - 1st Semi Final - India Women vs Bangladesh Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.482e7911-824a-4758-90b7-0afc4cad60e4/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 1st Semi Final - India Women vs Bangladesh Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd
 #EXTINF:-1 tvg-id="B0HCGZPG7H" tvg-name="Womens Caribbean Premier League 2026 - 3rd Match - Trinbago Knight Riders Women vs Jamaica Empress Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15bc63ab-f8a9-49f1-baac-a47bc707a484/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 3rd Match - Trinbago Knight Riders Women vs Jamaica Empress Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
