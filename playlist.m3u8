@@ -1,10 +1,13 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-12 19:00:39 Bangladesh Standard Time
-# Sources: 8 | Channels: 47 | Groups: 6
+# Generated: 2026-09-12 22:25:52 Bangladesh Standard Time
+# Sources: 8 | Channels: 57 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
+#EXTINF:-1 tvg-logo="" tvg-name="Chelsea vs Hull City" group-title="HimelOp",Chelsea vs Hull City
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437e-hd/chunks.m3u8?is_vip=false&token=1789307266-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b763a682f5dd68b57eba6f1946663ba7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ETPL_Blue_Logo.png/1280px-ETPL_Blue_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="European T20 Premier League" group-title="HimelOp",European T20 Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,6 +18,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/
 https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
+#EXTINF:-1 tvg-logo="" tvg-name="Liverpool vs Fullham" group-title="HimelOp",Liverpool vs Fullham
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce5437c-hd/chunks.m3u8?is_vip=false&token=1789309064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ca6a85baae0889dba3d8506e1337e50
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" tvg-name="Pakistan Tour of England 2026" group-title="HimelOp",Pakistan Tour of England 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,60 +93,80 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG2QP2JW" tvg-name="Red Bull Grand Prix of San Marino and the Rimini Riviera" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.72e2c1db-a39d-4b50-a56a-81f1f838b848/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Red Bull Grand Prix of San Marino and the Rimini Riviera
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHS96Z29" tvg-name="Albany vs. Long Island Sharks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01fb020d-5bc2-4f47-82db-b7f5f5707e71/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Albany vs. Long Island Sharks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABDJIJ3AAAAAAAAMP2BAJ5RRBX6DN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpquPfJBhpqpTFJA2pjbG91ZGZyb250Angpc3NpZDphNzA2ODY0OC0xNWM2LTRhOTMtOTVjOC1lNmM3NThjM2RmMjcZATihBaECeDMvNGJhczZpcHV0bS9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmZYIDWvw0GE5KvfUHM1MOkxek1INZl-t2-TNMBqB5XLJAw5/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/4bas6iputm/out/v1/8197c8e055c94a868623653ac55c10bf/f728ce80-6e99-4c21-aa17-7097135ae058-cenc.mpd?aws.sessionId=9c9c8c3c-c585-4cf4-8e2c-286636fb0412
-#EXTINF:-1 tvg-id="B0HCX99K1L" tvg-name="Second Semifinal: Japan vs. United States" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0fc2dd07-8ecf-4cbe-a607-59c64fe54445/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Second Semifinal: Japan vs. United States
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#EXTINF:-1 tvg-id="B0H2PLK6YF" tvg-name="LIVE: Irish Open Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a650af41-bbbf-49ef-b08a-fa19fb8bf6cf/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: Irish Open Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
+#EXTINF:-1 tvg-id="B0H747VVXQ" tvg-name="Middlesbrough vs. Norwich City" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ea06678d-a741-4f08-931d-af96fafcf7b1/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Middlesbrough vs. Norwich City
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFD6HQMR" tvg-name="Triton ONE Poker Series Jeju II-$200K Triton Invitational" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d6bb1517-48e9-443b-bb26-aba866f24834/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$200K Triton Invitational
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG69ZK5M" tvg-name="West Bromwich Albion vs. Queens Park Rangers" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0a4d3e92-1ac7-418d-a399-736c783e7496/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Bromwich Albion vs. Queens Park Rangers
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HDWWGW2B" tvg-name="WCPL 2026 - Knight Riders vs Warriors" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5750f806-d63c-45fa-8100-97a91a927d20/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",WCPL 2026 - Knight Riders vs Warriors
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090542235_ENG" tvg-name="Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Sony Liv",Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
+#EXTINF:-1 tvg-id="sonyliv-1090542235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Sony Liv", Amgen Irish Open - Day 3 - 12 Sep 2026 | DP World Tour
+https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05
+#EXTINF:-1 tvg-id="1090542276_ENG" tvg-name="Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Sony Liv",Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
+#EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Sony Liv", Compound Men Elite QFs to Finals - 12 Sep 2026 | Hyundai Archery World Cup Final
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/master.m3u8?hdnea=exp=1789271441~acl=/*~id=44860182479368830262310321006075~hmac=149868152feedd73fa3d82e6f48ac6faf99e94f764a294adfc8f5023e32f16d4
 #EXTINF:-1 tvg-id="1090542233_HIN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789257550~acl=/*~id=25322099648207180579070299403127~hmac=269a067176514eed0346436947b28bc03dd3a4ea47f6254e0a68b94cb6e85d42
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
 #EXTINF:-1 tvg-id="1090542233_PAN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Sony Liv",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789257550~acl=/*~id=25322099648207180579070299403127~hmac=269a067176514eed0346436947b28bc03dd3a4ea47f6254e0a68b94cb6e85d42
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
 #EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Sony Liv", Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-16709" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg" group-title="Tapmad", Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Tapmad", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg" group-title="Tapmad", Racing Santander vs Alaves | LaLiga 2026/27
+#EXTINF:-1 tvg-id="tapmad-17090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg" group-title="Tapmad", Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16951" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891567281020x576.jpg" group-title="Tapmad", Athletic vs Elche | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16710" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg" group-title="Tapmad", Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17054" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg" group-title="Tapmad", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16320" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890279041020x576.jpg" group-title="Tapmad", Men's Doubles Final | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891565901020x576.jpg" group-title="Tapmad", Osasuna vs Espanyol | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg" group-title="Tapmad", Session 1 - Q1 Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HFZTK6P8" tvg-name="European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99f8e838-50fa-4bc8-816b-79a715b81bae/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers
+#EXTINF:-1 tvg-id="B0HH562ZJD" tvg-name="European T20 Premier League 2026 - 23rd Match - Dublin Guardians vs Glasgow Cosmics" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137163d6-60b1-450e-adf5-f802513ff3dc/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 23rd Match - Dublin Guardians vs Glasgow Cosmics
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/8/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
+#KODIPROP:inputstream.adaptive.license_key=143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tziwdkyit3/out/v1/2d48b29d83c445fabe81fb7858b14081/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF8HW9FL" tvg-name="Womens Caribbean Premier League 2026 - 4th Match - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd23a1bb-1873-4563-b7d8-56756ac8f3ac/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 4th Match - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fcf5dfcd9f356b9db1e17119c30d52df:edc25ded4b149f4623c7026550134bc9
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fd56p9i0qq/out/v1/19aca7d85f6b4feebd7f4079e77bd2b7/cenc.mpd
