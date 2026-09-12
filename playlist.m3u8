@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-13 03:15:48 Bangladesh Standard Time
-# Sources: 8 | Channels: 54 | Groups: 6
+# Generated: 2026-09-13 05:10:16 Bangladesh Standard Time
+# Sources: 8 | Channels: 50 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -82,78 +82,66 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HH6172C6" tvg-name="Atalanta vs. Cagliari" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf624145-da75-4c94-8bca-11ed597db9a8/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Atalanta vs. Cagliari
+#EXTINF:-1 tvg-id="B0HGTYQH27" tvg-name="Arkansas Pine Bluff vs. Alcorn State" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.09d9edec-70e8-4719-81b4-10443c7dbdc0/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Arkansas Pine Bluff vs. Alcorn State
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0GXKLNYNG" tvg-name="ATP Challenger Tour-Seville-ATP Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3744cf35-be4d-4f7f-b9ed-349dbdaf5f73/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP Challenger Tour-Seville-ATP Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCZ13WWV" tvg-name="Auxerre vs. Nice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94172f12-b320-492a-b2af-a55c6f5172f8/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Auxerre vs. Nice
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFNSQP54" tvg-name="Barbados Tridents vs. Jamaica Empress" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.464691a3-fe03-43e7-bb59-985be69e164c/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Barbados Tridents vs. Jamaica Empress
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFCCP2M1" tvg-name="Bowie State vs. Delaware State Hornets" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4edd3a28-8290-40a4-aa78-d3a3689095c4/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Bowie State vs. Delaware State Hornets
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=18d22a6846e00697bbfb57878643a3d4:d6bacbdc4bd380fdc6c25f4c717eb0d9
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pws6aidhqu/out/v1/b769e0f9eaca4e818a34eb588537ea6e/cenc.mpd
 #EXTINF:-1 tvg-id="B0HGMT77H4" tvg-name="CARS Tour at Tri-County Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.556bc865-61c2-4ca8-8250-3cbf11a1f78e/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",CARS Tour at Tri-County Speedway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHKZYZ9M" tvg-name="Monster Jam LIVE-Monster Jam from Duluth group-title="Prime Video", GA - 9/12/2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.6c2d0cca-f332-4c5f-b4dd-0eff8c33f21f/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Monster Jam LIVE-Monster Jam from Duluth, GA - 9/12/2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/l5r5ycaf8m/out/v1/5dcd36b0572c46179bd1f8ca844590f8/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHHXZMNY" tvg-name="Loudoun United FC at Pittsburgh Riverhounds SC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.96c4eff6-90c6-4b14-a615-21f9c65b32f5/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Loudoun United FC at Pittsburgh Riverhounds SC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="B0HGYKPMZV" tvg-name="New Zealand vs. Netherlands" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.dfbfc10e-df54-427f-b195-84a82a273b52/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",New Zealand vs. Netherlands
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFWH52T8" tvg-name="Road to the Dance" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Road to the Dance
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#EXTINF:-1 tvg-id="B0H9HRG49C" tvg-name="San Diego Wave vs. Courage" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4149088d-a8f7-42e5-8fcd-a6df60a56495/34/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",San Diego Wave vs. Courage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG6HK1VP" tvg-name="Virginia State vs. South Carolina State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.fc4c6ff4-5788-4767-b305-9400189f0db8/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Virginia State vs. South Carolina State
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090542276_ENG" tvg-name=" Compound Women Elite QFs to Finals - 13 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789770953248_Hyundai-Archery-World-Cup-Final_Compound-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Sony Liv", Compound Women Elite QFs to Finals - 13 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
-#EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789770953248_Hyundai-Archery-World-Cup-Final_Compound-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Sony Liv",  Compound Women Elite QFs to Finals - 13 Sep 2026 | Hyundai Archery World Cup Final
-https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/master.m3u8?hdnea=exp=1789271441~acl=/*~id=44860182479368830262310321006075~hmac=149868152feedd73fa3d82e6f48ac6faf99e94f764a294adfc8f5023e32f16d4
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="1090542394_ENG" tvg-name="NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv",NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
+https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="1090542394_HIN" tvg-name="NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv",NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
+https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="1090542394_KAN" tvg-name="NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv",NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
+https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="1090542394_TAM" tvg-name="NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv",NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
+https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="1090542394_TEL" tvg-name="NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv",NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789289705~acl=/*~id=81611510356921031753453816682040~hmac=3a4275b67330783f33a76323d7230ee82a79fa4cabc96b5b601dd70c5be9d109
+https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789293349~acl=/*~id=24905448940634841165695488906711~hmac=707c8bdaa8683222781201eaa7805328c188c095c66bb058e30bdb34a1d8248d
 #EXTINF:-1 tvg-id="sonyliv-1090542394" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Sony Liv", NOCHE UFC - Silva vs Delgado - 13 Sep 2026 | NOCHE UFC - Silva vs Delgado
 https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/master.m3u8?hdnea=exp=1789289435~acl=/*~id=14000844105226145059963114022606~hmac=c04ecf2b99e36d62264ecd22abe7904e92677878dfbaf2191c52a5dd2f55e814
 
 #SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg" group-title="Tapmad", Barbados Tridents Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892134401020x576.jpg" group-title="Tapmad", Real Madrid vs Rayo Vallecano | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Tapmad", Silva vs Delgado | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16321" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891307111020x576.jpg" group-title="Tapmad", Women's Singles Finals | US Open 2026
@@ -165,4 +153,4 @@ https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a661503178d68c007f666b91ec743c88:6315c9513e2d17d59838e56282afdc10
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd
