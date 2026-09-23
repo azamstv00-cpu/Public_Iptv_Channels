@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-23 23:47:08 Bangladesh Standard Time
-# Sources: 8 | Channels: 38 | Groups: 4
+# Generated: 2026-09-24 03:11:47 Bangladesh Standard Time
+# Sources: 8 | Channels: 35 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -78,20 +78,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJ8W3M8C" tvg-name="Gibraltar vs. São Tomé e Príncipe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.cc193e03-4d03-4cf5-a7f0-7e3ad3d5cd08/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Gibraltar vs. São Tomé e Príncipe
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJZPLX14" tvg-name="FC Barcelona vs. Paris FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ab36a18e-f6d8-4562-b102-9e2d87b5a2a2/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",FC Barcelona vs. Paris FC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090543690_ENG" tvg-name="Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="Sony Liv",Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de
-#EXTINF:-1 tvg-id="sonyliv-1090543690" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="Sony Liv", Azerbaijan vs Tajikstan - 23 Sep 2026 | UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/master.m3u8?hdnea=exp=1790220038~acl=/*~id=42238316534714124527055951949374~hmac=42b88787f7e20192314a42425709e6a4355d82133cd267302ca230e17ab032d4
-#EXTINF:-1 tvg-id="1090543707_ENG" tvg-name="Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="Sony Liv",Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de
-#EXTINF:-1 tvg-id="sonyliv-1090543707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="Sony Liv", Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 | UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX1_22209/ENG/master.m3u8?hdnea=exp=1790220059~acl=/*~id=08395016948394767050462978754411~hmac=507731ab2db7e36f66d7035615a1a203aa3b483fb284ccf4c447793a78ac8f43
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJGVR6R4" tvg-name="FloRacing Night in America at Lincoln Park Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a8db76d4-164d-483e-85bf-050102f66aa9/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FloRacing Night in America at Lincoln Park Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
