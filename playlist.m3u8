@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-25 04:02:42 Bangladesh Standard Time
-# Sources: 8 | Channels: 36 | Groups: 3
+# Generated: 2026-09-25 06:40:48 Bangladesh Standard Time
+# Sources: 8 | Channels: 48 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -85,10 +85,46 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HH9GGR3V" tvg-name="Coppin State at Howard" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ddff3374-1d54-420f-b105-4ec249817f9c/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Coppin State at Howard
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0H8XX53BV" tvg-name="Miles Wolff Cup group-title="Prime Video", Game 3: Milwaukee Milkmen at Kansas City Monarchs" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.83c5f638-fc89-485f-a853-e4c8f42e99b1/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Miles Wolff Cup, Game 3: Milwaukee Milkmen at Kansas City Monarchs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF4L1NCM" tvg-name="Stony Brook vs Elon - Women's Soccer" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.51587370-d1aa-4fcb-8466-801d5ce4aebd/20/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Stony Brook vs Elon - Women's Soccer
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/AG_MDS2_2409/ENG/master.m3u8?hdnea=exp=1790338861~acl=/*~id=18637016279553714097770793509434~hmac=dc19e586fc4f34d239d8a201df8a0f4fa7f0db2f7956f456bb4f83290b5fad76
+#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Hong Kong group-title="Sony Liv", China vs Oman - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg" group-title="Cricket",Hong Kong, China vs Oman - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790339161~acl=/*~id=76823297718112230779360569005238~hmac=2d49ccd88f8284a9dbb6ad3eacdbbb6e544bf8e8cb10c10858a02038daa4a742
+#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg" group-title="Sony Liv", Hong Kong, China vs Oman - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/master.m3u8?hdnea=exp=1790337044~acl=/*~id=69492485067204782344731719514976~hmac=051303e120f4913ca636d5939c4ff41e0525058fb757599b0bd01f222e57aa94
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Equestrian - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_Eques2409/ENG/master.m3u8?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790294101616_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Kazakhstan vs Bangladesh - Women - Hockey - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/master.m3u8?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's & Women's Prelims - Beach Volleyball - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_MDS3_2409/ENG/master.m3u8?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd
+#EXTINF:-1 tvg-id="1090541378_ENG" tvg-name="Men's & Women's Track & Field Finals - Athletics - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Sony Liv",Men's & Women's Track & Field Finals - Athletics - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790339161~acl=/*~id=76823297718112230779360569005238~hmac=2d49ccd88f8284a9dbb6ad3eacdbbb6e544bf8e8cb10c10858a02038daa4a742
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Mixed Team - Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/master.m3u8?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790294965672_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", People's Republic of China vs Kyrgyzstan - Women - Beach Volleyball - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX6_22409/ENG/master.m3u8?hdnea=exp=1790338837~acl=/*~id=33147055831871944763334848520324~hmac=0eb683ca8cd8b032b5a2c8d37564c101c9dd47a06777c93c977eadbc8826f890
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's, Women's & Mixed - Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_DX8_22409/ENG/master.m3u8?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HK6NJNHY" tvg-name="Asian Games 2026 - 3rd Match - Hong Kong China vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ad4674f2-e9b7-467b-b1af-deb17eb28dbf/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Asian Games 2026 - 3rd Match - Hong Kong China vs Oman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8896d605246871ac424878491d86a1:8600d4153034b3cbc852f13ea4b7482c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cumxaj9bgt/out/v1/84156aa620d84a00bf9ec1a949d1cbd9/cenc.mpd
