@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-26 07:49:07 Bangladesh Standard Time
-# Sources: 8 | Channels: 56 | Groups: 5
+# Generated: 2026-09-26 13:08:56 Bangladesh Standard Time
+# Sources: 8 | Channels: 53 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -80,79 +80,59 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJQYPYYM" tvg-name="Athletics 07" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1affb814-8a1f-4b15-91e7-419a96bdeea9/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Athletics 07
+#EXTINF:-1 tvg-id="B0HHNJV5KR" tvg-name="Shanghai Sprints group-title="Prime Video", Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.47391a8a-dc15-4a0f-b910-be9c5c0848d3/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Shanghai Sprints, Day 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/18/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Vietnam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJLQ77VN" tvg-name="Tennis Today Live-Singapore-WTA group-title="Prime Video", Seoul-WTA Semifinals; Hangzhou-ATP & Chengdu-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d377550b-f356-4528-8596-21c8284be518/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Singapore-WTA, Seoul-WTA Semifinals; Hangzhou-ATP & Chengdu-ATP Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0H5KQ8TQ7" tvg-name="Weightlifting 08" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.16a02cd8-c541-4403-9203-c41f3db65758/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Weightlifting 08
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HB59NP27" tvg-name="FC Tulsa at El Paso Locomotive FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ce0e55ae-8025-49ca-9525-5877d4dc546e/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FC Tulsa at El Paso Locomotive FC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKLC9LNX" tvg-name="Lucas Oil Jackson 100 at Brownstown Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f1a344d9-5c8b-4dcd-bc9b-e097ec62d0eb/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lucas Oil Jackson 100 at Brownstown Speedway
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG6KQ8VQ" tvg-name="OHL Hockey: Niagara IceDogs vs Saginaw Spirit" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.09fc1e0b-7842-49a4-b0d8-d525cd024843/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",OHL Hockey: Niagara IceDogs vs Saginaw Spirit
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHGZJD7Z" tvg-name="Smith at Endicott" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3466d6ba-f495-4a20-b164-ea67bd0badcc/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Smith at Endicott
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-id="B0HB7CZQ5J" tvg-name="St. Ignatius College at Sacred Heart Cathedral" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.de23b758-a3e1-4975-bf7d-1eb3c147f381/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",St. Ignatius College at Sacred Heart Cathedral
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22609/ENG/master.m3u8?hdnea=exp=1790432434~acl=/*~id=18207870519634578372090939017911~hmac=a5e1c0dcb4079a5ffae111394a17c10b4b9a67f03d208669d246b272e84936ec
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790400301987_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_MDS2_2509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 8 - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Equestrian - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_EDX_22509/ENG/master.m3u8?hdnea=exp=1790423442~acl=/*~id=28016161674685848809904521944532~hmac=905cd25d6d56e01574154cb9b166e82c4bd34e7350e55dc0d93ba85ef7bbedca
-#EXTINF:-1 tvg-id="1090541378_ENG" tvg-name="India In Action - Athletics - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024845/1790372336608416_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="Sony Liv",India In Action - Athletics - 26 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024845/1790372336608416_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="Sony Liv", India In Action - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
-#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Japan vs Nepal - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg" group-title="Sony Liv",Japan vs Nepal - 26 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg" group-title="Sony Liv", Japan vs Nepal - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
-#EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv",Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv",Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="1090543296_KAN" tvg-name="Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv",Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="1090543296_TAM" tvg-name="Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv",Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="1090543296_TEL" tvg-name="Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv",Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790429021~acl=/*~id=18280572234510976797406178784459~hmac=133651b5a3e0ec27a6a496ccfbcc4528fcc7e29aac0249154d139bb1a8700db5
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg" group-title="Sony Liv", Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Finals - Weightlifting - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS1_2609/ENG/master.m3u8?hdnea=exp=1790439638~acl=/*~id=94841095675342637592366062888694~hmac=2890a3749868e8425891f2b7f06bd1f9d3f3750e9d97f0589516d852cca89261
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024870/1790392197365510_AG26_Squash_Mens_Singles_SF_Muhammad_vs_Abhay_live_landscape_thumb.jpg" group-title="Sony Liv", India In Action - Squash - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790382960626_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Lakshya vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv",P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790449000~acl=/*~id=43102454008836279906376834287095~hmac=f97b9bd448e458c88b6c851719808db658b6bf0cc9b00ad6cb1ceea8de981c87
+#EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv",P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790449000~acl=/*~id=43102454008836279906376834287095~hmac=f97b9bd448e458c88b6c851719808db658b6bf0cc9b00ad6cb1ceea8de981c87
+#EXTINF:-1 tvg-id="1090543296_KAN" tvg-name="P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv",P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790449000~acl=/*~id=43102454008836279906376834287095~hmac=f97b9bd448e458c88b6c851719808db658b6bf0cc9b00ad6cb1ceea8de981c87
+#EXTINF:-1 tvg-id="1090543296_TAM" tvg-name="P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv",P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790449000~acl=/*~id=43102454008836279906376834287095~hmac=f97b9bd448e458c88b6c851719808db658b6bf0cc9b00ad6cb1ceea8de981c87
+#EXTINF:-1 tvg-id="1090543296_TEL" tvg-name="P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv",P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790449000~acl=/*~id=43102454008836279906376834287095~hmac=f97b9bd448e458c88b6c851719808db658b6bf0cc9b00ad6cb1ceea8de981c87
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024849/179037740710584_AG26_25Sep_Badminton_Womens_Singles_PV_Sindhu_vs_Chiu_live_landscape_thumb.jpg" group-title="Sony Liv", P.V. Sindhu vs CHIU - Women's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285244661348_AG26_Diving_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's and Women's - Diving - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/AG_MDS2_2509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790380441827_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Oman vs Thailand - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790402115168_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Sri Lanka vs Republic of Korea - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790384450977_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Yashaswini vs HARIMOTO - Women's Singles - Table Tennis - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
-
-#SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HC388PM2" tvg-name="Asian Games 2026 - 5th Match - Japan vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee5bbfc7-49e6-45ec-a62e-c01a45755953/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Asian Games 2026 - 5th Match - Japan vs Nepal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/idczxkgq7l/out/v1/169a00dcc2444e119f18bb2638b0e368/cenc.mpd
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Table Tennis - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX6_22609/ENG/master.m3u8?hdnea=exp=1790434232~acl=/*~id=87602207554872074075893998424236~hmac=2522dc02f750d93653eb0a8703ddb03cbca7af597871c8e315282bcd701e3b44
