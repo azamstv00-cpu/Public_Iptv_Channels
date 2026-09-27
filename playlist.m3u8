@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-28 02:18:31 Bangladesh Standard Time
-# Sources: 8 | Channels: 49 | Groups: 5
+# Generated: 2026-09-28 05:16:39 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -91,37 +91,21 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJVZ6B7D" tvg-name="Albany Regional group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8991915d-a051-4704-9cb8-48b44ffa117c/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Albany Regional, Qualifying
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
-https://ABBJKKMAAAAAAAAMCVLML5GHNEYZB.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzOh0BhpquSH0A2pjbG91ZGZyb250Angpc3NpZDphYjZkMzg4ZS03YzBkLTRmZTItYjBlMC1mZGI2YWE1MGQ2M2MZATihBaECeDMveW9mOHk4enE5cC9vdXQvdjEvNjkyMzVlZjY0ODZiNDhlMGJiZWVhMDJiMjBmYWFjM2UZATyBYlVTWCA_NV7I5y0c1jBdRbIy_z3A7icxKdS5Q_JJ7pOMzP9mGQ/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yof8y8zq9p/out/v1/69235ef6486b48e0bbeea02b20faac3e/d5331b94-2238-4f3a-9c1b-a4a6ec745de5-cenc.mpd?aws.sessionId=621eb4d9-39d6-4945-952b-bf0a787eb8aa
-#EXTINF:-1 tvg-id="B0HJHPDH7N" tvg-name="Toulouse vs Montpellier - Rugby" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e79f282-8d11-4efc-b5c3-a9215f8866fe/36/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Toulouse vs Montpellier - Rugby
+#EXTINF:-1 tvg-id="B0HFVBSG9N" tvg-name="Gymreapers Wodapalooza SoCal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc73568-d2bd-4ef6-ae4b-425196598a9e/39/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Gymreapers Wodapalooza SoCal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090544915_ENG" tvg-name="Germany vs Greece - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Sony Liv",Germany vs Greece - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790582076~acl=/*~id=11446021493720700907072496080450~hmac=9164de7826d019209448378eed1fcabc8a39a249f031c34bacda633998f72e1a
-#EXTINF:-1 tvg-id="sonyliv-1090544915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Sony Liv", Germany vs Greece - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781
-#EXTINF:-1 tvg-id="1090544917_ENG" tvg-name="Israel vs Republic of Ireland - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Sony Liv",Israel vs Republic of Ireland - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790582076~acl=/*~id=11446021493720700907072496080450~hmac=9164de7826d019209448378eed1fcabc8a39a249f031c34bacda633998f72e1a
-#EXTINF:-1 tvg-id="sonyliv-1090544917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Sony Liv", Israel vs Republic of Ireland - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03
-#EXTINF:-1 tvg-id="1090544916_ENG" tvg-name="Norway vs Portugal - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Sony Liv",Norway vs Portugal - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790582076~acl=/*~id=11446021493720700907072496080450~hmac=9164de7826d019209448378eed1fcabc8a39a249f031c34bacda633998f72e1a
-#EXTINF:-1 tvg-id="sonyliv-1090544916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Sony Liv", Norway vs Portugal - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg" group-title="Tapmad", Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg" group-title="Tapmad", Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg" group-title="Tapmad", Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJQ3J8BH" tvg-name="Road to The Dome at Coles County Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1443d59e-324e-4ad5-9f1c-e27f24868b35/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Road to The Dome at Coles County Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFPS22B5" tvg-name="USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e6343d3-c753-4498-b7ec-2e9cb4b701aa/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
