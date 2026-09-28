@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-28 22:54:49 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 5
+# Generated: 2026-09-29 04:25:47 Bangladesh Standard Time
+# Sources: 8 | Channels: 33 | Groups: 2
 
 
 #SOURCE-TITLE:HimelOp
@@ -10,6 +10,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17903353021020x576.jpg" tvg-name="Bangladesh vs Singapore" group-title="HimelOp",Bangladesh vs Singapore
+#EXTVLCOPT:http-referrer=https://www.tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgm7LyZG/36434-removebg-preview.png" tvg-name="Hiii" group-title="HimelOp",Hiii
 https://video.twimg.com/amplify_video/2081748492968673283/pl/uLenUVc-4g3Xw0xa.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81abe910-3459-40fa-80bb-f9e5b2e25b77/4/BOXART-16X9/en-US._UR1920 group-title="HimelOp",1080_.jpeg" tvg-name="India vs. West Indies" group-title="Sports",India vs. West Indies
@@ -77,33 +80,3 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-
-#SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0GHT2LV1V" tvg-name="Georgia vs. Ukraine" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80882d82-0c72-4b1a-835c-3837bb263a4c/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Georgia vs. Ukraine
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090545166_ENG" tvg-name="Armenia vs Montenegro - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033937035628_UNL2627_Armenia_vs_Montenegro_landscape_thumb.jpg" group-title="Sony Liv",Armenia vs Montenegro - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/unl_arme2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790656014~acl=/*~id=27324420432433164075054354137843~hmac=33dbf83318334e56d75195cb90706980c2a2495f08b394f2cce247750820527b
-#EXTINF:-1 tvg-id="sonyliv-1090545166" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033937035628_UNL2627_Armenia_vs_Montenegro_landscape_thumb.jpg" group-title="Sony Liv", Armenia vs Montenegro - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120300/unl_arme2809/ENG/master.m3u8?hdnea=exp=1790652065~acl=/*~id=07010048893117896340000968870080~hmac=81611055ab17dc839f035fd1781d117a6ca018dfe2e36ef907ab9b9c571f9670
-#EXTINF:-1 tvg-id="1090545171_ENG" tvg-name="Georgia vs Ukraine - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034832920628_UNL2627_Georgia_vs_Ukraine_landscape_thumb.jpg" group-title="Sony Liv",Georgia vs Ukraine - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/unl_geor2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790656014~acl=/*~id=27324420432433164075054354137843~hmac=33dbf83318334e56d75195cb90706980c2a2495f08b394f2cce247750820527b
-#EXTINF:-1 tvg-id="sonyliv-1090545171" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034832920628_UNL2627_Georgia_vs_Ukraine_landscape_thumb.jpg" group-title="Sony Liv", Georgia vs Ukraine - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/unl_geor2809/ENG/master.m3u8?hdnea=exp=1790653842~acl=/*~id=39912320091136581813929596207098~hmac=8dcb963e29d47c4eaa7465f12d1bdbe232bc280c7bd25f4a9f12b21f85640d1b
-#EXTINF:-1 tvg-id="1090545170_ENG" tvg-name="Latvia vs Cyprus - 28 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034559031628_UNL2627_Latvia_vs_Cyprus_landscape_thumb.jpg" group-title="Sony Liv",Latvia vs Cyprus - 28 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/unl_latv2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790656014~acl=/*~id=27324420432433164075054354137843~hmac=33dbf83318334e56d75195cb90706980c2a2495f08b394f2cce247750820527b
-#EXTINF:-1 tvg-id="sonyliv-1090545170" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034559031628_UNL2627_Latvia_vs_Cyprus_landscape_thumb.jpg" group-title="Sony Liv", Latvia vs Cyprus - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/unl_latv2809/ENG/master.m3u8?hdnea=exp=1790652072~acl=/*~id=78821581431104966931043648670947~hmac=391caba57d3edc4aa113f2c905f820d3e6f1e349d471da0205a0743d5399a598
-
-#SOURCE-TITLE:Tapmad
-#EXTINF:-1 tvg-id="tapmad-17858" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904474921020x576.jpg" group-title="Tapmad", Armenia vs Montenegro - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17857" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904472801020x576.jpg" group-title="Tapmad", Georgia vs Ukraine - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904481441020x576.jpg" group-title="Tapmad", Latvia vs Cyprus - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
