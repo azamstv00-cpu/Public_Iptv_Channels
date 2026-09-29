@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-09-30 02:08:37 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 4
+# Generated: 2026-09-30 05:53:22 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -82,27 +82,23 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJX1LNML" tvg-name="Scotland vs. Switzerland" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e842b2-d6c1-4703-9359-ea5e9d093acd/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Scotland vs. Switzerland
+#EXTINF:-1 tvg-id="B0HLB8BCM6" tvg-name="Missouri Baptist University vs. Maryville University" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.032f2f9d-e5c4-4229-bb09-8442a6c5851d/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Missouri Baptist University vs. Maryville University
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090545446" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036639667628_UNL2627_Bulgaria_vs_Estonia_landscape_thumb.jpg" group-title="Sony Liv", Bulgaria vs Estonia - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749302~acl=/*~id=55839433569743538286300554345358~hmac=d15e5f3424b3d90bb425049e9f575cfd7e48afcee325379b69d1978f7f39005b
-#EXTINF:-1 tvg-id="sonyliv-1090545449" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790037196135628_UNL2627_Czechia_vs_England_landscape_thumb.jpg" group-title="Sony Liv", Czechia vs England - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749250~acl=/*~id=93448664438481513518082485537335~hmac=b51f7375fa72fe1b46bb7328d00afa3f40f5ac48f69d26822f8beb001740a61a
-#EXTINF:-1 tvg-id="sonyliv-1090545447" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790036876475628_UNL2627_Luxembourg_vs_Iceland_landscape_thumb.jpg" group-title="Sony Liv", Luxembourg vs Iceland - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749239~acl=/*~id=39198785178993388398633194375703~hmac=97cd899fb721875aeb2f6a22deb3cddbdb67a14da0521daa500818b592a0d0bb
-#EXTINF:-1 tvg-id="sonyliv-1090545444" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036383044813_UNL2627_San_Marino_vs_Albania_landscape_thumb.jpg" group-title="Sony Liv", San Marino vs Albania - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749278~acl=/*~id=73700481767418831556530520444367~hmac=a3f669c514eb199585d97611aecf9aca91ce5505aa162fd614462476367fe4f3
-#EXTINF:-1 tvg-id="sonyliv-1090545450" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037297951813_UNL2627_Scotland_vs_Switzerland_landscape_thumb.jpg" group-title="Sony Liv", Scotland vs Switzerland - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749258~acl=/*~id=43277989426979958084085304331504~hmac=b0e099752a085b11b2657d79dec0be16016f0e525a72335d7f541c360111a755
-#EXTINF:-1 tvg-id="sonyliv-1090545445" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036514355813_UNL2627_Slovakia_vs_Kazakhstan_landscape_thumb.jpg" group-title="Sony Liv", Slovakia vs Kazakhstan - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749278~acl=/*~id=73700481767418831556530520444367~hmac=a3f669c514eb199585d97611aecf9aca91ce5505aa162fd614462476367fe4f3
-#EXTINF:-1 tvg-id="sonyliv-1090545443" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036204655813_UNL2627_Slovenia_vs_North_Macedonia_landscape_thumb.jpg" group-title="Sony Liv", Slovenia vs North Macedonia - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749295~acl=/*~id=62474776293757401602962408597921~hmac=64fbfb83e8fc6805f45db6ffbfa62e332a1afceed31c08b11fee9d357fba0e2a
-#EXTINF:-1 tvg-id="sonyliv-1090545448" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790037081710813_UNL2627_Spain_vs_Croatia_landscape_thumb.jpg" group-title="Sony Liv", Spain vs Croatia - 30 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive2909/ENG/master.m3u8?hdnea=exp=1790749239~acl=/*~id=39198785178993388398633194375703~hmac=97cd899fb721875aeb2f6a22deb3cddbdb67a14da0521daa500818b592a0d0bb
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Chinese Taipei vs People's Republic of China - Women's Softball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Men's & Women's Quarterfinals - Beach Volleyball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8?hdnea=exp=1790769088~acl=/*~id=86894233202059025580570457759464~hmac=14e26c4bfab9fa6092a251be500916a817ef61ea25c4c3c2083c05fb004ac2d9
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Women's Hockey - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
