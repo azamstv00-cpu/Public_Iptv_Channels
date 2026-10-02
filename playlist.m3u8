@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-02 16:41:35 Bangladesh Standard Time
-# Sources: 8 | Channels: 50 | Groups: 4
+# Generated: 2026-10-02 22:31:23 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -87,50 +87,32 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK34VJ9K" tvg-name="Latvia vs. Montenegro" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb0c72b6-7dc0-4421-b29d-7fca44a5c0c3/5/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Latvia vs. Montenegro
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKWT6BFX" tvg-name="ONE Friday Fights 173" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eebd5c1f-6c57-490a-9032-a0d0f70e13ee/12/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ONE Friday Fights 173
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
 #EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HLDMLYNW" tvg-name="Taekwondo Semifinals and Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f457821-f867-401b-a5f0-1e24eeecb541/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Taekwondo Semifinals and Finals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCYBVQZF" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c335b271-dbb4-4f4d-8497-e9fd8870e51f/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790914334812_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Beach Volleyball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Boxing - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="1090546465_ENG" tvg-name="Day 14 - 2 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
-#EXTINF:-1 tvg-id="1090546465_HIN" tvg-name="Day 14 - 2 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
-#EXTINF:-1 tvg-id="1090546465_KAN" tvg-name="Day 14 - 2 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
-#EXTINF:-1 tvg-id="1090546465_TAM" tvg-name="Day 14 - 2 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
-#EXTINF:-1 tvg-id="1090546465_TEL" tvg-name="Day 14 - 2 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
-#EXTINF:-1 tvg-id="sonyliv-1090546465" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/master.m3u8?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/ag_strea0210/ENG/master.m3u8?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Group All-Around - Rhythmic Gymnastics - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Judo - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Taekwondo - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57
+#EXTINF:-1 tvg-id="1090546411_ENG" tvg-name="Cyprus vs Armenia - 2 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg" group-title="Sony Liv",Cyprus vs Armenia - 2 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791001434~acl=/*~id=33589521014521475607147639030098~hmac=1127655c2e39328a3ce05c311a046cf57e63e773cdc22cd3b3fa3c0ce78e8382
+#EXTINF:-1 tvg-id="sonyliv-1090546411" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg" group-title="Sony Liv", Cyprus vs Armenia - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999468~acl=/*~id=99738528497797379785684814301713~hmac=37b7557a2ca83ebffce67515d34ccab36617f63b15934a3de256c6d5df58e4e1
+#EXTINF:-1 tvg-id="1090546408_ENG" tvg-name="Latvia vs Montenegro - 2 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg" group-title="Sony Liv",Latvia vs Montenegro - 2 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791001434~acl=/*~id=33589521014521475607147639030098~hmac=1127655c2e39328a3ce05c311a046cf57e63e773cdc22cd3b3fa3c0ce78e8382
+#EXTINF:-1 tvg-id="sonyliv-1090546408" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg" group-title="Sony Liv", Latvia vs Montenegro - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999442~acl=/*~id=71241835114395652851607175180036~hmac=d77447883b98add56f8c3fe36e4d2a85ea5e164ea27e5d36981de8e41d06383f
