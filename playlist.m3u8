@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-02 10:29:04 Bangladesh Standard Time
+# Generated: 2026-10-02 16:41:35 Bangladesh Standard Time
 # Sources: 8 | Channels: 50 | Groups: 4
 
 
@@ -82,63 +82,55 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HL4YTT3S" tvg-name="Archery Mixed - Recurve Team - Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8ed8b0c0-ff56-4593-b842-8e349e29b4a0/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Archery Mixed - Recurve Team - Final
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKK9BMWB" tvg-name="PPA Tour: Las Vegas Open-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f40672c7-82b6-4db6-af49-f6ff7a7a231d/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Las Vegas Open-Round of 16
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-#EXTINF:-1 tvg-id="B0HL68SQ6N" tvg-name="Motul Grand Prix of Japan group-title="Prime Video", Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9cf4b9a-1bed-4f03-8550-f50d7fe9e4d8/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Motul Grand Prix of Japan, Practice
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a110live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq0rsaBhpqvvSaA2Zha2FtYWkCeClzc2lkOjVjNDQ2MTNhLWZlMGYtNGU5YS05YjdhLWFmOGMzYWYxN2Y4MhkBOKEFoQJ4My8wcXVqeHRqb3JkL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYINTpHKiaMrPnRyniuDDvCiQp51M_301m1d5nZXNReIY4/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0qujxtjord/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a8d65ffa-e1d9-4bf4-be70-45fb5c03d5b0-cenc.mpd?aws.sessionId=8abf014f-8c40-4874-a3be-b1598ae3aa8d
-#EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKZD8Z67" tvg-name="Tour de Langkawi group-title="Prime Video", Stage 6" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e0e5c48f-48d7-4489-852b-c119fff286ee/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tour de Langkawi, Stage 6
+#EXTINF:-1 tvg-id="B0HJXWCYJ6" tvg-name="Swedish Open group-title="Prime Video", Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5c87dc4-f0a8-46e4-9a27-5742a02fb86a/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Swedish Open, Day 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-#EXTINF:-1 tvg-id="B0HCYBVQZF" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c335b271-dbb4-4f4d-8497-e9fd8870e51f/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round
+#EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLDMLYNW" tvg-name="Taekwondo Semifinals and Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f457821-f867-401b-a5f0-1e24eeecb541/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Taekwondo Semifinals and Finals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HCYBVQZF" tvg-name="Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c335b271-dbb4-4f4d-8497-e9fd8870e51f/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Beach Volleyball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="Sony Liv", Golf - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/ag_dx5_00110/ENG/master.m3u8?hdnea=exp=1790932836~acl=/*~id=36689614383447670994324810889023~hmac=9c5b3dd3e2698a050ff828efcc4cb8df32ba30bd4014d6b6f3eb79edf4438251
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025577/1790884368356652_AG26_2nd_Oct_Golf_Womens_live_landscape_thumb.jpg" group-title="Sony Liv", Golf - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx6_00110/ENG/master.m3u8?hdnea=exp=1790943681~acl=/*~id=45741492942295657217504810330017~hmac=af4afafd8369055ffc3807d5054db975dd3918c9365cfbf2c6885bbfe93e4048
-#EXTINF:-1 tvg-id="1090543297_ENG" tvg-name="India In Action - Archery - 2 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025602/1790910811659420_AG26_Archery_Recurve_Mixed_Team_Gold_Match_china_vs_india_live_landscape_thumb.jpg" group-title="Sony Liv",India In Action - Archery - 2 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790956567~acl=/*~id=43143670435697642618185796553933~hmac=057599bb9ef32434b320a574c7f5527d3ac905849fc6dd4560bc5bcbfd6e8c3c
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025587/1790893220715107_AG26_2nd_Oct_Wrestling_Mens_Freestyle_65kg_QF_Sujeet_live_landscape_thumb.jpg" group-title="Sony Liv", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790947235~acl=/*~id=49029392833953740598144979972342~hmac=a870c638f6fcc39b867b5edc58dde45ad768f07c0e788c4298c261e5b5f1e461
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025587/1790893244170107_AG26_2nd_Oct_Wrestling_Mens_Freestyle_65kg_QF_Sujeet_live_landscape_thumb_multi_lang.jpg" group-title="Sony Liv", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790914334812_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Beach Volleyball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Boxing - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
+#EXTINF:-1 tvg-id="1090546465_ENG" tvg-name="Day 14 - 2 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
+#EXTINF:-1 tvg-id="1090546465_HIN" tvg-name="Day 14 - 2 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
+#EXTINF:-1 tvg-id="1090546465_KAN" tvg-name="Day 14 - 2 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
+#EXTINF:-1 tvg-id="1090546465_TAM" tvg-name="Day 14 - 2 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
+#EXTINF:-1 tvg-id="1090546465_TEL" tvg-name="Day 14 - 2 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv",Day 14 - 2 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790980205~acl=/*~id=41959780031854262024012645105588~hmac=19310280ada481ce228af048ed37058f29e02f82f87f3cdec524f2cf04d0c166
+#EXTINF:-1 tvg-id="sonyliv-1090546465" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/master.m3u8?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Sony Liv", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/ag_strea0210/ENG/master.m3u8?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Group All-Around - Rhythmic Gymnastics - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Judo - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Softball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790914334812_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Thailand vs People's Republic of China - Women - Beach Volleyball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Taekwondo - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
 #EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Sony Liv", Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57
