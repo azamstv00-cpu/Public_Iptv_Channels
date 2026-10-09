@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-09 20:10:39 Bangladesh Standard Time
-# Sources: 8 | Channels: 40 | Groups: 4
+# Generated: 2026-10-10 01:37:39 Bangladesh Standard Time
+# Sources: 8 | Channels: 35 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,37 +69,33 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HL6P4JYC" tvg-name="Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a285f1d-a9f7-4945-85c5-67122a2d70e2/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match
+#EXTINF:-1 tvg-id="B0HKYC321P" tvg-name="Floyd Schofield Jr. vs. Lucas Bahdi" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8daf0d3-e619-4c20-b553-827512cdf232/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Floyd Schofield Jr. vs. Lucas Bahdi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFR7WRDV" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.345b91c6-a47c-488b-9ab0-8c8aac75b653/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+#EXTINF:-1 tvg-id="B0HC35KD8H" tvg-name="Germany vs. Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.725315df-56af-480a-9566-4e0171141269/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Germany vs. Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
-#EXTINF:-1 tvg-id="B0HM7GPJCC" tvg-name="Unknown Match" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b20b13fa-3883-405f-a9d5-bdd3e3c09301/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840 group-title="Prime Video",1440_SX2160_FMjpg_.jpg" group-title="Prime Video Sports",Unknown Match
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKTZ475Q" tvg-name="Leicester Tigers vs Gloucester Rugby - Rugby" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.73aaf097-1868-4da3-bc03-06f0989f0b60/42/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Leicester Tigers vs Gloucester Rugby - Rugby
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090547533" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Sony Liv", Kakatiya Knights vs Chola Chiefs - Archery Premier League 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/master.m3u8?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae
-#EXTINF:-1 tvg-id="1090547530_ENG" tvg-name="Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="Sony Liv",Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791595458~acl=/*~id=12110679475736439175790524137792~hmac=0dbac84a67418bc6543442ec3dd3ca8a5475ef6f7df7ebb43561d540a9fd562c
-#EXTINF:-1 tvg-id="sonyliv-1090547530" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="Sony Liv", Open de Espana Presented By Madrid - Day 2 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/master.m3u8?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b
-#EXTINF:-1 tvg-id="1090547531_ENG" tvg-name="Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Sony Liv",Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791595458~acl=/*~id=12110679475736439175790524137792~hmac=0dbac84a67418bc6543442ec3dd3ca8a5475ef6f7df7ebb43561d540a9fd562c
-#EXTINF:-1 tvg-id="1090547531_HIN" tvg-name="Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Sony Liv",Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791595458~acl=/*~id=12110679475736439175790524137792~hmac=0dbac84a67418bc6543442ec3dd3ca8a5475ef6f7df7ebb43561d540a9fd562c
-#EXTINF:-1 tvg-id="sonyliv-1090547531" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Sony Liv", Punjab Aerostrikers vs Garvi Gujjus - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
-#EXTINF:-1 tvg-id="sonyliv-1090547531" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Sony Liv", Punjab Aerostrikers vs Garvi Gujjus - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/HIN/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#EXTINF:-1 tvg-id="B0HL88CMQS" tvg-name="PPA Tour Chicago Cup: Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f90a8e07-8c13-49cc-81d7-35c935201fdc/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Chicago Cup: Quarterfinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKQ6YPL8" tvg-name="World Skate Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e4f3b99-6276-4aae-9fca-aae0fb169471/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Skate Championships
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b53ca5be81c34f510be1995a09a91f4d:21f595066124ffc97e2e29c232243b16
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gtmg6uplro/out/v1/6d4b1ce1834f4eb886955044e1c094e7/cenc.mpd
