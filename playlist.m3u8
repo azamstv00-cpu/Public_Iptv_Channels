@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-16 12:10:09 Bangladesh Standard Time
-# Sources: 8 | Channels: 32 | Groups: 3
+# Generated: 2026-10-16 17:46:13 Bangladesh Standard Time
+# Sources: 8 | Channels: 38 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -68,8 +68,48 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
+#SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HLM17VBF" tvg-name="Fourth Quarterfinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cac25cd5-eae5-4167-8175-e6bfac292a12/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Fourth Quarterfinal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN57MRWX" tvg-name="LIVE: The DP World Locker Room Show-The DP World Locker Room Show" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c00195ff-dc80-46bb-959e-56cf968c85b8/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",LIVE: The DP World Locker Room Show-The DP World Locker Room Show
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
+#EXTINF:-1 tvg-id="B0HH6R316N" tvg-name="South Africa vs England" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4f079e3d-0a0f-405c-a708-bbf5f20165e5/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",South Africa vs England
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN2QKMKJ" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3c41e2e7-9d49-46e1-afac-db3d7f4c06fb/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG5QLZ17" tvg-name="World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d6c1d2b1-8cf5-4b47-97e6-605cc92bd127/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd
+
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090548548_ENG" tvg-name="SJM Macao Open - Day 2 - 16 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg" group-title="Sony Liv",SJM Macao Open - Day 2 - 16 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792173595~acl=/*~id=13621357558971647607125189557109~hmac=038435ce739e65dbfdb8377508afaf9c6a264e0fb96a59641258faca464cce36
-#EXTINF:-1 tvg-id="sonyliv-1090548548" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg" group-title="Sony Liv", SJM Macao Open - Day 2 - 16 Oct 2026 | Asian Tour 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171237~acl=/*~id=78082812848291062188862365804788~hmac=d9866b67c88e5dd9d680f9ce1075b8cabb0f9c04353e5c0eed3bdd946f2061bb
+#EXTINF:-1 tvg-id="1090548552_ENG" tvg-name="DP World India Championship - Day 2 - 16 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Sony Liv",DP World India Championship - Day 2 - 16 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969
+#EXTINF:-1 tvg-id="sonyliv-1090548552" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Sony Liv", DP World India Championship - Day 2 - 16 Oct 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HG5QLZ17" tvg-name="World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d6c1d2b1-8cf5-4b47-97e6-605cc92bd127/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd
