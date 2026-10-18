@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-18 09:26:22 Bangladesh Standard Time
-# Sources: 8 | Channels: 30 | Groups: 2
+# Generated: 2026-10-18 14:16:44 Bangladesh Standard Time
+# Sources: 8 | Channels: 34 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -67,3 +67,13 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?%7CdrmScheme=clearkey&drmLicense=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
 #EXTINF:-1 tvg-chno="28" tvg-name="Willow Sports" group-title="Personal-Collection",Willow Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sony Liv",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353021~acl=/*~id=36301419225074099298040901147321~hmac=785ec91e6b7d63c17f680062bfa7520ce538e028513e75278cb9a12cf32b7704
+#EXTINF:-1 tvg-id="sonyliv-1090548740" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sony Liv", DP World India Championship - Day 4 - 18 Oct 2026 | DP World Tour
+https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
+#EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Sony Liv",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353021~acl=/*~id=36301419225074099298040901147321~hmac=785ec91e6b7d63c17f680062bfa7520ce538e028513e75278cb9a12cf32b7704
+#EXTINF:-1 tvg-id="sonyliv-1090548739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Sony Liv", SJM Macao Open - Day 4 - 18 Oct 2026 | Asian Tour 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
