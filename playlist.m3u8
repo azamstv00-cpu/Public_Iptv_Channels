@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-23 01:47:04 Bangladesh Standard Time
-# Sources: 8 | Channels: 47 | Groups: 4
+# Generated: 2026-10-23 05:00:00 Bangladesh Standard Time
+# Sources: 8 | Channels: 34 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,43 +69,27 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HMRJ26SD" tvg-name="Assumption vs Saint Anselm - Football" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3fff673-4b18-4d0d-90f6-500e3d72f164/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Assumption vs Saint Anselm - Football
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
 #EXTINF:-1 tvg-id="B0HL84RLZ4" tvg-name="Silicon Valley Open Championship group-title="Prime Video", Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3fdeeb51-93dc-4f28-aaad-221f3615d574/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Silicon Valley Open Championship, Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="sonyliv-1090549910" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg" group-title="Sony Liv", Ajax vs Atalanta - 23 Oct 2026 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026579/1792147880069704_UECL_26_MD2_AMonaco-vs-Freiburg_live_landscape_thumb.jpg" group-title="Sony Liv", AS Monaco vs SC Freiburg - 23 Oct 2026 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-#EXTINF:-1 tvg-id="sonyliv-1090549735" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg" group-title="Sony Liv", Beşiktaş vs Crystal Palace - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg" group-title="Sony Liv", Bournemouth vs Milan - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549909" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026499/1792144452477451_UECL_26_MD2_Braga-vs-Gent_live_landscape_thumb.jpg" group-title="Sony Liv", Braga vs KAA Gent - 23 Oct 2026 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-#EXTINF:-1 tvg-id="sonyliv-1090549716" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244460029235_UEL2627_MD3_Celje_vs_Salzburg_landscape_thumb.jpg" group-title="Sony Liv", Celje vs Salzburg - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549693" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242328734235_UEL2627_MD3_Celtic_vs_Celta_landscape_thumb.jpg" group-title="Sony Liv", Celtic vs Celta - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549912" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792235941546100_UECL26_MD2_Midtjylland-vs-Sint-Truidense_live_landscape_thumb.jpg" group-title="Sony Liv", FC Midtjylland vs K. Sint-Truidense VV - 23 Oct 2026 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-#EXTINF:-1 tvg-id="sonyliv-1090549732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245455944235_UEL2627_MD3_Hoffenheim_vs_Lyon_landscape_thumb.jpg" group-title="Sony Liv", Hoffenheim vs Lyon - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="1090549627_ENG" tvg-name="Jablonec vs Brighton - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg" group-title="Sony Liv",Jablonec vs Brighton - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891
-#EXTINF:-1 tvg-id="sonyliv-1090549721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244725318235_UEL2627_MD3_Jagiellonia_vs_Anderlecht_landscape_thumb.jpg" group-title="Sony Liv", Jagiellonia vs Anderlecht - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549913" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792236554065100_UECL26_MD2_L-Red-Imps-vs-Twente_live_landscape_thumb.jpg" group-title="Sony Liv", L. Red Imps FC vs Twente - 23 Oct 2026 | UEFA Conference League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0
-#EXTINF:-1 tvg-id="sonyliv-1090549740" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791246009830235_UEL2627_MD3_Lillestrom_vs_Real_Sociedad_landscape_thumb.jpg" group-title="Sony Liv", Lillestrøm vs Real Sociedad - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022316/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549688" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791241701105235_UEL2627_MD3_Olympiacos_vs_Sparta_Praha_landscape_thumb.jpg" group-title="Sony Liv", Olympiacos vs Sparta Praha - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549726" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244999801235_UEL2627_MD3_Omonoia_vs_Benfica_landscape_thumb.jpg" group-title="Sony Liv", Omonia vs Benfica - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
-#EXTINF:-1 tvg-id="sonyliv-1090549690" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242066444235_UEL2627_MD3_Viktoria_Plzen_vs_Levski_Sofia_landscape_thumb.jpg" group-title="Sony Liv", Viktoria Plzeň vs Levs.ki Sofia - 23 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMBRY2HY" tvg-name="FloRacing Night in America at Volunteer Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a558be6-8606-488b-bc69-5c4a45cf30ae/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",FloRacing Night in America at Volunteer Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMW6J2WN" tvg-name="Grand Prix of Australia group-title="Prime Video", Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d01b0fb8-b0a5-4394-b705-1ebea2a294b2/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand Prix of Australia, Practice
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABBIHI7AAAAAAAAMPQ6PMPX24YOBD.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq7k53Bhpq2of3A2pjbG91ZGZyb250AngoZmlkOjAxYTE2NWEzLTFlNGUtNzNiMy04OTdjLTQyMzNhYzkyZTFlYxkBOKEFoQJ4My96Y3BkZGlzY3dsL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggKLlIF3rcvML66zF8CkITkD909wsZu4zDn68oG6EbhU4/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/zcpddiscwl/out/v1/8197c8e055c94a868623653ac55c10bf/f7709dcc-2908-4327-9e37-087ad0783a9e-cenc.mpd?aws.sessionId=62ec5409-a9e2-4d70-930f-0be682d70c2a
