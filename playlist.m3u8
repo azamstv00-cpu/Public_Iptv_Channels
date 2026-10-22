@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-22 03:20:33 Bangladesh Standard Time
-# Sources: 8 | Channels: 52 | Groups: 4
+# Generated: 2026-10-22 06:06:59 Bangladesh Standard Time
+# Sources: 8 | Channels: 32 | Groups: 3
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,65 +69,15 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HMNXY153" tvg-name="Betis vs. Feyenoord" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8aa4dcd1-eaf8-4da6-9c87-396090dae95c/7/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Betis vs. Feyenoord
+#EXTINF:-1 tvg-id="B0HMLC9QKX" tvg-name="Louisville City FC at Sporting Club Jacksonville" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6adb0731-bf95-4848-988b-4d283e61e98d/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Louisville City FC at Sporting Club Jacksonville
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0HMCC7P5L" tvg-name="Silicon Valley Open Championship group-title="Prime Video", Day 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60787c71-9db8-42d0-a1e4-f9a675606118/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Silicon Valley Open Championship, Day 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLG1RQ1W" tvg-name="No Mercy 17" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9954b46e-0b18-4229-aaec-3497ccff5d1e/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",No Mercy 17
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-
-#SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090549291_ENG" tvg-name="Aston Villa vs Viking - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125354964819_UCL2627_MD3_Aston_Villa_vs_Viking_landscape_thumb.jpg" group-title="Sony Liv",Aston Villa vs Viking - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549291" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125354964819_UCL2627_MD3_Aston_Villa_vs_Viking_landscape_thumb.jpg" group-title="Sony Liv", Aston Villa vs Viking - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651908~acl=/*~id=82008543787362389701004005431340~hmac=cd85d49fc17bee8a7923b3dae0df29427f7cb96b9175657cd3a156d678b41c61
-#EXTINF:-1 tvg-id="1090549254_ENG" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv",Bayern Munchen vs Arsenal - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="1090549254_HIN" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv",Bayern Munchen vs Arsenal - 22 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="1090549254_KAN" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv",Bayern Munchen vs Arsenal - 22 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="1090549254_TAM" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv",Bayern Munchen vs Arsenal - 22 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="1090549254_TEL" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv",Bayern Munchen vs Arsenal - 22 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549254" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sony Liv", Bayern Munchen vs Arsenal - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651847~acl=/*~id=00441257607441023742582022693810~hmac=9e7888a15196d50d3d41904f03152e383ca4f748386b18cbe946d460d1ac00bb
-#EXTINF:-1 tvg-id="1090549295_ENG" tvg-name="Club Brugge vs Lens - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125373739619_UCL2627_MD3_Club_Brugge_vs_Lens_landscape_thumb.jpg" group-title="Sony Liv",Club Brugge vs Lens - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549295" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125373739619_UCL2627_MD3_Club_Brugge_vs_Lens_landscape_thumb.jpg" group-title="Sony Liv", Club Brugge vs Lens - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651847~acl=/*~id=00441257607441023742582022693810~hmac=9e7888a15196d50d3d41904f03152e383ca4f748386b18cbe946d460d1ac00bb
-#EXTINF:-1 tvg-id="1090549290_ENG" tvg-name="Inter vs Shakhtar - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125307242519_UCL2627_MD3_Inter_vs_Shakhtar_landscape_thumb.jpg" group-title="Sony Liv",Inter vs Shakhtar - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549290" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125307242519_UCL2627_MD3_Inter_vs_Shakhtar_landscape_thumb.jpg" group-title="Sony Liv", Inter vs Shakhtar - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651878~acl=/*~id=71122818332954602669962750220807~hmac=b4beb48feab690055b096520c3b7098266b7cf699ff107af07215ec9f5d89a84
-#EXTINF:-1 tvg-id="1090549296_ENG" tvg-name="Real Betis vs Feyenoord - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125395357019_UCL2627_MD3_Real_Betis_vs_Feyenoord_landscape_thumb.jpg" group-title="Sony Liv",Real Betis vs Feyenoord - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125395357019_UCL2627_MD3_Real_Betis_vs_Feyenoord_landscape_thumb.jpg" group-title="Sony Liv", Real Betis vs Feyenoord - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651920~acl=/*~id=96986844396284316130963575393130~hmac=efda89dd26918f2341acd231826818282ad8dcfa3a5264eb4078e6cfe7136898
-#EXTINF:-1 tvg-id="1090549265_ENG" tvg-name="Real Madrid vs Leipzig - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125251138819_UCL2627_MD3_Real_Madrid_vs_Leipzig_landscape_thumb.jpg" group-title="Sony Liv",Real Madrid vs Leipzig - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549265" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125251138819_UCL2627_MD3_Real_Madrid_vs_Leipzig_landscape_thumb.jpg" group-title="Sony Liv", Real Madrid vs Leipzig - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651859~acl=/*~id=10576828430471254599850057095428~hmac=50f4f9c83f309af678db3527b276c306c96de44b9c41b5f36fa258338f8df225
-#EXTINF:-1 tvg-id="1090549289_ENG" tvg-name="Sporting CP vs LASK - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Sony Liv",Sporting CP vs LASK - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792657831~acl=/*~id=77715704515554462232726752689699~hmac=200bfc390133cf33797bdbb368eb6e42dd2300e359adc966b05a5b18b32d8169
-#EXTINF:-1 tvg-id="sonyliv-1090549289" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Sony Liv", Sporting CP vs LASK - 22 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651939~acl=/*~id=09187734644707491399201312215743~hmac=9673a2cd1ce319b17580dcc10dee09d5c1fb5a107b2f57a4d8524667f621c22f
