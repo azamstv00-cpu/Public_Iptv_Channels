@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-24 07:49:43 Bangladesh Standard Time
-# Sources: 8 | Channels: 36 | Groups: 4
+# Generated: 2026-10-24 12:56:03 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,33 +69,41 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HJX1RBR3" tvg-name="BKFC Fight Night Clearwater: Reber vs. Street" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36dcd5eb-9984-4c2f-a8c1-ee8c2c9f6ca7/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",BKFC Fight Night Clearwater: Reber vs. Street
+#EXTINF:-1 tvg-id="B0HNWZW2G1" tvg-name="LIVE: Genesis Championship Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cf5e96-f0e3-4b84-b40a-a59b510ef741/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: Genesis Championship Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHKGBBPS" tvg-name="Boston College at Denver" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70923bc6-d3a1-4689-b86a-d516493d2ca8/6/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Boston College at Denver
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HL646MJT" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-#EXTINF:-1 tvg-id="B0HMHWPRJH" tvg-name="OHL Hockey: Flint Firebirds vs Saginaw Spirit" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81f48928-b0b2-470b-a7c1-22df84c6919a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",OHL Hockey: Flint Firebirds vs Saginaw Spirit
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HN4JXCFT" tvg-name="Grand Prix of Australia group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand Prix of Australia, Qualifying
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a
+#KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sony Liv",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792846560~acl=/*~id=78738323184237907259379938693368~hmac=e9862b030abcb0962010af57ef4236c335d421997e341ceeef2e57b9e3bb3c4e
-#EXTINF:-1 tvg-id="sonyliv-1090550213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sony Liv", 1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand
-https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
+#EXTINF:-1 tvg-id="sonyliv-1090550308" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv", 2nd T20I | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv", 2nd T20I | India Tour of New Zealand 2026 [Kannada]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv", 2nd T20I | India Tour of New Zealand 2026 [Tamil]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv", 2nd T20I | India Tour of New Zealand 2026 [Telugu]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5181prod-PlaybackConfig/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+#EXTINF:-1 tvg-id="1090550216_ENG" tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Sony Liv",Genesis Championship - Day 3 - 24 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99
+#EXTINF:-1 tvg-id="sonyliv-1090550216" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Sony Liv", Genesis Championship - Day 3 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+#EXTINF:-1 tvg-id="1090550217_ENG" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Sony Liv",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99
+#EXTINF:-1 tvg-id="sonyliv-1090550217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Sony Liv", LINK Hong Kong Open - Day 3 | Asian Tour 2026 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HL646MJT" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/4/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",New Zealand vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
