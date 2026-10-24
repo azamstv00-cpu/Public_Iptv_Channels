@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-24 21:30:57 Bangladesh Standard Time
-# Sources: 8 | Channels: 40 | Groups: 4
+# Generated: 2026-10-25 00:37:17 Bangladesh Standard Time
+# Sources: 8 | Channels: 48 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,41 +69,73 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HK4J5LPY" tvg-name="Atlantic Attack vs. Montreal Mission" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37d6f5fc-aa33-42e7-b9c1-9a5afbed4528/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlantic Attack vs. Montreal Mission
+#EXTINF:-1 tvg-id="B0HK1C6G88" tvg-name="8ight Strikes 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cf861e8-46c2-428a-b4b8-5c236fd8fd0e/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",8ight Strikes 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLXD1CFC" tvg-name="8ight Strikes 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.31648784-f111-4333-a52a-c095b15e711f/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",8ight Strikes 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN2MZG2F" tvg-name="Albany vs. Rhode Island" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8e6b3f30-af29-41eb-abce-558ec065fb52/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Albany vs. Rhode Island
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#EXTINF:-1 tvg-id="B0HH6SNPFQ" tvg-name="Gatineau Fusion vs. Eastern Ontario Capitals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45786d29-bc96-4ff6-a94d-ef16281e728f/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Gatineau Fusion vs. Eastern Ontario Capitals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#EXTINF:-1 tvg-id="B0H6225HN7" tvg-name="Grand National Cross Country at Ironman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5daab957-4f9c-413f-bbea-d6d5c7e875ad/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand National Cross Country at Ironman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGT33HQZ" tvg-name="Motorbootrennen-Season 2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.95345369-d40f-4240-afe0-eed26cbd95bf/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Motorbootrennen-Season 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN5BYZNW" tvg-name="New Haven vs. Central Connecticut" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2ca173b4-1d07-4930-bcee-32452c49c0ff/1/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",New Haven vs. Central Connecticut
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HMLCS454" tvg-name="Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a03d6335-6e3e-409e-90c8-af43d4d02a75/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNDJV4ST" tvg-name="West Ham United vs. Southampton" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.868d1254-41d6-42af-9a26-ac4416f864cc/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Ham United vs. Southampton
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
-#EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
-#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Footlive2410/ENG/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
-#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2094587/Footlive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
-#EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Sony Liv",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
-#EXTINF:-1 tvg-id="sonyliv-1090550219" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Sony Liv", Punjab Falcons vs Haryana Lions | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT604fprod-PlaybackConfig/2120308/criclive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
+#EXTINF:-1 tvg-id="1090550233_ENG" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f
+#EXTINF:-1 tvg-id="1090550233_HIN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f
+#EXTINF:-1 tvg-id="1090550233_KAN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f
+#EXTINF:-1 tvg-id="1090550233_TAM" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]
+https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f
+#EXTINF:-1 tvg-id="1090550233_TEL" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]
+https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792907472~acl=/*~id=33014739684176998462486503046785~hmac=48330ceda5f1317b544be118ca5576b008ac13129d06c68b26dfd622d4fa874f
+#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/UFC_UFC_2410/ENG/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
+#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2018458/UFC_UFC_2410/HIN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
+#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Kannada]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa027prod-PlaybackConfig/2120299/UFC_UFC_2410/KAN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
+#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2022317/UFC_UFC_2410/TAM/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
+#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Sony Liv", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Telugu]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8734prod-PlaybackConfig/2022316/UFC_UFC_2410/TEL/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
