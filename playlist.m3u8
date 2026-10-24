@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-10-24 17:53:51 Bangladesh Standard Time
-# Sources: 8 | Channels: 39 | Groups: 4
+# Generated: 2026-10-24 21:30:57 Bangladesh Standard Time
+# Sources: 8 | Channels: 40 | Groups: 4
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,39 +69,41 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HMNKRSCN" tvg-name="Charlton Athletic vs. Norwich City" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5f95b5f0-e299-43ad-bbc7-d413d7af2e82/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Charlton Athletic vs. Norwich City
+#EXTINF:-1 tvg-id="B0HK4J5LPY" tvg-name="Atlantic Attack vs. Montreal Mission" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37d6f5fc-aa33-42e7-b9c1-9a5afbed4528/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlantic Attack vs. Montreal Mission
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="B0H5VMJJR1" tvg-name="NSW Phoenix vs. Canberra Heat" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f3a8b3b-d2d0-4fee-8855-76bb3592d31b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",NSW Phoenix vs. Canberra Heat
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG79SW1X" tvg-name="Second Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2749d3c2-56b5-43e5-835c-13895d9a112e/8/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Semifinal
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMLCS454" tvg-name="Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a03d6335-6e3e-409e-90c8-af43d4d02a75/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNDJV4ST" tvg-name="West Ham United vs. Southampton" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.868d1254-41d6-42af-9a26-ac4416f864cc/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Ham United vs. Southampton
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090550278_ENG" tvg-name="2nd T20I - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv",2nd T20I - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f
-#EXTINF:-1 tvg-id="1090550278_HIN" tvg-name="2nd T20I - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv",2nd T20I - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f
-#EXTINF:-1 tvg-id="1090550278_KAN" tvg-name="2nd T20I - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv",2nd T20I - 24 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f
-#EXTINF:-1 tvg-id="1090550278_TAM" tvg-name="2nd T20I - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv",2nd T20I - 24 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f
-#EXTINF:-1 tvg-id="1090550278_TEL" tvg-name="2nd T20I - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Sony Liv",2nd T20I - 24 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f
+#EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
+#EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
+#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Footlive2410/ENG/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
+#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Sony Liv", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2094587/Footlive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
+#EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Sony Liv",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e
+#EXTINF:-1 tvg-id="sonyliv-1090550219" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Sony Liv", Punjab Falcons vs Haryana Lions | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT604fprod-PlaybackConfig/2120308/criclive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
