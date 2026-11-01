@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-01 04:44:45 Bangladesh Standard Time
-# Sources: 8 | Channels: 37 | Groups: 4
+# Generated: 2026-11-01 07:55:22 Bangladesh Standard Time
+# Sources: 8 | Channels: 51 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -69,39 +69,85 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HN64ZG6S" tvg-name="Black Hills State at CSU-Pueblo" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d428771c-aa9f-49b1-95d9-5525ec97e541/4/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Black Hills State at CSU-Pueblo
+#EXTINF:-1 tvg-id="B0HNBZGC8W" tvg-name="ARCA West at Kevin Harvick's Kern Raceway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.297d7d62-82c6-42a3-97ea-7839ecc0744f/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ARCA West at Kevin Harvick's Kern Raceway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNXZF9QN" tvg-name="MLP Nations Cup" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.96ab8dcb-6511-4514-a76b-0d61174a2e38/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",MLP Nations Cup
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNC8MYJT" tvg-name="CF Monterrey vs. Club Tijuana Xoloitzcuintles de Caliente" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.330aa3e4-ef58-428a-b297-b13e5282b343/2/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",CF Monterrey vs. Club Tijuana Xoloitzcuintles de Caliente
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPDK756B" tvg-name="Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e1adb7e-4925-4bb9-9aec-009c776a2cc8/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Day 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPBMQSPR" tvg-name="Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a45aa9f5fac4b13e949ad10b6ec32cb:ed2a38ea996575580a003664f4c995ce
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd
 #EXTINF:-1 tvg-id="B0HN5SH9KK" tvg-name="SFT Combat 65 - Pink October 9" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf71ad9-1c62-40ed-9137-4e2cccbc6388/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",SFT Combat 65 - Pink October 9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd
 #EXTINF:-1 tvg-id="B0HPDPTZ1L" tvg-name="Small School Saturday" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b23e567-844c-4b23-84d8-c25d33e60af6/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Small School Saturday
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNZSQMW4" tvg-name="Western Colorado University at Metropolitan State University of Denver" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6e92693-44b2-4a4d-81a6-a867c4477bcd/1/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Western Colorado University at Metropolitan State University of Denver
+#EXTINF:-1 tvg-id="B0HNDFV696" tvg-name="SPHL Hockey: Macon Mayhem vs Huntsville Havoc" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6794be1-6b9d-4410-b563-f84b56f21fe8/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",SPHL Hockey: Macon Mayhem vs Huntsville Havoc
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP9X5CNP" tvg-name="Westminster University at Chadron State College" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30a3f3e8-698c-4108-bdc0-d802f95ba817/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Westminster University at Chadron State College
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090551577_ENG" tvg-name="2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793526408~acl=/*~id=40487477103923696471971770636196~hmac=87143ad8c745ef6ca5665ec41979ecb39412638a66d0ad1886e63d20dd8ca5b8
+https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
 #EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2018457/criclive3110/ENG/master.m3u8?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9
+#EXTINF:-1 tvg-id="1090551580_ENG" tvg-name="UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
+#EXTINF:-1 tvg-id="1090551580_HIN" tvg-name="UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
+#EXTINF:-1 tvg-id="1090551580_KAN" tvg-name="UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN]
+https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
+#EXTINF:-1 tvg-id="1090551580_TAM" tvg-name="UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM]
+https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
+#EXTINF:-1 tvg-id="1090551580_TEL" tvg-name="UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv",UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL]
+https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793537947~acl=/*~id=51195982396095219591694604045421~hmac=7cec47b67c879c76e17af67ff71f56173e19056a1549205c9ecb8def753b1792
+#EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2094589/UFC_UFCF3110/ENG/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+#EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/UFC_UFCF3110/HIN/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+#EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Kannada]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2005444/UFC_UFCF3110/KAN/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+#EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2094588/UFC_UFCF3110/TAM/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+#EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Sony Liv", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Telugu]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT669bprod-PlaybackConfig/2120301/UFC_UFCF3110/TEL/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+
+#SOURCE-TITLE:Willow Events
+#EXTINF:-1 tvg-id="B0HPBMQSPR" tvg-name="Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a45aa9f5fac4b13e949ad10b6ec32cb:ed2a38ea996575580a003664f4c995ce
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd
