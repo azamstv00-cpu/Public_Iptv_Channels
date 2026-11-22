@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-22 16:48:37 Bangladesh Standard Time
-# Sources: 8 | Channels: 50 | Groups: 6
+# Generated: 2026-11-23 00:16:04 Bangladesh Standard Time
+# Sources: 8 | Channels: 45 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -73,93 +73,71 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0HR8QKWKL" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQV79TCV" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1ad597a8-c567-4e8e-9aa6-5e4611763590/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd
-#EXTINF:-1 tvg-id="B0HRQV5HSL" tvg-name="International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e000e3d7-eeac-4eb4-9cb7-f6f673e4c3ab/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKWSHPWL" tvg-name="Melbourne Stars vs. Melbourne Renegades" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.17e8890f-52d8-4917-a2d6-dc559afc2f9c/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Melbourne Stars vs. Melbourne Renegades
+#EXTINF:-1 tvg-id="B0HHJKDWF6" tvg-name="Dubai Capitals vs. Abu Dhabi Knight Riders" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1c67d64b-154e-4882-8d18-9a6e187d6aab/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Dubai Capitals vs. Abu Dhabi Knight Riders
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="B0HR5CQCGJ" tvg-name="Repsol Grand Prix of Portugal" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6266ad00-b8fa-4130-a1e6-67b83712b0b5/8/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Repsol Grand Prix of Portugal
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLDX22BX" tvg-name="International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.cbd115a8-7912-4931-ad84-4e8112c59f74/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABAGKU5AAAAAAAAMMTSGTFL3SBOMG.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFnYtBhprAq-tA2pjbG91ZGZyb250AngoZmlkOjAxYTIwMjdlLTNjYTgtNzRjYy04ZDM2LTdkNWNlNWNlMjQ4ZhkBOKEFoQJ4My9ncXFmZXdnMGs0L291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlgg0fE-0yzBLu1UJklnDQy0iNGau1a3b2TC0b326cRb9hs/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gqqfewg0k4/out/v1/30f3ad9ba2c340739ea2943f29d44b32/802c9a43-a679-4157-b8b8-572b13abf064-cenc.mpd?aws.sessionId=b0741ea5-eb36-41d3-9b8c-ee50329dfe6d
-#EXTINF:-1 tvg-id="B0HQMYSWV3" tvg-name="T20 Gold Clash 2026 - Team Footy vs Team Cricket" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",T20 Gold Clash 2026 - Team Footy vs Team Cricket
+#KODIPROP:inputstream.adaptive.license_key=bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/g0tdsq9yi2/out/v1/732ff57fc3cf49b791421213b7c9b211/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP9KKGHN" tvg-name="PPA Tour: Daytona Beach Open-Championship Sunday" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a820dde6-e485-4aa9-bfd4-cb5f3499c638/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",PPA Tour: Daytona Beach Open-Championship Sunday
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcf78c73ab89e0e6ef4ad2f5430d6bf8:a2aa49b85e6f40263207b06f18242ec9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKQ8LF47" tvg-name="Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HP84SYPD" tvg-name="Greater Pittsburgh Regional group-title="Prime Video", Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d4558665-7d30-4e51-91a7-4ad1879351cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Greater Pittsburgh Regional, Qualifying
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
+https://a93live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFsqHBhprAwQHA2Zha2FtYWkCeChmaWQ6MDFhMjAzYzctYmU3MS03M2I1LWE4YWItZmI1ZGU0ZjFmODUxGQE4oQWhAngzL21haHdwMXV1cGQvb3V0L3YxLzY5MjM1ZWY2NDg2YjQ4ZTBiYmVlYTAyYjIwZmFhYzNlWCAq2TRkXm3Xg3nSimKKQmcIb8fxjEircTEKlri5w8ik_Q/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/mahwp1uupd/out/v1/69235ef6486b48e0bbeea02b20faac3e/332e8436-8ec2-4503-8cb9-8387925f478c-cenc.mpd?aws.sessionId=d4535bc4-28bb-47c4-8223-39a54361a10e
+#EXTINF:-1 tvg-id="B0HBMNTY7Y" tvg-name="Thor Mini O's at Gatorback Cycle Park" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9291eb04-8d11-4cf7-a80a-a9cd97731b71/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Thor Mini O's at Gatorback Cycle Park
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPSDQCJ7" tvg-name="Triton Poker Series Cyprus-$200K Triton Invitational" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.677f275b-938f-466f-84ce-63165a8d4d2a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$200K Triton Invitational
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090555678_ENG" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 #EXTINF:-1 tvg-id="1090555678_HIN" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 #EXTINF:-1 tvg-id="1090555678_KAN" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 #EXTINF:-1 tvg-id="1090555678_TAM" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 #EXTINF:-1 tvg-id="1090555678_TEL" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555675_ENG" tvg-name="UAE vs Nepal - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Sony Liv",UAE vs Nepal - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Sony Liv",UAE vs Nepal - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795385751~acl=/*~id=48595577969482715354705695268793~hmac=f0277039b171fb794914a0ef5e39ad1c2f7d53e7cc9e7f01436942c3b433af2b
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 
 #SOURCE-TITLE:Willow Events
-#EXTINF:-1 tvg-id="B0HR8QKWKL" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQV79TCV" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad597a8-c567-4e8e-9aa6-5e4611763590/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd
-#EXTINF:-1 tvg-id="B0HRQV5HSL" tvg-name="International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e000e3d7-eeac-4eb4-9cb7-f6f673e4c3ab/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants
+#EXTINF:-1 tvg-id="B0HLDX22BX" tvg-name="International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbd115a8-7912-4931-ad84-4e8112c59f74/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQMYSWV3" tvg-name="T20 Gold Clash 2026 - Team Footy vs Team Cricket" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/3/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",T20 Gold Clash 2026 - Team Footy vs Team Cricket
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcf78c73ab89e0e6ef4ad2f5430d6bf8:a2aa49b85e6f40263207b06f18242ec9
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd
-#EXTINF:-1 tvg-id="B0HKQ8LF47" tvg-name="Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jzvvvvebja/out/v1/0a6f489e0b374910a6e6248e58c42d82/cenc.mpd
