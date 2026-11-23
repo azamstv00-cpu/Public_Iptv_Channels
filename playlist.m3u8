@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-23 05:44:02 Bangladesh Standard Time
-# Sources: 8 | Channels: 42 | Groups: 6
+# Generated: 2026-11-23 12:11:07 Bangladesh Standard Time
+# Sources: 8 | Channels: 38 | Groups: 6
 
 
 #SOURCE-TITLE:HimelOp
@@ -73,44 +73,36 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
+#EXTINF:-1 tvg-id="B0HPP57BJL" tvg-name="Afghanistan A vs. Hong Kong group-title="Prime Video", China" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.28acc6de-ea88-4d8c-9037-82d07f27fc1f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan A vs. Hong Kong, China
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQZ9PFTK" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong group-title="Prime Video", China" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.321c7056-5818-4d33-a26f-bff5d75c8799/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong, China
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3968540132a25dff11a7aa9d1d25b82c:df967625371e49195245672740e152d8
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd
 #EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/13/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQP94TS3" tvg-name="Nebraska-Kearney at Colorado-Colorado Springs" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a090328-ac99-4a87-b9d8-e45c072f0b74/8/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Nebraska-Kearney at Colorado-Colorado Springs
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
+#EXTINF:-1 tvg-id="B0HS2C75G9" tvg-name="World Skateboarding Tour - WST Utsunomiya - Japan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3749402-191f-404d-8069-7b38b9fd1cc3/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",World Skateboarding Tour - WST Utsunomiya - Japan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQJRDX6N" tvg-name="SPHL Hockey: Quad City Storm vs Evansville Thunderbolts" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f030de1f-15c1-4e4e-b215-1977c0a0c220/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",SPHL Hockey: Quad City Storm vs Evansville Thunderbolts
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HPSDQCJ7" tvg-name="Triton Poker Series Cyprus-$200K Triton Invitational" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.677f275b-938f-466f-84ce-63165a8d4d2a/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$200K Triton Invitational
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b53ca5be81c34f510be1995a09a91f4d:21f595066124ffc97e2e29c232243b16
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zctjh0rki/out/v1/d2b255d8f5ce425fba6b85f173b7de4d/cenc.mpd
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090555919_ENG" tvg-name="1st Test - Day 5 - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795427534~acl=/*~id=88813256682213655376534547627753~hmac=f4e89ecd4a069d5e94a2da0ed1cc16bfcf5504e8f7bb950864e6ae3b0acad2e1
-#EXTINF:-1 tvg-id="1090555919_HIN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795427534~acl=/*~id=88813256682213655376534547627753~hmac=f4e89ecd4a069d5e94a2da0ed1cc16bfcf5504e8f7bb950864e6ae3b0acad2e1
-#EXTINF:-1 tvg-id="1090555919_KAN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795427534~acl=/*~id=88813256682213655376534547627753~hmac=f4e89ecd4a069d5e94a2da0ed1cc16bfcf5504e8f7bb950864e6ae3b0acad2e1
-#EXTINF:-1 tvg-id="1090555919_TAM" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795427534~acl=/*~id=88813256682213655376534547627753~hmac=f4e89ecd4a069d5e94a2da0ed1cc16bfcf5504e8f7bb950864e6ae3b0acad2e1
-#EXTINF:-1 tvg-id="1090555919_TEL" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795427534~acl=/*~id=88813256682213655376534547627753~hmac=f4e89ecd4a069d5e94a2da0ed1cc16bfcf5504e8f7bb950864e6ae3b0acad2e1
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795439631~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=e4e88a4e2bb351c0717c9fa57b870c131f55b207e7d474b4f310b3bb207a29bd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795356619179765_ACRS26_AFG_VS_HKC_landscape_thumb.jpg" group-title="Sony Liv",Afghanistan A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2311/ENG/master.m3u8?hdnea=exp=1795456231~acl=/*~id=10980804875804117802158132495000~hmac=d5c46279192cd59583eab167487a44895f5276f410e2003df537a28577833918
+#EXTINF:-1 tvg-id="1090555960_ENG" tvg-name="Afghanistan A vs Hong Kong group-title="Sony Liv", China - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795356619179765_ACRS26_AFG_VS_HKC_landscape_thumb.jpg" group-title="Cricket",Afghanistan A vs Hong Kong, China - 23 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795456759~acl=/*~id=84301303709332957321367721300427~hmac=323d9f1a2da502a8e32d396428bf60b6059b1b9719b6ed4dcd40c9c67389f178
 
 #SOURCE-TITLE:Willow Events
 #EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/13/BOXART-16X9/en-US._UR1920 group-title="Willow Events",1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
@@ -118,4 +110,4 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
