@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-26 08:03:36 Bangladesh Standard Time
-# Sources: 8 | Channels: 38 | Groups: 4
+# Generated: 2026-11-26 17:18:53 Bangladesh Standard Time
+# Sources: 8 | Channels: 41 | Groups: 5
 
 
 #SOURCE-TITLE:HimelOp
@@ -73,45 +73,45 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #SOURCE-TITLE:Prime Video
-#EXTINF:-1 tvg-id="B0GQMSY7K5" tvg-name="Budweiser Guns 'N Hoses" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b70de9ad-5ac0-44c7-8415-a3427cecb7f9/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Budweiser Guns 'N Hoses
+#EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQ7P6L6F" tvg-name="ECHL Hockey: Norfolk Admirals vs Greensboro Gargoyles" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.43312e1b-278a-4fbe-8a44-34475951777e/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ECHL Hockey: Norfolk Admirals vs Greensboro Gargoyles
+#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd
+#EXTINF:-1 tvg-id="B0HRYV17V7" tvg-name="FIM MiniGP-2026 FIM MotoMini World Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ce9d91cf-6d10-4956-8831-788bc7a0f961/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",FIM MiniGP-2026 FIM MotoMini World Final
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HGRSYYQS" tvg-name="LIVE: BMW Australian PGA Championship Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a1df30a7-38a4-4f02-9eaf-8c0b76e1ad7d/3/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: BMW Australian PGA Championship Day 1
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABAGKU5AAAAAAAAMIGIPU4HPZISNN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprG64hBhprB-ehA2pjbG91ZGZyb250AngoZmlkOjAxYTIxNmUwLWNjZWEtNzA3Yi04MWRlLWJmM2ZmNjVjZDM5NxkBOKEFoQJ4My9saW55ZjFwenphL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlgg648sK7uX2DpG6SkaHjxCaoj6Sfdvb5LFcsXoPIJcRrk/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/linyf1pzza/out/v1/8197c8e055c94a868623653ac55c10bf/ee26dd47-ad21-4262-aeec-3f7a130265f1-cenc.mpd?aws.sessionId=6f5cc550-0986-4ffe-b556-db678eb71bce
+#EXTINF:-1 tvg-id="B0HR4LKK5S" tvg-name="Italia: Super Four Game Three" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.131c2c38-f7c2-4a0b-88ed-367b2ec66ebe/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Italia: Super Four Game Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-#EXTINF:-1 tvg-id="B0HRQG9HSP" tvg-name="PAC-12 Tournament: San Diego State vs. Colorado State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.58f16f20-10b1-402c-a403-d45233479b06/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",PAC-12 Tournament: San Diego State vs. Colorado State
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKL77CBC" tvg-name="Sydney Sixers vs. Melbourne Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e2e24507-7e49-4de5-bb95-ff3f56c8cec9/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sydney Sixers vs. Melbourne Stars
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-#EXTINF:-1 tvg-id="B0HLPZ7C1X" tvg-name="Predator Pro Billiard Series: San Antonio" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator Pro Billiard Series: San Antonio
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMKWT91B" tvg-name="Womens Big Bash League 2026 - 35th Match - Sydney Sixers Women vs Melbourne Stars Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.09e078a8-cd93-4ee2-8f3f-8ca0b46247ac/2/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 35th Match - Sydney Sixers Women vs Melbourne Stars Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HR7984JJ" tvg-name="Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d2bd6dfa-6781-4c37-8269-02e35c6c8a41/5/BOXART-16X9/en-US._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HRVKNWQG" tvg-name="UC Davis vs. Omaha" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b12ec344-ab1c-4c04-8697-d10fd9cfbb48/3/BOXART-16X9/en-US/1920x1080._UR1920 group-title="Prime Video",1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",UC Davis vs. Omaha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+
+#SOURCE-TITLE:Sony Liv
+#EXTINF:-1 tvg-id="1090556383_ENG" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795733890~acl=/*~id=31400982697986438222511991002785~hmac=05ea275eb4a55179353f43d6e25fc62d5b18b666d288a813b2ee5c28b047de88
+#EXTINF:-1 tvg-id="1090556383_HIN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795733890~acl=/*~id=31400982697986438222511991002785~hmac=05ea275eb4a55179353f43d6e25fc62d5b18b666d288a813b2ee5c28b047de88
+#EXTINF:-1 tvg-id="1090556383_KAN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795733890~acl=/*~id=31400982697986438222511991002785~hmac=05ea275eb4a55179353f43d6e25fc62d5b18b666d288a813b2ee5c28b047de88
+#EXTINF:-1 tvg-id="1090556383_TAM" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795733890~acl=/*~id=31400982697986438222511991002785~hmac=05ea275eb4a55179353f43d6e25fc62d5b18b666d288a813b2ee5c28b047de88
+#EXTINF:-1 tvg-id="1090556383_TEL" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795733890~acl=/*~id=31400982697986438222511991002785~hmac=05ea275eb4a55179353f43d6e25fc62d5b18b666d288a813b2ee5c28b047de88
